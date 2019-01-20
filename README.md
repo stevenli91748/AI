@@ -16,3 +16,4 @@
 * [人脸核身技术原理、架构与开发](https://cloud.tencent.com/info/448a8e0bbe2d3372142cf7703bbfb257.html)
 * [人工智能的图像识别过程阐述](https://cloud.tencent.com/info/48b24ab3e0a4ce82d54aca29a6e5cce0.html)
 * [美国科学家提出AGI概念，将在未来取代AI人工智能！](https://cloud.tencent.com/info/a494f3dca763bd261ed0a4b89751fd9e.html)
+* [史上最全的TENSORFLOW学习资源汇总](http://www.tensorflownews.com/2018/04/10/tensorflowdatasets/)
