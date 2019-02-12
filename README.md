@@ -18,3 +18,4 @@
 * [人工智能的图像识别过程阐述](https://cloud.tencent.com/info/48b24ab3e0a4ce82d54aca29a6e5cce0.html)
 * [美国科学家提出AGI概念，将在未来取代AI人工智能！](https://cloud.tencent.com/info/a494f3dca763bd261ed0a4b89751fd9e.html)
 * [史上最全的TENSORFLOW学习资源汇总](http://www.tensorflownews.com/2018/04/10/tensorflowdatasets/)
+* [BAT机器学习面试1000题系列（第1~305题）](https://blog.csdn.net/v_july_v/article/details/78121924)
