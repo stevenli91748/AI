@@ -5,6 +5,10 @@
 [极市开发者平台---人工智能垂直领域计算机视觉技术的开发者社区，致力于为视觉算法开发者提供一个分享创造、结识伙伴、协同互助的平台](https://bbs.cvmart.net/topics)|
 ---|
 
+[CV 开发者自我修养 | 吴恩达教程 / 笔记 / 刷题资料最全汇总](https://bbs.cvmart.net/topics/1454)|
+---|
+
+
 # AI(人工智能应用)
 # [机器学习](https://github.com/stevenli91748/AI/blob/master/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/README.md)
 # 深度学习
