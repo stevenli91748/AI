@@ -1,3 +1,8 @@
+
+[YOLO 及 Opencv 完成图像目标检测](https://bbs.cvmart.net/articles/107/yi-wen-dai-ni-xue-hui-shi-yong-yolo-ji-opencv-wan-cheng-tu-xiang-mu-biao-jian-ce-fu-yuan-ma)|
+---|
+
+
 # AI(人工智能应用)
 # [机器学习](https://github.com/stevenli91748/AI/blob/master/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/README.md)
 # 深度学习
