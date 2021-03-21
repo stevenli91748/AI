@@ -42,3 +42,4 @@
 * [美国科学家提出AGI概念，将在未来取代AI人工智能！](https://cloud.tencent.com/info/a494f3dca763bd261ed0a4b89751fd9e.html)
 * [史上最全的TENSORFLOW学习资源汇总](http://www.tensorflownews.com/2018/04/10/tensorflowdatasets/)
 * [BAT机器学习面试1000题系列（第1~305题）](https://blog.csdn.net/v_july_v/article/details/78121924)
+* [字节跳动技术大神亲授内部音视频开发笔记](https://blog.csdn.net/bugyinyin/article/details/115008136?utm_medium=distribute.pc_category.none-task-blog-hot-4.nonecase&dist_request_id=1328270.296.16163681606507485&depth_1-utm_source=distribute.pc_category.none-task-blog-hot-4.nonecase)
