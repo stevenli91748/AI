@@ -8,7 +8,7 @@
 [CV 开发者自我修养  吴恩达教程 / 笔记 / 刷题资料最全汇总](https://bbs.cvmart.net/topics/1454)|
 ---|
 
-[AR|ARCore增强现实开发从0到1](https://ke.qq.com/course/436124)|
+[AR ARCore增强现实开发从0到1](https://edu.csdn.net/agency/index/766)|
 ---|
 
 
