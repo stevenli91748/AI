@@ -31,7 +31,7 @@
 * [OpenNN类库](https://github.com/Artelnics/OpenNN " OpenNN是一个基于 C++语言编写的神经网络机器学习类库。该程序库最大的特点就是高性能（C系语言你懂的！），尤其在执行速度和内存分配方面表现突出。OpenNN项目本身已经包含了用于处理分类、回归、预测、关联分析等常见机器学习解决方案的复杂算法和实用程序")
 * [Angel机器学习平台](https://github.com/Angel-ML/angel "Angel项目由腾讯和北京大学联合开发，是一个高性能分布式机器学习平台，其基于来自腾讯的大数据进行了性能调优，具有广泛的适用性和稳定性，尤其在处理高维模型方面具有优势。Angel本身是基于 Java和 Scala开发，并且支持在Yarn和Kubernetes上运行")
 * [ H2O机器学习平台](https://github.com/h2oai/h2o-3 "H2O是一个开源的分布式、可扩展的机器学习平台。H2O兼容 R， Python， Scala， Java等多种编程语言，并且可以和当下火热的诸如Hadoop，Spark等大数据技术协同工作。H2O提供了多种流行算法的实现，比如：K均值、PCA、随机森林、深度神经网络、词向量、广义线性模型（即逻辑回归，弹性网络）等等")
-
+* [深度有趣 - 人工智能实战项目合集](https://github.com/stevenli91748/DeepInterests)
 
 
 # 有用的参考
