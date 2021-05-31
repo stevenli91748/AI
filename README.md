@@ -1,4 +1,6 @@
 
+# 
+
 [YOLO 及 Opencv 完成图像目标检测](https://bbs.cvmart.net/articles/107/yi-wen-dai-ni-xue-hui-shi-yong-yolo-ji-opencv-wan-cheng-tu-xiang-mu-biao-jian-ce-fu-yuan-ma)|[多目标追踪器：用 OpenCV 实现多目标追踪（C++/Python)](https://bbs.cvmart.net/articles/71/duo)|[计算机视觉资源汇总](https://bbs.cvmart.net/topics/3975)|
 ---|---|---|
 
@@ -48,3 +50,4 @@
 * [史上最全的TENSORFLOW学习资源汇总](http://www.tensorflownews.com/2018/04/10/tensorflowdatasets/)
 * [BAT机器学习面试1000题系列（第1~305题）](https://blog.csdn.net/v_july_v/article/details/78121924)
 * [字节跳动技术大神亲授内部音视频开发笔记](https://blog.csdn.net/bugyinyin/article/details/115008136?utm_medium=distribute.pc_category.none-task-blog-hot-4.nonecase&dist_request_id=1328270.296.16163681606507485&depth_1-utm_source=distribute.pc_category.none-task-blog-hot-4.nonecase)
+* [功能性AI术语表](file:///L:/%E3%80%90AI%E3%80%91%20%20%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD/@%E9%82%A3%E4%BA%9B%E6%83%B3%E8%A6%81%E8%BD%AC%E8%A1%8CAI%E7%9A%84%E4%BA%BA%EF%BC%9A%E9%80%81%E4%BD%A0%E4%B8%80%E4%BB%BD%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%85%A5%E9%97%A8%E6%8C%87%E5%8D%97.html)
