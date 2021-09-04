@@ -27,7 +27,9 @@
   * [机器学习实战：KNN需掌握的小技巧](https://www.toutiao.com/a6816198709840183821/?log_from=051a3f1e717ec_1630186287587)
   * []()
 
+# 基于PX4、ROS和Gazebo的无人机通用仿真平台
 
+* [基于PX4、ROS和Gazebo的无人机通用仿真平台](https://gitee.com/robin_shaun/XTDrone)
 
 # 目录
 
