@@ -30,6 +30,8 @@
 # 基于PX4、ROS和Gazebo的无人机通用仿真平台
 
 * [基于PX4、ROS和Gazebo的无人机通用仿真平台](https://gitee.com/robin_shaun/XTDrone)
+* [面向 L5 自主飞行的 eVTOL 与无人机，提供稳健强大基于激光雷达的全自主飞行开源平台](https://gitee.com/gaasdev/GAAS)
+
 
 # 目录
 
