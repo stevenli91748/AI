@@ -19,6 +19,9 @@
 
 # 机器学习实战
 
+[TensorFlow教程](https://www.yiibai.com/tensorflow)|[人工智能（AI）教程](https://www.yiibai.com/artificial-intelligence-tutorial/)|[人工智能（Python）教程](https://www.yiibai.com/ai_with_python/)|
+---|---|---|
+
   * [机器学习实战-开发环境安装](https://www.toutiao.com/a6812590209956315660/?log_from=06b42534784f6_1630185694964)
   * [机器学习实战-sklearn介绍](https://www.toutiao.com/a6812504066036335117/?log_from=cbd20d640241c_1630185758369)
   * [机器学习实战-特征选择](https://www.toutiao.com/a6813175138075279876/?log_from=413324d3a2feb_1630185792823)
@@ -29,6 +32,12 @@
   * [机器学习实战：决策树原来这么简单](https://www.toutiao.com/a6815825731738665484/?log_from=3ef486d690ae7_1630186257081)
   * [机器学习实战：KNN需掌握的小技巧](https://www.toutiao.com/a6816198709840183821/?log_from=051a3f1e717ec_1630186287587)
   * []()
+
+# 深度学习
+
+[深度学习](https://www.yiibai.com/python_deep_learning/)|
+---|
+
 
 # 基于PX4、ROS和Gazebo的无人机通用仿真平台
 
