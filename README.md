@@ -1,5 +1,9 @@
 
-# 
+# 在线书籍
+
+* [人工智能算法（卷1）： 基础算法](https://weread.qq.com/web/reader/a5132e7071a52573a51515f)
+* [人工智能算法（卷2）： 受大自然启发的算法](https://weread.qq.com/web/reader/5c2328d072220dc85c251c6)
+* [人工智能算法（卷3）： 深度学习和神经网络](https://weread.qq.com/web/reader/c093253072345962c09b59e)
 
 [YOLO 及 Opencv 完成图像目标检测](https://bbs.cvmart.net/articles/107/yi-wen-dai-ni-xue-hui-shi-yong-yolo-ji-opencv-wan-cheng-tu-xiang-mu-biao-jian-ce-fu-yuan-ma)|[多目标追踪器：用 OpenCV 实现多目标追踪（C++/Python)](https://bbs.cvmart.net/articles/71/duo)|[计算机视觉资源汇总](https://bbs.cvmart.net/topics/3975)|
 ---|---|---|
