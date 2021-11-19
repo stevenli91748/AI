@@ -5,6 +5,8 @@
 * [人工智能算法（卷2）： 受大自然启发的算法](https://weread.qq.com/web/reader/5c2328d072220dc85c251c6)
 * [人工智能算法（卷3）： 深度学习和神经网络](https://weread.qq.com/web/reader/c093253072345962c09b59e)
 * [程序员的AI书](https://weread.qq.com/web/reader/cf032a6071d38028cf0aca2)
+* [深度学习500问： AI工程师面试宝典](https://weread.qq.com/web/reader/e95323d0722d2009e956a19)
+* [图解人工智能](https://weread.qq.com/web/reader/f2e32790723973aff2e8793)
 
 
 ---
