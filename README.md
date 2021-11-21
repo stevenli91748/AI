@@ -47,8 +47,8 @@
 
 # 深度学习
 
-[深度学习](https://www.yiibai.com/python_deep_learning/)|[深度学习训练为什么需要GPU?](https://www.infoq.cn/article/yujetuzzjhlnvjwrfo5s)|
----|---|
+[深度学习](https://www.yiibai.com/python_deep_learning/)|[深度学习训练为什么需要GPU?](https://www.infoq.cn/article/yujetuzzjhlnvjwrfo5s)|[哪些 GPU 更适合深度学习和数据库？](https://www.infoq.cn/news/which-gpu-to-get-for-deep-learning?utm_source=related_read_bottom&utm_medium=article)|
+---|---|---|
 
 
 # 基于PX4、ROS和Gazebo的无人机通用仿真平台
