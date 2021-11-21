@@ -9,6 +9,8 @@
 * [图解人工智能](https://weread.qq.com/web/reader/f2e32790723973aff2e8793)
 
 
+
+
 ---
 
 [YOLO 及 Opencv 完成图像目标检测](https://bbs.cvmart.net/articles/107/yi-wen-dai-ni-xue-hui-shi-yong-yolo-ji-opencv-wan-cheng-tu-xiang-mu-biao-jian-ce-fu-yuan-ma)|[多目标追踪器：用 OpenCV 实现多目标追踪（C++/Python)](https://bbs.cvmart.net/articles/71/duo)|[计算机视觉资源汇总](https://bbs.cvmart.net/topics/3975)|
@@ -45,8 +47,8 @@
 
 # 深度学习
 
-[深度学习](https://www.yiibai.com/python_deep_learning/)|
----|
+[深度学习](https://www.yiibai.com/python_deep_learning/)|[深度学习训练为什么需要GPU?](https://www.infoq.cn/article/yujetuzzjhlnvjwrfo5s)|
+---|---|
 
 
 # 基于PX4、ROS和Gazebo的无人机通用仿真平台
