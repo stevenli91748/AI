@@ -29,6 +29,12 @@
 ---|---|
 
 
+
+# 人脸检测
+
+* [一款入门级的人脸、视频、文字检测以及识别的项目](https://github.com/vipstone/faceai)
+
+
 # 机器学习实战
 
 [TensorFlow教程](https://www.yiibai.com/tensorflow)|[人工智能（AI）教程](https://www.yiibai.com/artificial-intelligence-tutorial/)|[人工智能（Python）教程](https://www.yiibai.com/ai_with_python/)|
