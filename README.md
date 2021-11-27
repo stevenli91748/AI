@@ -7,7 +7,7 @@
 * [程序员的AI书](https://weread.qq.com/web/reader/cf032a6071d38028cf0aca2)
 * [深度学习500问： AI工程师面试宝典](https://weread.qq.com/web/reader/e95323d0722d2009e956a19)
 * [图解人工智能](https://weread.qq.com/web/reader/f2e32790723973aff2e8793)
-
+* [智能语音时代](https://weread.qq.com/web/reader/c04328b07187b522c04cc0b)
 
 
 
