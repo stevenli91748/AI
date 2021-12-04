@@ -8,6 +8,7 @@
 * [深度学习500问： AI工程师面试宝典](https://weread.qq.com/web/reader/e95323d0722d2009e956a19)
 * [图解人工智能](https://weread.qq.com/web/reader/f2e32790723973aff2e8793)
 * [智能语音时代](https://weread.qq.com/web/reader/c04328b07187b522c04cc0b)
+* [深度学习图像识别技术： 基于TensorFlow Object Detection API 和 OpenVINO 工具套件 ](https://weread.qq.com/web/reader/75d324c0724b3fed75d0c40)
 
 
 
