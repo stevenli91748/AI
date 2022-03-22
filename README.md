@@ -9,6 +9,12 @@
 * [图解人工智能](https://weread.qq.com/web/reader/f2e32790723973aff2e8793)
 * [智能语音时代](https://weread.qq.com/web/reader/c04328b07187b522c04cc0b)
 * [深度学习图像识别技术： 基于TensorFlow Object Detection API 和 OpenVINO 工具套件 ](https://weread.qq.com/web/reader/75d324c0724b3fed75d0c40)
+* [三维人脸建模方法与应用](https://weread.qq.com/web/reader/20032330717dbf6920064e8)
+* [深度学习之人脸图像处理： 核心算法与案例实战](https://weread.qq.com/web/reader/7b03279071f077ba7b0b126)
+* [动态人脸识别系统研究](https://weread.qq.com/web/reader/f3e321207159a6d0f3edb82)
+* [人脸识别算法与案例分析](https://weread.qq.com/web/reader/7da32c20723b09737daff5a)
+* [人脸出租车](https://weread.qq.com/web/reader/2f23249071807ada2f2b8c7)
+* [人脸图像处理与识别](https://weread.qq.com/web/reader/e81328a05a80d0e814c6147)
 
 
 
