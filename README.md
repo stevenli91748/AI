@@ -15,7 +15,7 @@
 * [人脸识别算法与案例分析](https://weread.qq.com/web/reader/7da32c20723b09737daff5a)
 * [人脸出租车](https://weread.qq.com/web/reader/2f23249071807ada2f2b8c7)
 * [人脸图像处理与识别](https://weread.qq.com/web/reader/e81328a05a80d0e814c6147)
-
+* [javascript深度学习---TensorFlow.js](https://weread.qq.com/web/reader/05232050723fba4a0522a7ckc51323901dc51ce410c121b)
 
 
 ---
