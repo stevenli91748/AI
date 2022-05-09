@@ -1,21 +1,27 @@
 
 # 在线书籍
 
+## 人工智能
 * [人工智能算法（卷1）： 基础算法](https://weread.qq.com/web/reader/a5132e7071a52573a51515f)
 * [人工智能算法（卷2）： 受大自然启发的算法](https://weread.qq.com/web/reader/5c2328d072220dc85c251c6)
 * [人工智能算法（卷3）： 深度学习和神经网络](https://weread.qq.com/web/reader/c093253072345962c09b59e)
 * [程序员的AI书](https://weread.qq.com/web/reader/cf032a6071d38028cf0aca2)
-* [深度学习500问： AI工程师面试宝典](https://weread.qq.com/web/reader/e95323d0722d2009e956a19)
 * [图解人工智能](https://weread.qq.com/web/reader/f2e32790723973aff2e8793)
 * [智能语音时代](https://weread.qq.com/web/reader/c04328b07187b522c04cc0b)
+
+## 深度学习
 * [深度学习图像识别技术： 基于TensorFlow Object Detection API 和 OpenVINO 工具套件 ](https://weread.qq.com/web/reader/75d324c0724b3fed75d0c40)
+* [javascript深度学习---TensorFlow.js](https://weread.qq.com/web/reader/05232050723fba4a0522a7ckc51323901dc51ce410c121b)
+* [深度学习500问： AI工程师面试宝典](https://weread.qq.com/web/reader/e95323d0722d2009e956a19)
+* [Python深度学习实战](https://weread.qq.com/web/bookDetail/fc932ec07275205cfc9f18b)
+
+## 人脸识别 
 * [三维人脸建模方法与应用](https://weread.qq.com/web/reader/20032330717dbf6920064e8)
 * [深度学习之人脸图像处理： 核心算法与案例实战](https://weread.qq.com/web/reader/7b03279071f077ba7b0b126)
 * [动态人脸识别系统研究](https://weread.qq.com/web/reader/f3e321207159a6d0f3edb82)
 * [人脸识别算法与案例分析](https://weread.qq.com/web/reader/7da32c20723b09737daff5a)
-* [人脸出租车](https://weread.qq.com/web/reader/2f23249071807ada2f2b8c7)
 * [人脸图像处理与识别](https://weread.qq.com/web/reader/e81328a05a80d0e814c6147)
-* [javascript深度学习---TensorFlow.js](https://weread.qq.com/web/reader/05232050723fba4a0522a7ckc51323901dc51ce410c121b)
+* [人脸识别与美颜算法实战： 基于Python, 机器学习与深度学习](https://weread.qq.com/web/bookDetail/6a932e80811e37963g017dd0)
 
 
 ---
