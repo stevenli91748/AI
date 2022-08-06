@@ -16,6 +16,7 @@
 * [深度学习500问： AI工程师面试宝典](https://weread.qq.com/web/reader/e95323d0722d2009e956a19)
 * [Python深度学习实战](https://weread.qq.com/web/bookDetail/fc932ec07275205cfc9f18b)
 * [PyTorch深度学习实战](https://weread.qq.com/web/reader/73d32f9072922e7d73d5a39)
+* [系统入门深度学习，从这里轻松开始---视频](https://www.youtube.com/watch?v=rl88AgG8Zxk&list=PL-fouz1yopdq4_BJZJtT_5sKM8e4Q_t9x)
 
 ## 人脸识别 
 * [三维人脸建模方法与应用](https://weread.qq.com/web/reader/20032330717dbf6920064e8)
