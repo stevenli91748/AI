@@ -50,7 +50,7 @@
 
 
 # 人脸检测
-
+* [前沿人工智能技术只停留在论文中？这个项目助你上手使用](https://mp.weixin.qq.com/s/KaJwnmipdw3hZBeBXshPmw)
 * [一款入门级的人脸、视频、文字检测以及识别的项目](https://github.com/vipstone/faceai)
 
 
