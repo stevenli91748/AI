@@ -27,6 +27,9 @@
 * [人脸识别与美颜算法实战： 基于Python, 机器学习与深度学习](https://weread.qq.com/web/bookDetail/6a932e80811e37963g017dd0)
 
 
+## 自动驾驶
+* [2022全网超全自动驾驶学习资料汇总（附800G资料包）](https://www.eet-china.com/mp/a164279.html)
+
 ---
 
 [阿里巴巴 知行动手实验室](https://start.aliyun.com/)|[巨牛的人工智能学习网站](https://www.captainai.net/jiangyu1013/)|[床长人工智能教程](https://www.cbedai.net/zimug/)|
