@@ -32,8 +32,8 @@
 * [自动驾驶算法与芯片设计 2022](https://weread.qq.com/web/reader/98932ac0813ab6e95g01723b)
 ---
 
-[阿里巴巴 知行动手实验室](https://start.aliyun.com/)|[巨牛的人工智能学习网站](https://www.captainai.net/jiangyu1013/)|[床长人工智能教程](https://www.cbedai.net/zimug/)|
----|---|---|
+[阿里巴巴 知行动手实验室](https://start.aliyun.com/)|[巨牛的人工智能学习网站](https://www.captainai.net/jiangyu1013/)|[床长人工智能教程](https://www.cbedai.net/zimug/)|[开源的人工智能零基础入门](https://zh.d2l.ai/chapter_convolutional-modern/index.html)|
+---|---|---|---|
 
 [YOLO 及 Opencv 完成图像目标检测](https://bbs.cvmart.net/articles/107/yi-wen-dai-ni-xue-hui-shi-yong-yolo-ji-opencv-wan-cheng-tu-xiang-mu-biao-jian-ce-fu-yuan-ma)|[多目标追踪器：用 OpenCV 实现多目标追踪（C++/Python)](https://bbs.cvmart.net/articles/71/duo)|[计算机视觉资源汇总](https://bbs.cvmart.net/topics/3975)|
 ---|---|---|
