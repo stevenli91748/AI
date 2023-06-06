@@ -37,6 +37,9 @@
 * [FUTUREAI](https://futureai.guru/)
 * [AI研究组](https://www.aiyjs.com/)
 * [AI 工具合辑盘点](https://sspai.com/post/78410)
+* [AI 工具集导航](https://ai-bot.cn/)
+* [google 的AI 和机器学习产品](https://cloud.google.com/products/ai?hl=zh-cn)
+
 
 
 [阿里巴巴 知行动手实验室](https://start.aliyun.com/)|[巨牛的人工智能学习网站](https://www.captainai.net/jiangyu1013/)|[床长人工智能教程](https://www.cbedai.net/zimug/)|[开源的人工智能零基础入门](https://zh.d2l.ai/chapter_convolutional-modern/index.html)|
