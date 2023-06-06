@@ -38,6 +38,7 @@
 * [AI研究组](https://www.aiyjs.com/)
 * [AI 工具合辑盘点](https://sspai.com/post/78410)
 * [AI 工具集导航---good](https://ai-bot.cn/)
+* [AI 工具箱---good](https://www.phpcms9.com/ai/opensource)
 * [google 的AI 和机器学习产品](https://cloud.google.com/products/ai?hl=zh-cn)
 
 
