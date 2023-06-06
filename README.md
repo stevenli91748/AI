@@ -34,6 +34,8 @@
 
 ## AI TOOLS
 * [AI 可把语音翻译成60多种语言](https://www.rask.ai/)
+* [FUTUREAI](https://futureai.guru/)
+* [AI研究组](https://www.aiyjs.com/)
 
 
 
