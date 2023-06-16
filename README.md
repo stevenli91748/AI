@@ -33,7 +33,7 @@
 
 ## ChatGPT &  OpenAI
 * [OpenAI Document](https://platform.openai.com/overview)
-* [完整的ChatGPT + Midjourney 教程](https://learningprompt.wiki/)
+* [免费的 Prompt Engineering 教程  完整的ChatGPT + Midjourney 教程](https://learningprompt.wiki/)
 
 
 ---
