@@ -38,6 +38,7 @@
   * ChatGPT赚钱
     * [ChatGPT + AI 生成影片 I 8分鐘製作不露臉、不剪輯、不錄音視頻在 YouTube賺錢！I ChatGPT 零本錢零門檻創業](https://www.youtube.com/watch?v=datGYHhsNko)
     * [用虛擬人賺錢 I AI 你自己！超快速製作你專屬的虛擬人自動化賺錢 I ChatGPT + Leonardo AI + D-ID + 剪映 I AI 幫你拍片在 Youtube賺錢](https://www.youtube.com/watch?v=_PJSypBpxjc)
+    * [复刻你自己！数字人虚拟主播怎么做的？比D-ID强大10倍的网站，跨境电商必备，亚马逊链接一键生成真人卖货视频，内嵌ChatGPT 多国语言](https://www.youtube.com/watch?v=urfzAqBkwLI)
 
 
 
