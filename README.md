@@ -40,6 +40,7 @@
     * [用虛擬人賺錢 I AI 你自己！超快速製作你專屬的虛擬人自動化賺錢 I ChatGPT + Leonardo AI + D-ID + 剪映 I AI 幫你拍片在 Youtube賺錢](https://www.youtube.com/watch?v=_PJSypBpxjc)
     * [复刻你自己！数字人虚拟主播怎么做的？比D-ID强大10倍的网站，跨境电商必备，亚马逊链接一键生成真人卖货视频，内嵌ChatGPT 多国语言](https://www.youtube.com/watch?v=urfzAqBkwLI)
     * [ChatGPT + Filmora 剪辑不露脸、文字转AI语音，快速完成Youtube百万点阅影片作法，初学者轻松掌握影片剪辑！超完整教学](https://www.youtube.com/watch?v=rKyq4jSkXgU)
+    * [我用ChatGPT+Midjourney零成本打造出了一个线上服装生意｜全自动化赚钱流程公开，人人都可以做](https://www.youtube.com/watch?v=_dLpmwPyl3M)
 * chatGPT写作
   * [ChatGPT Writer 自动撰写信件外挂，职场必备AI技能，写英文信件不需再担心文法或语法](https://www.youtube.com/watch?v=Xh7xTjNlDck) 
 
