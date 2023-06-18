@@ -50,6 +50,7 @@
   * [如何用 AI 给视频外语配音](https://www.youtube.com/watch?v=-vAb8wIEMU0)
   * [如何用 AI 应用 Speak 帮你练英语口语](https://www.youtube.com/watch?v=1XRKoikjags)
 * chatGPT编程
+  * [你真的会学习吗？利用ChatGPT解锁五个让你学习效率加倍的秘诀](https://www.youtube.com/watch?v=6TyxocwA1Ng)
   * [ChatGPT 如何帮你提升科研效率？](https://www.youtube.com/watch?v=MHW64JZhbcQ) 
   * [ChatGPT vs Google Bard : 人工智能哪家强? 谁更懂编程](https://www.youtube.com/watch?v=iCDjOx2RPDo)
   * [如何用 ChatGPT 帮你写 Python 爬虫？实际样例循序渐进手把手教程](https://www.youtube.com/watch?v=MHW64JZhbcQ)
