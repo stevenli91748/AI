@@ -37,7 +37,7 @@
 * ChatGPT实战
   * ChatGPT赚钱
     * [ChatGPT + AI 生成影片 I 8分鐘製作不露臉、不剪輯、不錄音視頻在 YouTube賺錢！I ChatGPT 零本錢零門檻創業](https://www.youtube.com/watch?v=datGYHhsNko)
-    * 
+    * [用虛擬人賺錢 I AI 你自己！超快速製作你專屬的虛擬人自動化賺錢 I ChatGPT + Leonardo AI + D-ID + 剪映 I AI 幫你拍片在 Youtube賺錢](https://www.youtube.com/watch?v=_PJSypBpxjc)
 
 ---
 
@@ -52,7 +52,7 @@
 * [一起用AI](https://17yongai.com/)
 * [google 的AI 和机器学习产品](https://cloud.google.com/products/ai?hl=zh-cn)
 * [AI 工具箱2---good](https://tool.aiofchina.com/)
-
+* [flow gpt---useing the best prompt](https://flowgpt.com/)
 
 [阿里巴巴 知行动手实验室](https://start.aliyun.com/)|[巨牛的人工智能学习网站](https://www.captainai.net/jiangyu1013/)|[床长人工智能教程](https://www.cbedai.net/zimug/)|[开源的人工智能零基础入门](https://zh.d2l.ai/chapter_convolutional-modern/index.html)|
 ---|---|---|---|
