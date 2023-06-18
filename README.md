@@ -43,7 +43,8 @@
     * [我用ChatGPT+Midjourney零成本打造出了一个线上服装生意｜全自动化赚钱流程公开，人人都可以做](https://www.youtube.com/watch?v=_dLpmwPyl3M)
 * chatGPT写作
   * [ChatGPT Writer 自动撰写信件外挂，职场必备AI技能，写英文信件不需再担心文法或语法](https://www.youtube.com/watch?v=Xh7xTjNlDck) 
-
+* chatGPT配音
+  * [如何用 AI 给视频外语配音](https://www.youtube.com/watch?v=-vAb8wIEMU0) 
 ---
 
 ## AI TOOLS
