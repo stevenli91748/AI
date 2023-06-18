@@ -34,7 +34,10 @@
 ## ChatGPT &  OpenAI
 * [OpenAI Document](https://platform.openai.com/overview)
 * [免费的 Prompt Engineering 教程  完整的ChatGPT + Midjourney 教程](https://learningprompt.wiki/)
-
+* ChatGPT实战
+  * ChatGPT赚钱
+    * [ChatGPT + AI 生成影片 I 8分鐘製作不露臉、不剪輯、不錄音視頻在 YouTube賺錢！I ChatGPT 零本錢零門檻創業](https://www.youtube.com/watch?v=datGYHhsNko)
+    * 
 
 ---
 
