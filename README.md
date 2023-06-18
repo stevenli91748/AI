@@ -44,7 +44,9 @@
 * chatGPT写作
   * [ChatGPT Writer 自动撰写信件外挂，职场必备AI技能，写英文信件不需再担心文法或语法](https://www.youtube.com/watch?v=Xh7xTjNlDck) 
 * chatGPT配音
-  * [如何用 AI 给视频外语配音](https://www.youtube.com/watch?v=-vAb8wIEMU0) 
+  * [如何用 AI 给视频外语配音](https://www.youtube.com/watch?v=-vAb8wIEMU0)
+* chatGPT编程
+  * [ChatGPT vs Google Bard : 人工智能哪家强? 谁更懂编程](https://www.youtube.com/watch?v=iCDjOx2RPDo)  
 ---
 
 ## AI TOOLS
