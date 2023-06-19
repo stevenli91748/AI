@@ -55,6 +55,8 @@
   * [ChatGPT 如何帮你提升科研效率？](https://www.youtube.com/watch?v=MHW64JZhbcQ) 
   * [ChatGPT vs Google Bard : 人工智能哪家强? 谁更懂编程](https://www.youtube.com/watch?v=iCDjOx2RPDo)
   * [如何用 ChatGPT 帮你写 Python 爬虫？实际样例循序渐进手把手教程](https://www.youtube.com/watch?v=MHW64JZhbcQ)
+* ChatGPT Database
+  * [阿里---Chat2DB](https://github.com/alibaba/Chat2DB)
 ---
 
 ## AI TOOLS
