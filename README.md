@@ -37,6 +37,7 @@
 * AutoGPT
   * [AutoGPT 0.3 大版本升级揭秘：极简Docker安装法＋避坑指南](https://www.youtube.com/watch?v=8lnTEPYYyeQ)
   * [怎么样在网页中使用AutoGPT。 AgentGPT初学者教程](https://www.youtube.com/watch?v=TWnhNfmgaWU)
+  * [AgentGPT 堪称人工智能的天花板！附最新的安装部署教程](https://www.youtube.com/watch?v=RTAs-QSby6c)
 * ChatGPT实战
   * ChatGPT赚钱
     * [【全自動化賺錢】8款AI工具幫你多賺100倍，打造你的自動化賺錢機器！幾小時完成1週工作，手把手帶你實操！](https://www.youtube.com/watch?v=NH51FBaRo1I)
