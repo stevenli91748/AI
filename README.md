@@ -39,6 +39,7 @@
   * [怎么样在网页中使用AutoGPT。 AgentGPT初学者教程](https://www.youtube.com/watch?v=TWnhNfmgaWU)
 * ChatGPT实战
   * ChatGPT赚钱
+    * [【全自動化賺錢】8款AI工具幫你多賺100倍，打造你的自動化賺錢機器！幾小時完成1週工作，手把手帶你實操！](https://www.youtube.com/watch?v=NH51FBaRo1I) 
     * [ChatGPT + AI 生成影片 I 8分鐘製作不露臉、不剪輯、不錄音視頻在 YouTube賺錢！I ChatGPT 零本錢零門檻創業](https://www.youtube.com/watch?v=datGYHhsNko)
     * [用虛擬人賺錢 I AI 你自己！超快速製作你專屬的虛擬人自動化賺錢 I ChatGPT + Leonardo AI + D-ID + 剪映 I AI 幫你拍片在 Youtube賺錢](https://www.youtube.com/watch?v=_PJSypBpxjc)
     * [超逼真的AI数字人，一键免费生成教程！还能克隆你自己，用这2个网站即可轻松搞定](https://www.youtube.com/watch?v=OpYYFGJPr0A)
