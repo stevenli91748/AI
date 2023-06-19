@@ -64,6 +64,8 @@
   * [如何用 ChatGPT 帮你写 Python 爬虫？实际样例循序渐进手把手教程](https://www.youtube.com/watch?v=MHW64JZhbcQ)
 * ChatGPT Database
   * [阿里---Chat2DB](https://github.com/alibaba/Chat2DB)
+* ChatGPT Office
+  * [取代 PowerPoint 的強大 AI 工具？讓我從此只想用它做簡報](https://www.youtube.com/watch?v=WSlV5PW3QP8) 
 ---
 
 ## AI TOOLS
