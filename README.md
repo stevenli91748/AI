@@ -50,6 +50,7 @@
   * [如何用 AI 给视频外语配音](https://www.youtube.com/watch?v=-vAb8wIEMU0)
   * [如何用 AI 应用 Speak 帮你练英语口语](https://www.youtube.com/watch?v=1XRKoikjags)
   * [如何用Chat GPT练就流利英语口语-让A I帮你准备雅思口语考试](https://www.youtube.com/watch?v=OFM6RwzcBqk)
+  * [神級+免費🤯  4個AI學英文工具](https://www.youtube.com/watch?v=AFx6WF4UChM)
 * chatGPT编程
   * [你真的会学习吗？利用ChatGPT解锁五个让你学习效率加倍的秘诀](https://www.youtube.com/watch?v=6TyxocwA1Ng)
   * [ChatGPT 如何帮你提升科研效率？](https://www.youtube.com/watch?v=MHW64JZhbcQ) 
