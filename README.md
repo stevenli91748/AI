@@ -39,6 +39,7 @@
   * [怎么样在网页中使用AutoGPT。 AgentGPT初学者教程](https://www.youtube.com/watch?v=TWnhNfmgaWU)
   * [AgentGPT 堪称人工智能的天花板！附最新的安装部署教程](https://www.youtube.com/watch?v=RTAs-QSby6c)
 * ChatGPT实战
+  * [诸葛老师聊AI数字人&抖音AI无人直播&AI副业](https://vip.tulingxueyuan.cn/p/t_pc/course_pc_detail/video/v_6470592fe4b0b0bc2beb09d9)
   * ChatGPT赚钱
     * [【全自動化賺錢】8款AI工具幫你多賺100倍，打造你的自動化賺錢機器！幾小時完成1週工作，手把手帶你實操！](https://www.youtube.com/watch?v=NH51FBaRo1I)
     * [七种方法让你在2023年走向财富自由。怎么样用ChatGPT赚到每月40,000美元](https://www.youtube.com/watch?v=BBpnw_pFNSk)
