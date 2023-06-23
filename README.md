@@ -68,7 +68,9 @@
 * ChatGPT Database
   * [阿里---Chat2DB](https://github.com/alibaba/Chat2DB)
 * ChatGPT Office
-  * [取代 PowerPoint 的強大 AI 工具？讓我從此只想用它做簡報](https://www.youtube.com/watch?v=WSlV5PW3QP8) 
+  * [取代 PowerPoint 的強大 AI 工具？讓我從此只想用它做簡報](https://www.youtube.com/watch?v=WSlV5PW3QP8)
+* ChatGPT 证券分析
+  * [手把手教你用ChatGPT做证券分析，半小时完成证券公司十人团队的十天的工作](https://www.youtube.com/watch?v=kWHGVjLkS2g&t=86s) 
 ---
 
 ## AI TOOLS
