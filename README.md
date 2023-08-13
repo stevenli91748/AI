@@ -36,6 +36,7 @@
 * [AI虚拟主播一键生成，比D-ID更香，仅需一张照片，一分钟就可以拥有你的定制形象](https://www.youtube.com/watch?v=JKXhJEgsU7U&t=8s)
 * [闪剪](https://shanjian.tv/?inviteId=641e817dff3c22003b2a0f2b)
 * [自媒体家园---AI工具](https://www.zmthome.com/)
+* [D-ID ----AI 数字人工具平台](https://studio.d-id.com/)
 
 ## ChatGPT &  OpenAI
 * [OpenAI Document](https://platform.openai.com/overview)
