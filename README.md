@@ -37,7 +37,8 @@
 * [闪剪](https://shanjian.tv/?inviteId=641e817dff3c22003b2a0f2b)
 * [自媒体家园---AI工具](https://www.zmthome.com/)
 * [D-ID ----AI 数字人工具平台](https://studio.d-id.com/)
-
+* [製作影片利器！KREADO-AI：免費生成無限AI影片！](https://www.youtube.com/watch?v=NUqUsen4eMA)
+  
 ## ChatGPT &  OpenAI
 * [OpenAI Document](https://platform.openai.com/overview)
 * [免费的 Prompt Engineering 教程  完整的ChatGPT + Midjourney 教程](https://learningprompt.wiki/)
