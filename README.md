@@ -66,7 +66,15 @@
 * chatGPT写作
   * [ChatGPT Writer 自动撰写信件外挂，职场必备AI技能，写英文信件不需再担心文法或语法](https://www.youtube.com/watch?v=Xh7xTjNlDck)
   * [jasper.ai---AI写作助手 可为企业用户写广告](https://www.youtube.com/watch?v=iZ0A-pyuobI)
+  * AI論文工具
+    * [AI論文工具](https://www.youtube.com/watch?v=0gdH2zWhvco)
+  * [秘塔写作猫](https://xiezuocat.com/)
+
+* AI生成绘画作图
+  * [6pen]() 
+ 
 * chatGPT配音,练习英文
+  * [期音科技]() 
   * [如何用 AI 给视频外语配音](https://www.youtube.com/watch?v=-vAb8wIEMU0)
   * [如何用 AI 应用 Speak 帮你练英语口语](https://www.youtube.com/watch?v=1XRKoikjags)
   * [如何用Chat GPT练就流利英语口语-让A I帮你准备雅思口语考试](https://www.youtube.com/watch?v=OFM6RwzcBqk)
@@ -78,8 +86,6 @@
   * [如何用 ChatGPT 帮你写 Python 爬虫？实际样例循序渐进手把手教程](https://www.youtube.com/watch?v=MHW64JZhbcQ)
 * ChatGPT Database
   * [阿里---Chat2DB](https://github.com/alibaba/Chat2DB)
-* AI論文工具
-  * [AI論文工具](https://www.youtube.com/watch?v=0gdH2zWhvco) 
 * ChatGPT Office
   * [取代 PowerPoint 的強大 AI 工具？讓我從此只想用它做簡報](https://www.youtube.com/watch?v=WSlV5PW3QP8)
 * ChatGPT 证券分析
