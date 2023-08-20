@@ -60,7 +60,8 @@
     * [ChatGPT + Filmora 剪辑不露脸、文字转AI语音，快速完成Youtube百万点阅影片作法，初学者轻松掌握影片剪辑！超完整教学](https://www.youtube.com/watch?v=rKyq4jSkXgU)
     * [我用ChatGPT+Midjourney零成本打造出了一个线上服装生意｜全自动化赚钱流程公开，人人都可以做](https://www.youtube.com/watch?v=_dLpmwPyl3M)
 * chatGPT视频
-  * [网站生成视频](https://pictory.ai/pricing) 
+  * [网站生成视频](https://pictory.ai/pricing)
+  * [如何使用ChatGPT制作视频实现月入15K美刀+埃克森数字营销](https://www.youtube.com/watch?v=jOeDnXWCoQY)
 * chatGPT写作
   * [ChatGPT Writer 自动撰写信件外挂，职场必备AI技能，写英文信件不需再担心文法或语法](https://www.youtube.com/watch?v=Xh7xTjNlDck) 
 * chatGPT配音,练习英文
