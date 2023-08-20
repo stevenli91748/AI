@@ -38,7 +38,8 @@
 * [自媒体家园---AI工具](https://www.zmthome.com/)
 * [D-ID ----AI 数字人工具平台](https://studio.d-id.com/)
 * [製作影片利器！KREADO-AI：免費生成無限AI影片！](https://www.youtube.com/watch?v=NUqUsen4eMA)
-* [从0开始捏一个自己的虚拟人，手机扫描到MetaHuman做一个自己的虚拟人](https://www.youtube.com/watch?v=bbYXJVkN0vY)  
+* [从0开始捏一个自己的虚拟人，手机扫描到MetaHuman做一个自己的虚拟人](https://www.youtube.com/watch?v=bbYXJVkN0vY)
+* [如何用ChatGPT生成虚拟数字人带货视频帮你卖货，帮你赚钱？普通小白也能轻松上手，手把手教你怎么做](https://www.youtube.com/watch?v=JLJeUiBMiV0)
 ## ChatGPT &  OpenAI
 * [OpenAI Document](https://platform.openai.com/overview)
 * [免费的 Prompt Engineering 教程  完整的ChatGPT + Midjourney 教程](https://learningprompt.wiki/)
