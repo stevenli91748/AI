@@ -63,7 +63,8 @@
   * [网站生成视频](https://pictory.ai/pricing)
   * [如何使用ChatGPT制作视频实现月入15K美刀+埃克森数字营销](https://www.youtube.com/watch?v=jOeDnXWCoQY)
 * chatGPT写作
-  * [ChatGPT Writer 自动撰写信件外挂，职场必备AI技能，写英文信件不需再担心文法或语法](https://www.youtube.com/watch?v=Xh7xTjNlDck) 
+  * [ChatGPT Writer 自动撰写信件外挂，职场必备AI技能，写英文信件不需再担心文法或语法](https://www.youtube.com/watch?v=Xh7xTjNlDck)
+  * [jasper.ai---AI写作助手 可为企业用户写广告](https://www.youtube.com/watch?v=iZ0A-pyuobI)
 * chatGPT配音,练习英文
   * [如何用 AI 给视频外语配音](https://www.youtube.com/watch?v=-vAb8wIEMU0)
   * [如何用 AI 应用 Speak 帮你练英语口语](https://www.youtube.com/watch?v=1XRKoikjags)
