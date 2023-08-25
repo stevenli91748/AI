@@ -64,6 +64,7 @@
   * [网站生成视频](https://pictory.ai/pricing)
   * [ChatGPT + Filmora 剪辑不露脸、文字转AI语音，快速完成Youtube百万点阅影片作法，初学者轻松掌握影片剪辑！超完整教学](https://www.youtube.com/watch?v=rKyq4jSkXgU&t=551s)
   * [使用ChatGPT制作一部视频是什么体验？(完整步骤介绍)](https://www.youtube.com/watch?v=fUk2LbYl73Y)
+  * [免費影片剪輯軟體！新手也能輕鬆學會用電腦剪片！一步一步教你如何做出自己的作品！剪接、配樂、變速、轉場、音量調整、自動上字幕等多種強大功能！適合新手使用的剪映電腦版！](https://www.youtube.com/watch?v=Ke43EELMDlM)
   * [赚钱工具ChatGPT+AI一帧秒创 /5分钟生成影片，全网最完整步骤介绍！](https://www.youtube.com/watch?v=F6tryOh6320)
   * [如何使用ChatGPT制作视频实现月入15K美刀+埃克森数字营销](https://www.youtube.com/watch?v=jOeDnXWCoQY)
 * chatGPT写作
