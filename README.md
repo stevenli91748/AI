@@ -63,6 +63,7 @@
 * chatGPT视频
   * [网站生成视频](https://pictory.ai/pricing)
   * [使用ChatGPT制作一部视频是什么体验？(完整步骤介绍)](https://www.youtube.com/watch?v=fUk2LbYl73Y)
+  * [赚钱工具ChatGPT+AI一帧秒创 /5分钟生成影片，全网最完整步骤介绍！](https://www.youtube.com/watch?v=F6tryOh6320)
   * [如何使用ChatGPT制作视频实现月入15K美刀+埃克森数字营销](https://www.youtube.com/watch?v=jOeDnXWCoQY)
 * chatGPT写作
   * [ChatGPT Writer 自动撰写信件外挂，职场必备AI技能，写英文信件不需再担心文法或语法](https://www.youtube.com/watch?v=Xh7xTjNlDck)
