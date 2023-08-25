@@ -62,6 +62,7 @@
     * [我用ChatGPT+Midjourney零成本打造出了一个线上服装生意｜全自动化赚钱流程公开，人人都可以做](https://www.youtube.com/watch?v=_dLpmwPyl3M)
 * chatGPT视频
   * [网站生成视频](https://pictory.ai/pricing)
+  * [ChatGPT + Filmora 剪辑不露脸、文字转AI语音，快速完成Youtube百万点阅影片作法，初学者轻松掌握影片剪辑！超完整教学](https://www.youtube.com/watch?v=rKyq4jSkXgU&t=551s)
   * [使用ChatGPT制作一部视频是什么体验？(完整步骤介绍)](https://www.youtube.com/watch?v=fUk2LbYl73Y)
   * [赚钱工具ChatGPT+AI一帧秒创 /5分钟生成影片，全网最完整步骤介绍！](https://www.youtube.com/watch?v=F6tryOh6320)
   * [如何使用ChatGPT制作视频实现月入15K美刀+埃克森数字营销](https://www.youtube.com/watch?v=jOeDnXWCoQY)
