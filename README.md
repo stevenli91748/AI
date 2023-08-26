@@ -43,6 +43,7 @@
 ## ChatGPT &  OpenAI
 * [OpenAI Document](https://platform.openai.com/overview)
 * [免费的 Prompt Engineering 教程  完整的ChatGPT + Midjourney 教程](https://learningprompt.wiki/)
+* [2个网站让你快速成为ChatGPT高手](https://www.youtube.com/watch?v=EJt31Em74sI)
 * AutoGPT
   * [AutoGPT 0.3 大版本升级揭秘：极简Docker安装法＋避坑指南](https://www.youtube.com/watch?v=8lnTEPYYyeQ)
   * [怎么样在网页中使用AutoGPT。 AgentGPT初学者教程](https://www.youtube.com/watch?v=TWnhNfmgaWU)
