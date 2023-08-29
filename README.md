@@ -76,7 +76,8 @@
   * [秘塔写作猫](https://xiezuocat.com/)
 
 * AI生成绘画作图
-  * [6pen]() 
+  * [无版权的照片and video 网站1---- pexels](https://www.pexels.com/)
+  * [[无版权的照片and video 网站2--- pixabay](https://pixabay.com/)
  
 * chatGPT配音,练习英文
   * [期音科技]() 
