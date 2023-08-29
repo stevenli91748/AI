@@ -110,7 +110,7 @@
 * [AI 工具箱2---good](https://tool.aiofchina.com/)
 * [flow gpt---useing the best prompt](https://flowgpt.com/)
 * [免费的文本转语音网站](https://ttsmp3.com/)
-* 
+  * [月赚5万美金！儿童频道AI自动生成动画视频，YouTube赚钱新思路，全新蓝海领域变现超快](https://www.youtube.com/watch?v=e834xf5ZKqc&t=29s) 
 [阿里巴巴 知行动手实验室](https://start.aliyun.com/)|[巨牛的人工智能学习网站](https://www.captainai.net/jiangyu1013/)|[床长人工智能教程](https://www.cbedai.net/zimug/)|[开源的人工智能零基础入门](https://zh.d2l.ai/chapter_convolutional-modern/index.html)|
 ---|---|---|---|
 
