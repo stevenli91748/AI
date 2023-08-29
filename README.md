@@ -80,7 +80,12 @@
   * [[无版权的照片and video 网站2--- pixabay](https://pixabay.com/)
  
 * chatGPT配音,练习英文
-  * [期音科技]() 
+  * [2023年視頻剪輯必備的五大免費無版權音樂平台| Top 5 Best No Copyright Music Sites](https://www.youtube.com/watch?v=V6KttMHmH2A)
+    * pixabay.com
+    * bensound.com
+    * youtube audio library
+    * soundcloud
+    * 爱给网
   * [如何用 AI 给视频外语配音](https://www.youtube.com/watch?v=-vAb8wIEMU0)
   * [如何用 AI 应用 Speak 帮你练英语口语](https://www.youtube.com/watch?v=1XRKoikjags)
   * [如何用Chat GPT练就流利英语口语-让A I帮你准备雅思口语考试](https://www.youtube.com/watch?v=OFM6RwzcBqk)
