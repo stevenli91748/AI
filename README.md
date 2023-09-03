@@ -80,6 +80,7 @@
   * [[无版权的照片and video 网站2--- pixabay](https://pixabay.com/)
  
 * chatGPT配音,练习英文
+  * [在手机上使用Chatgpt练习雅思英语口语（Practice speaking IELTS English on your Iphone with Chatgpt）](https://www.youtube.com/watch?v=gWYObDW7g8Y) 
   * [2023年視頻剪輯必備的五大免費無版權音樂平台| Top 5 Best No Copyright Music Sites](https://www.youtube.com/watch?v=V6KttMHmH2A)
     * pixabay.com
     * bensound.com
