@@ -8,7 +8,7 @@
 * [程序员的AI书](https://weread.qq.com/web/reader/cf032a6071d38028cf0aca2)
 * [图解人工智能](https://weread.qq.com/web/reader/f2e32790723973aff2e8793)
 * [智能语音时代](https://weread.qq.com/web/reader/c04328b07187b522c04cc0b)
-* [人工智能教程](https://www.cbedai.net/zimug/)
+* [人工智能入门在线教程](https://www.cbedai.net/zimug/)
 ## 深度学习
 * [深度学习图像识别技术： 基于TensorFlow Object Detection API 和 OpenVINO 工具套件 ](https://weread.qq.com/web/reader/75d324c0724b3fed75d0c40)
 * [javascript深度学习---TensorFlow.js](https://weread.qq.com/web/reader/05232050723fba4a0522a7ckc51323901dc51ce410c121b)
