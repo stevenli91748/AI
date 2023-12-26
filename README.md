@@ -80,7 +80,7 @@
 
 * AI生成绘画作图
   * [在线拼图工具网站](https://www.fotor.com/)
-  * 
+  * [免费的图片合成网站](https://photokit.com/editor/?lang=zh)
   * [5款修图片、拼图片、合成图片的神器](https://zhuanlan.zhihu.com/p/332490728)
   * [无版权的照片and video 网站1---- pexels](https://www.pexels.com/)
   * [[无版权的照片and video 网站2--- pixabay](https://pixabay.com/)
