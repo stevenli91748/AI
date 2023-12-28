@@ -79,6 +79,7 @@
   * [秘塔写作猫](https://xiezuocat.com/)
 
 * AI生成绘画作图
+  * [做好图](http://www.zuohaotu.com/modify-image-size.aspx)
   * [在线拼图工具网站](https://www.fotor.com/)
   * [免费的图片合成网站](https://photokit.com/editor/?lang=zh)
   * [5款修图片、拼图片、合成图片的神器](https://zhuanlan.zhihu.com/p/332490728)
