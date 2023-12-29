@@ -79,6 +79,7 @@
   * [秘塔写作猫](https://xiezuocat.com/)
 
 * AI生成绘画作图
+  * [Stable diffusion 一键生成视频！免费开源，想怎么玩就怎么玩！附完整安装教程](https://www.youtube.com/watch?v=lNGEeUCL8NE) 
   * [做好图](http://www.zuohaotu.com/modify-image-size.aspx)
   * [在线拼图工具网站](https://www.fotor.com/)
   * [免费的图片合成网站](https://photokit.com/editor/?lang=zh)
