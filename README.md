@@ -114,6 +114,7 @@
 ---
 
 ## AI TOOLS
+* [13款最強的AI工具，幫助10倍提升你的工作/賺錢效率，快速超過99%的人](https://www.youtube.com/watch?v=XZ6FRxceBp4)
 * [learn prompting with chatgpt](https://learnprompting.org/docs/intro)
 * [AI 可把语音翻译成60多种语言](https://www.rask.ai/)
 * [FUTUREAI](https://futureai.guru/)
