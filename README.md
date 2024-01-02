@@ -62,6 +62,7 @@
     * [ChatGPT + Filmora 剪辑不露脸、文字转AI语音，快速完成Youtube百万点阅影片作法，初学者轻松掌握影片剪辑！超完整教学](https://www.youtube.com/watch?v=rKyq4jSkXgU)
     * [我用ChatGPT+Midjourney零成本打造出了一个线上服装生意｜全自动化赚钱流程公开，人人都可以做](https://www.youtube.com/watch?v=_dLpmwPyl3M)
 * chatGPT视频
+  * [【AI魔法】Bing+Flexclip+剪映，零基礎也能百萬點擊！爆款秘笈到流量變現，免費工具3步驟，打造爆款YouTube影片](https://www.youtube.com/watch?v=N7vZ2KESJ5Q) 
   * [flexclip.com ----非常好的制作短视频网站，能用指定的图片，文字，音乐生成视频](https://www.flexclip.com/slideshow-maker.html) 
   * [10 个“最佳”人工智能视频生成器（2023](https://www.unite.ai/zh-CN/%E6%9C%80%E5%A5%BD%E7%9A%84%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E8%A7%86%E9%A2%91%E7%94%9F%E6%88%90%E5%99%A8/) 
   * [只需一句话，借助ChatGPT用AI生成超棒短视频，详细教程](https://www.youtube.com/watch?v=706x04ZrFTE)
