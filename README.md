@@ -77,6 +77,7 @@
   * [ChatGPT Writer 自动撰写信件外挂，职场必备AI技能，写英文信件不需再担心文法或语法](https://www.youtube.com/watch?v=Xh7xTjNlDck)
   * [jasper.ai---AI写作助手 可为企业用户写广告](https://www.youtube.com/watch?v=iZ0A-pyuobI)
   * AI論文工具
+    * [《AI写论文完全指南》1天搞定20000字，从选题到论文全攻略！chatGPT写论文教程](https://www.youtube.com/watch?v=rLpzqZXWK7g) 
     * [AI論文工具](https://www.youtube.com/watch?v=0gdH2zWhvco)
   * [秘塔写作猫](https://xiezuocat.com/)
 
