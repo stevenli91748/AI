@@ -63,6 +63,17 @@
     * [ChatGPT + Filmora 剪辑不露脸、文字转AI语音，快速完成Youtube百万点阅影片作法，初学者轻松掌握影片剪辑！超完整教学](https://www.youtube.com/watch?v=rKyq4jSkXgU)
     * [我用ChatGPT+Midjourney零成本打造出了一个线上服装生意｜全自动化赚钱流程公开，人人都可以做](https://www.youtube.com/watch?v=_dLpmwPyl3M)
 * chatGPT视频
+  * [木子AI研究所](https://www.youtube.com/@muziailab)
+  * [2024最新AI做视频完整教程，不出镜不露脸，AI做奇幻故事讲解视频---littlefish小鱼儿AI技术学堂](https://www.youtube.com/watch?v=OhUZui9aDDs)
+    * chatGPT账号购买：https://bit.ly/3R71Xuh
+    * Midjourney便宜合租：https://bit.ly/3R71Xuh
+    * Fliki.ai注册链接：https://bit.ly/487Qfqe
+    * mubert 注册链接：https://bit.ly/3QTjYfw
+ * [E-乐学 elearni](https://www.youtube.com/@elearni)
+   * [创建超真实的 AI 绝世网红 | AI Instagram 模特 | 分步教程](https://www.youtube.com/watch?v=zHxAQybpybU) 
+   * [超越现实：Wonder Studio 打造你的科幻世界, 让你的电影梦想成真 - 内测版介绍和基础教程](https://www.youtube.com/watch?v=oPnvTZCbyXQ)
+* [AI 视频换脸！史上最强最快的方法，100%成功，完全免费，无需配置，打开即可使用](https://www.youtube.com/watch?v=nSDz2W7SbOk)
+
   * [免费文本生成视频---invideo](https://invideo.io/ai/) 
   * [【AI魔法】Bing+Flexclip+剪映，零基礎也能百萬點擊！爆款秘笈到流量變現，免費工具3步驟，打造爆款YouTube影片](https://www.youtube.com/watch?v=N7vZ2KESJ5Q) 
   * [flexclip.com ----非常好的制作短视频网站，能用指定的图片，文字，音乐生成视频](https://www.flexclip.com/slideshow-maker.html) 
