@@ -74,6 +74,7 @@
    * [超越现实：Wonder Studio 打造你的科幻世界, 让你的电影梦想成真 - 内测版介绍和基础教程](https://www.youtube.com/watch?v=oPnvTZCbyXQ)
 * [AI 视频换脸！史上最强最快的方法，100%成功，完全免费，无需配置，打开即可使用](https://www.youtube.com/watch?v=nSDz2W7SbOk)
 
+  * [AI 视频工具---视频文案提取工具](https://www.meixiaosan.com/tosound.html)
   * [免费文本生成视频---invideo](https://invideo.io/ai/) 
   * [【AI魔法】Bing+Flexclip+剪映，零基礎也能百萬點擊！爆款秘笈到流量變現，免費工具3步驟，打造爆款YouTube影片](https://www.youtube.com/watch?v=N7vZ2KESJ5Q) 
   * [flexclip.com ----非常好的制作短视频网站，能用指定的图片，文字，音乐生成视频](https://www.flexclip.com/slideshow-maker.html) 
