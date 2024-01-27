@@ -31,6 +31,7 @@
 * [自动驾驶算法与芯片设计 2022](https://weread.qq.com/web/reader/98932ac0813ab6e95g01723b)
 
 ## AI虚拟主播
+* [一个人拍视频做YouTuber赚钱｜免费用ChatGPT+midjourney AI布置YouTube工作室虚拟背景](https://www.youtube.com/watch?v=k2uVltRFDKg)
 * [【零基礎入門】免費AI軟件，一鍵做逼真虛擬網紅，月賺1萬美金](https://www.youtube.com/watch?v=5l0lA9O498c)
 * [HeyGen AI虚拟主播平台](https://app.heygen.com/home?sid=brand-ggs-global&utm_source=google&utm_medium=cpc&utm_campaign=global-brand&utm_id=17160099312&utm_term=ggs&utm_content=brand-ggs-global&gclid=CjwKCAjw29ymBhAKEiwAHJbJ8op1BoE4m7ZmnVg4MdCZa4NoZmanZOC586B7g1m86Dg8_2N1FPPVBRoC9SkQAvD_BwE)
 * [AI虚拟主播一键生成，比D-ID更香，仅需一张照片，一分钟就可以拥有你的定制形象](https://www.youtube.com/watch?v=JKXhJEgsU7U&t=8s)
