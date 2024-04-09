@@ -1,6 +1,8 @@
 
 # 在线书籍
 
+* [3D视觉工坊](https://www.3dcver.com/)
+
 ## 人工智能
 * [人工智能算法（卷1）： 基础算法](https://weread.qq.com/web/reader/a5132e7071a52573a51515f)
 * [人工智能算法（卷2）： 受大自然启发的算法](https://weread.qq.com/web/reader/5c2328d072220dc85c251c6)
@@ -27,6 +29,7 @@
 
 
 ## 自动驾驶
+* [3D视觉工坊](https://www.3dcver.com/)
 * [2022全网超全自动驾驶学习资料汇总（附800G资料包）](https://www.eet-china.com/mp/a164279.html)
 * [自动驾驶算法与芯片设计 2022](https://weread.qq.com/web/reader/98932ac0813ab6e95g01723b)
 
