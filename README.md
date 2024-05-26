@@ -3,6 +3,7 @@
 
 * [3D视觉工坊](https://www.3dcver.com/)
 * [零基础AI入门指南](https://www.liaoxuefeng.com/article/1543329456062498)
+* [8个学习AI的网站（免费自学人工智能必备）](https://www.xue8nav.com/2090.html)
 ## 人工智能
 * [人工智能算法（卷1）： 基础算法](https://weread.qq.com/web/reader/a5132e7071a52573a51515f)
 * [人工智能算法（卷2）： 受大自然启发的算法](https://weread.qq.com/web/reader/5c2328d072220dc85c251c6)
