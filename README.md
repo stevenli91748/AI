@@ -1,4 +1,8 @@
 
+# AI学习路径
+  * [AI Engineer Roadmap | How I'd Learn AI in 2024](https://www.youtube.com/watch?v=MhCHrvfAXlc)
+
+
 # 在线书籍
 
 * [3D视觉工坊](https://www.3dcver.com/)
