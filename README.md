@@ -1,7 +1,7 @@
 
 # AI学习路径
   * [AI Engineer Roadmap | How I'd Learn AI in 2024](https://www.youtube.com/watch?v=MhCHrvfAXlc)
-
+  * [【耗时30天，修改上百次！】适合所有零基础人群的最全人工智能学习路线](https://www.bilibili.com/video/BV1hD4y1b7Aq/?spm_id_from=333.788.recommend_more_video.-1&vd_source=be3ac4894f8bf7883ae92030f6f7be46)
 
 # 在线书籍
 
