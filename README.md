@@ -5,7 +5,8 @@
   * [小白如何入门AI？不花一分钱，这些免费资源请收藏好](https://www.bilibili.com/video/BV1vz421X7tf/?spm_id_from=333.337.search-card.all.click&vd_source=be3ac4894f8bf7883ae92030f6f7be46)
     * [https://www.waytoagi.com/](https://www.waytoagi.com/)
     * [https://www.toolify.ai/](https://www.toolify.ai/)
-    * [https://www.aibase.com/](https://www.aibase.com/) 
+    * [https://www.aibase.com/](https://www.aibase.com/)
+  * [【挑战不可能】超强AI大模型零基础入门实战教程，AI技术专家手把手带你从零基础/小](https://www.bilibili.com/video/BV1rQe6eFE4a?spm_id_from=333.788.recommend_more_video.10&vd_source=be3ac4894f8bf7883ae92030f6f7be46)
 # 在线书籍
 
 * [3D视觉工坊](https://www.3dcver.com/)
