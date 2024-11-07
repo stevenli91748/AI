@@ -20,6 +20,7 @@
 * [智能语音时代](https://weread.qq.com/web/reader/c04328b07187b522c04cc0b)
 * [人工智能入门在线教程](https://www.cbedai.net/zimug/)
 ## 深度学习
+* [尚硅谷AI人工智能视频教程(机器学习&深度学习)](https://www.bilibili.com/video/BV1zb411P7iV/?spm_id_from=333.337.search-card.all.click&vd_source=be3ac4894f8bf7883ae92030f6f7be46)
 * [深度学习图像识别技术： 基于TensorFlow Object Detection API 和 OpenVINO 工具套件 ](https://weread.qq.com/web/reader/75d324c0724b3fed75d0c40)
 * [javascript深度学习---TensorFlow.js](https://weread.qq.com/web/reader/05232050723fba4a0522a7ckc51323901dc51ce410c121b)
 * [深度学习500问： AI工程师面试宝典](https://weread.qq.com/web/reader/e95323d0722d2009e956a19)
