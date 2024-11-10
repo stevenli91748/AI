@@ -55,6 +55,7 @@
 * [从0开始捏一个自己的虚拟人，手机扫描到MetaHuman做一个自己的虚拟人](https://www.youtube.com/watch?v=bbYXJVkN0vY)
 * [如何用ChatGPT生成虚拟数字人带货视频帮你卖货，帮你赚钱？普通小白也能轻松上手，手把手教你怎么做](https://www.youtube.com/watch?v=JLJeUiBMiV0)
 ## ChatGPT &  OpenAI
+* [Spring Boot + OpenAI ChatGPT API Integration | JavaTechie](https://www.youtube.com/watch?v=HlDkuFy8xRM)
 * [尚硅谷chatgpt](https://www.youtube.com/watch?v=GrkivZ4bycs&list=PLmOn9nNkQxJGDzznY4icyNgyEKM91Tfvy)
 * [ChatGPT Full Course For 2023 | Complete ChatGPT Full Course](https://www.youtube.com/watch?v=tjKw_yF6s5k)
 * [OpenAI Document](https://platform.openai.com/overview)
