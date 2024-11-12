@@ -55,9 +55,11 @@
 * [从0开始捏一个自己的虚拟人，手机扫描到MetaHuman做一个自己的虚拟人](https://www.youtube.com/watch?v=bbYXJVkN0vY)
 * [如何用ChatGPT生成虚拟数字人带货视频帮你卖货，帮你赚钱？普通小白也能轻松上手，手把手教你怎么做](https://www.youtube.com/watch?v=JLJeUiBMiV0)
 ## ChatGPT &  OpenAI
-* [不限量 无门槛 | 免费获取ChatGPT API | gpt-4o-mini API免费用 | 适用于沉浸式翻译等应用](https://www.youtube.com/watch?v=lUWFK70hYGw)
-* [Spring Boot + OpenAI ChatGPT API Integration | JavaTechie](https://www.youtube.com/watch?v=HlDkuFy8xRM)
-* [尚硅谷chatgpt](https://www.youtube.com/watch?v=GrkivZ4bycs&list=PLmOn9nNkQxJGDzznY4icyNgyEKM91Tfvy)
+* ChatGPT编程
+  * [【全网首发】从0到1带你实现一个SpringAI 智能航空助手项目实战，2025最新内部版](https://www.bilibili.com/video/BV1Tjm2YvErt/?spm_id_from=333.337.search-card.all.click&vd_source=be3ac4894f8bf7883ae92030f6f7be46)
+  * [不限量 无门槛 | 免费获取ChatGPT API | gpt-4o-mini API免费用 | 适用于沉浸式翻译等应用](https://www.youtube.com/watch?v=lUWFK70hYGw)
+  * [Spring Boot + OpenAI ChatGPT API Integration | JavaTechie](https://www.youtube.com/watch?v=HlDkuFy8xRM)
+  * [尚硅谷chatgpt](https://www.youtube.com/watch?v=GrkivZ4bycs&list=PLmOn9nNkQxJGDzznY4icyNgyEKM91Tfvy)
 * [ChatGPT Full Course For 2023 | Complete ChatGPT Full Course](https://www.youtube.com/watch?v=tjKw_yF6s5k)
 * [OpenAI Document](https://platform.openai.com/overview)
 * [免费的 Prompt Engineering 教程  完整的ChatGPT + Midjourney 教程](https://learningprompt.wiki/)
