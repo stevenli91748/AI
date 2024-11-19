@@ -10,6 +10,7 @@
   * [【挑战不可能】超强AI大模型零基础入门实战教程，AI技术专家手把手带你从零基础/小](https://www.bilibili.com/video/BV1rQe6eFE4a?spm_id_from=333.788.recommend_more_video.10&vd_source=be3ac4894f8bf7883ae92030f6f7be46)
 
 # 数学
+  * [强推！这绝对是全站最全的人工智能入门数学系列课程！一小时带你掌握机器学习必备的数学基础！微积分、线性代数、泰勒公式、方差、假设分析...等多个高等数学知识点！](https://www.bilibili.com/video/BV1XGUsYQEvs/?spm_id_from=333.337.search-card.all.click&vd_source=be3ac4894f8bf7883ae92030f6f7be46)
   * 高等数学
     * [高等数学---同济版-宋浩老师](https://www.youtube.com/watch?v=FgY912VvdYw&list=PL4zrv2vhJAeDT4iJSzQ9AfU12a8JybtHp) 
   * 线性代数
