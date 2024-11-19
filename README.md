@@ -8,6 +8,14 @@
     * [https://www.toolify.ai/](https://www.toolify.ai/)
     * [https://www.aibase.com/](https://www.aibase.com/)
   * [【挑战不可能】超强AI大模型零基础入门实战教程，AI技术专家手把手带你从零基础/小](https://www.bilibili.com/video/BV1rQe6eFE4a?spm_id_from=333.788.recommend_more_video.10&vd_source=be3ac4894f8bf7883ae92030f6f7be46)
+
+# 数学
+  * 高等数学
+    * [高等数学---同济版-宋浩老师](https://www.youtube.com/watch?v=FgY912VvdYw&list=PL4zrv2vhJAeDT4iJSzQ9AfU12a8JybtHp) 
+  * 线性代数
+  * 微积分
+  * 统计概率
+
 # 在线书籍
 
 * [3D视觉工坊](https://www.3dcver.com/)
