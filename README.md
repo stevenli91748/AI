@@ -14,6 +14,7 @@
     * [高等数学---同济版-宋浩老师](https://www.youtube.com/watch?v=FgY912VvdYw&list=PL4zrv2vhJAeDT4iJSzQ9AfU12a8JybtHp) 
   * 线性代数
   * 微积分
+    * [普林斯顿微积分读本（修订版）》【宋浩】](https://www.bilibili.com/cheese/play/ss587?query_from=0&search_id=3537487613518447946&search_query=%E5%BE%AE%E7%A7%AF%E5%88%86&csource=common_hpsearch_null_null&spm_id_from=333.337.search-card.all.click) 
   * 统计概率
     * [概率论与数理统计---宋浩老师](https://www.youtube.com/watch?v=YWhtvSq5bXs&list=PL4zrv2vhJAeBpl_spgWJZE9RvSsW8aZ7n)  
 
