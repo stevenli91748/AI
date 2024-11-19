@@ -15,6 +15,7 @@
   * 线性代数
   * 微积分
   * 统计概率
+    * [概率论与数理统计---宋浩老师](https://www.youtube.com/watch?v=YWhtvSq5bXs&list=PL4zrv2vhJAeBpl_spgWJZE9RvSsW8aZ7n)  
 
 # 在线书籍
 
