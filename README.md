@@ -22,6 +22,10 @@
   * 4 统计概率
     * [概率论与数理统计---宋浩老师](https://www.youtube.com/watch?v=YWhtvSq5bXs&list=PL4zrv2vhJAeBpl_spgWJZE9RvSsW8aZ7n)  
 
+# spring AI编程
+  * [Spring AI 生态开发快速上手- OpenAI、Ollama、LLama3、RAG等](https://www.bilibili.com/video/BV11b421h7uX?spm_id_from=333.788.recommend_more_video.-1&vd_source=be3ac4894f8bf7883ae92030f6f7be46)
+  * [Spring AI整合OpenAI和Ollama本地大模型](https://www.bilibili.com/video/BV1Wz421k71w?spm_id_from=333.788.videopod.sections&vd_source=be3ac4894f8bf7883ae92030f6f7be46)
+
 # 在线书籍
 
 * [3D视觉工坊](https://www.3dcver.com/)
