@@ -45,6 +45,8 @@
     * [https://www.aibase.com/](https://www.aibase.com/)
   * [【挑战不可能】超强AI大模型零基础入门实战教程，AI技术专家手把手带你从零基础/小](https://www.bilibili.com/video/BV1rQe6eFE4a?spm_id_from=333.788.recommend_more_video.10&vd_source=be3ac4894f8bf7883ae92030f6f7be46)
   * [十三分鐘略懂 AI 技術：機器學習、深度學習技術原理及延伸應用](https://www.youtube.com/watch?v=UGdG4WpluJ8)
+  * [这绝对是B站2025年人工智能入门的天花板教程](https://www.bilibili.com/video/BV1mSq2Y1ER5?spm_id_from=333.788.recommend_more_video.1&vd_source=be3ac4894f8bf7883ae92030f6f7be46)
+  * []()
 
 # 数学
   * [强推！这绝对是全站最全的人工智能入门数学系列课程！一小时带你掌握机器学习必备的数学基础！微积分、线性代数、泰勒公式、方差、假设分析...等多个高等数学知识点！](https://www.bilibili.com/video/BV1XGUsYQEvs/?spm_id_from=333.337.search-card.all.click&vd_source=be3ac4894f8bf7883ae92030f6f7be46)
