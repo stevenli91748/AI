@@ -1,6 +1,42 @@
+数学与统计学基础：
 
+线性代数：矩阵运算、特征值与特征向量等。
+概率论与统计学：概率分布、假设检验、最大似然估计、贝叶斯推断等。
+微积分：梯度求解和优化理论。
+机器学习入门：
+
+学习监督学习、无监督学习和强化学习的基本原理、模型及其应用场景。
+掌握经典机器学习算法，如线性回归、逻辑回归、决策树、随机森林、支持向量机（SVM）、K近邻（KNN）等。
+深度学习基础：
+
+学习神经网络的基本结构，包括全连接网络、卷积神经网络（CNN）、循环神经网络（RNN）、长短时记忆网络（LSTM）、变分自编码器（VAE）和生成对抗网络（GAN）等。
+学习深度学习框架，例如TensorFlow、PyTorch或Keras，并通过实践项目熟悉它们的API和工作流程。
+大模型技术栈：
+
+了解并研究大规模预训练模型，如BERT、GPT、Transformer家族和其他前沿的大规模语言模型。
+学习如何利用大规模数据集进行模型训练、微调以及推理部署。
+学习分布式训练、模型并行化和计算优化的相关技术。
+自然语言处理（NLP）：
+
+学习文本处理的基本技术，包括词嵌入、序列标注、语义分析等。
+理解和应用现代NLP任务中常见的预处理方法、评估指标和最佳实践。
+实践项目：
+
+完成一些基于Java或者Python（鉴于AI领域的主流是Python）的机器学习和深度学习实战项目，以加深对理论知识的理解，并积累实践经验。
+参与开源项目，或者参加Kaggle比赛，锻炼实际问题解决能力。
+持续跟进最新进展：
+
+关注AI领域最新的研究成果和技术动态，如阅读论文、参加研讨会或在线课程。
+软技能提升：
+
+提高数据分析能力，理解业务场景并将AI技术应用于实际问题。
+学习云计算平台上的服务，如阿里云、AWS或Google Cloud的AI/ML服务，以便将模型部署到生产环境。
+
+                        
+原文链接：https://blog.csdn.net/weixin_45526788/article/details/135744615
 # AI学习路径
   * [重磅 | 完备的 AI 学习路线，最详细的资源整理！](https://github.com/apachecn/ai-roadmap/blob/master/ai-union-201904/README.md)
+  * []()
   * [AI Engineer Roadmap | How I'd Learn AI in 2024](https://www.youtube.com/watch?v=MhCHrvfAXlc)
   * [【耗时30天，修改上百次！】适合所有零基础人群的最全人工智能学习路线](https://www.bilibili.com/video/BV1hD4y1b7Aq/?spm_id_from=333.788.recommend_more_video.-1&vd_source=be3ac4894f8bf7883ae92030f6f7be46)
   * [小白如何入门AI？不花一分钱，这些免费资源请收藏好](https://www.bilibili.com/video/BV1vz421X7tf/?spm_id_from=333.337.search-card.all.click&vd_source=be3ac4894f8bf7883ae92030f6f7be46)
