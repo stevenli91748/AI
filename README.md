@@ -51,7 +51,8 @@
 # 数学
   * [强推！这绝对是全站最全的人工智能入门数学系列课程！一小时带你掌握机器学习必备的数学基础！微积分、线性代数、泰勒公式、方差、假设分析...等多个高等数学知识点！](https://www.bilibili.com/video/BV1XGUsYQEvs/?spm_id_from=333.337.search-card.all.click&vd_source=be3ac4894f8bf7883ae92030f6f7be46)
 
- * 推荐的数学学习逻辑顺序  
+ * 推荐的数学学习逻辑顺序
+  * 0 [【160集全集】美国数学课程-从小学到大学-中英cc字幕-数学英语](https://www.bilibili.com/video/BV1va411P7Ry?spm_id_from=333.788.videopod.episodes&vd_source=be3ac4894f8bf7883ae92030f6f7be46&p=112)
   * 1 线性代数
     * [《线性代数》教学视频 宋浩老师（2024年更新）](https://www.bilibili.com/video/BV1aW411Q7x1/?spm_id_from=333.337.search-card.all.click&vd_source=be3ac4894f8bf7883ae92030f6f7be46) 
   * 2 微积分
