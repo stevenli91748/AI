@@ -34,6 +34,15 @@
 
                         
 原文链接：https://blog.csdn.net/weixin_45526788/article/details/135744615
+
+# [java 程序员转到AI大模型需要学习的资料](https://www.youtube.com/shorts/Nq8iGrVm7X0)
+  * 三大框架
+    * 1 Spring AI
+    * 2 Langchain4j
+    * 3 JLlama
+  * 两大技能
+    * RAG
+    * Fine tuning  
 # AI学习路径
   * [重磅 | 完备的 AI 学习路线，最详细的资源整理！](https://github.com/apachecn/ai-roadmap/blob/master/ai-union-201904/README.md)
   * []()
