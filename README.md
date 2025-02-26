@@ -44,6 +44,7 @@
     * RAG
     * Fine tuning  
 # AI学习路径
+  * [8年经验告诉你，学AI的顺序千万别搞反了！初学者必看，少走弯路](https://www.bilibili.com/video/BV1Ya4heiEUq/?spm_id_from=333.337.search-card.all.click&vd_source=2e815885181376606e6c241ba03c8907)
   * [聚客AI官网](https://www.guangjuke.com/)
     * [重磅 【聚客AI】 大模型项目实战，顶尖的大模型项目，老师非常有经验](https://www.bilibili.com/video/BV1vKKpefEfC/?spm_id_from=333.337.search-card.all.click)
   * [重磅 | 完备的 AI 学习路线，最详细的资源整理！](https://github.com/apachecn/ai-roadmap/blob/master/ai-union-201904/README.md)
