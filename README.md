@@ -60,6 +60,8 @@
   * [这绝对是B站2025年人工智能入门的天花板教程](https://www.bilibili.com/video/BV1mSq2Y1ER5?spm_id_from=333.788.recommend_more_video.1&vd_source=be3ac4894f8bf7883ae92030f6f7be46)
   * [【全748集】清华大佬终于把AI大模型（LLM）讲清楚了！通俗易懂，2024最新内部版](https://www.bilibili.com/video/BV1rS411F735?spm_id_from=333.788.player.switch&vd_source=be3ac4894f8bf7883ae92030f6f7be46&p=3)
 
+# 大模型GPU硬件配置
+  * [【2025版】大模型GPU硬件配置保姆级指南｜一站式解决深度学习&大模型硬件问题](https://www.bilibili.com/video/BV1VFqZYSEoj/?source_id=4331&resource_id=__RESOURCEID__&creative_id=206489306&linked_creative_id=206489306&track_id=pbaes.sJSebqmPoByN1JYjnug3d60W7zpAsXHQyUwhtQYIUIZ5GyA_Ny1s4aXnffz4VwozvpHvovrkmLhkVfYsPJ2K_rVThBv1M-3XnaQUUUACMvndLswqyRE9RjI5c-C6Z9fmsH3d8sGOT1JNbQDnOgQPJnoW5HzaO3pVgDL_cRV2Y3DHDPhtHmi7f81m9QVriu5XlTGVdQ60LUrX9A1Q_xOU-g&from_spmid=__FROMSPMID__&trackid=__FROMTRACKID__&request_id=1740551654983q172a25a173a54q2&caid=__CAID__&vd_source=2e815885181376606e6c241ba03c8907)
 # 数学
   * [强推！这绝对是全站最全的人工智能入门数学系列课程！一小时带你掌握机器学习必备的数学基础！微积分、线性代数、泰勒公式、方差、假设分析...等多个高等数学知识点！](https://www.bilibili.com/video/BV1XGUsYQEvs/?spm_id_from=333.337.search-card.all.click&vd_source=be3ac4894f8bf7883ae92030f6f7be46)
 
