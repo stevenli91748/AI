@@ -330,6 +330,7 @@ AI人工智能整体分层架构的核心组成
 
 
 # 有用的参考
+* [人工智能的历史与未来，主要划分为了哪三个阶段](https://geek.csdn.net/6588ee8e28cf1d21b51fbfaa.html?dp_token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6ODA0Nzg1MywiZXhwIjoxNzQxMTU3NjQ2LCJpYXQiOjE3NDA1NTI4NDYsInVzZXJuYW1lIjoid2VpeGluXzQyMjc3MTg3In0.IYoX4aA5WjyMNnHZ4ZpOJUcM78TpdLsJUloo3dzVlPI&spm=1001.2101.3001.6650.18&utm_medium=distribute.pc_relevant.none-task-blog-2%7Edefault%7EBlogCommendFromBaidu%7Eactivity-18-87891394-blog-144274537.235%5Ev43%5Epc_blog_bottom_relevance_base5&depth_1-utm_source=distribute.pc_relevant.none-task-blog-2%7Edefault%7EBlogCommendFromBaidu%7Eactivity-18-87891394-blog-144274537.235%5Ev43%5Epc_blog_bottom_relevance_base5&utm_relevant_index=22)
 * [WebRTC开发者社区---为开发者提供最新最全的WebRTC资料](https://webrtc.ren/catalog?id=1)
 * [重磅 | 完备的 AI 学习路线，最详细的资源整理！](https://mp.weixin.qq.com/s/y8LoEVAB0lzBJ3JkVHnZlw)
 * [如何用3个月零基础入门「机器学习」](https://zhuanlan.zhihu.com/p/29704017?utm_source=wechat_session&utm_medium=social&utm_oi=991812777480134656)
