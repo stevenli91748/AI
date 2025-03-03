@@ -9,7 +9,7 @@
     * 1 Spring AI编程
         * [Spring AI 生态开发快速上手- OpenAI、Ollama、LLama3、RAG等](https://www.bilibili.com/video/BV11b421h7uX?spm_id_from=333.788.recommend_more_video.-1&vd_source=be3ac4894f8bf7883ae92030f6f7be46)
         * [Spring AI整合OpenAI和Ollama本地大模型](https://www.bilibili.com/video/BV1Wz421k71w?spm_id_from=333.788.videopod.sections&vd_source=be3ac4894f8bf7883ae92030f6f7be46)
- 
+        * [【全网首发】从0到1带你实现一个SpringAI 智能航空助手项目实战，2025最新内部版](https://www.bilibili.com/video/BV1Tjm2YvErt/?spm_id_from=333.337.search-card.all.click&vd_source=be3ac4894f8bf7883ae92030f6f7be46)
     * 2 Langchain4j
     * 3 JLlama
   * 两大技能
