@@ -6,8 +6,7 @@
 
 # [java 程序员转到AI大模型需要学习的资料](https://www.youtube.com/shorts/Nq8iGrVm7X0)
   * 三大框架
-    * 1 Spring AI
-        spring AI编程
+    * 1 Spring AI编程
         * [Spring AI 生态开发快速上手- OpenAI、Ollama、LLama3、RAG等](https://www.bilibili.com/video/BV11b421h7uX?spm_id_from=333.788.recommend_more_video.-1&vd_source=be3ac4894f8bf7883ae92030f6f7be46)
         * [Spring AI整合OpenAI和Ollama本地大模型](https://www.bilibili.com/video/BV1Wz421k71w?spm_id_from=333.788.videopod.sections&vd_source=be3ac4894f8bf7883ae92030f6f7be46)
  
