@@ -3,6 +3,7 @@
 线性代数：矩阵运算、特征值与特征向量等。
 概率论与统计学：概率分布、假设检验、最大似然估计、贝叶斯推断等。
 微积分：梯度求解和优化理论。
+
 机器学习入门：
 
 学习监督学习、无监督学习和强化学习的基本原理、模型及其应用场景。
@@ -16,10 +17,12 @@
 了解并研究大规模预训练模型，如BERT、GPT、Transformer家族和其他前沿的大规模语言模型。
 学习如何利用大规模数据集进行模型训练、微调以及推理部署。
 学习分布式训练、模型并行化和计算优化的相关技术。
+
 自然语言处理（NLP）：
 
 学习文本处理的基本技术，包括词嵌入、序列标注、语义分析等。
 理解和应用现代NLP任务中常见的预处理方法、评估指标和最佳实践。
+
 实践项目：
 
 完成一些基于Java或者Python（鉴于AI领域的主流是Python）的机器学习和深度学习实战项目，以加深对理论知识的理解，并积累实践经验。
@@ -33,16 +36,8 @@
 学习云计算平台上的服务，如阿里云、AWS或Google Cloud的AI/ML服务，以便将模型部署到生产环境。
 
                         
-原文链接：https://blog.csdn.net/weixin_45526788/article/details/135744615
 
-# [java 程序员转到AI大模型需要学习的资料](https://www.youtube.com/shorts/Nq8iGrVm7X0)
-  * 三大框架
-    * 1 Spring AI
-    * 2 Langchain4j
-    * 3 JLlama
-  * 两大技能
-    * RAG
-    * Fine tuning  
+
 # AI学习路径
   * [AI大模型学习路线](https://www.bilibili.com/video/BV15Y6JYWE6u/?spm_id_from=333.337.search-card.all.click&vd_source=2e815885181376606e6c241ba03c8907)
   * [一个月吃透人工智能学习路线---唐宇迪](https://www.bilibili.com/video/BV1p4NGerEwJ?spm_id_from=333.788.videopod.episodes&vd_source=2e815885181376606e6c241ba03c8907&p=2)
@@ -62,8 +57,7 @@
   * [这绝对是B站2025年人工智能入门的天花板教程](https://www.bilibili.com/video/BV1mSq2Y1ER5?spm_id_from=333.788.recommend_more_video.1&vd_source=be3ac4894f8bf7883ae92030f6f7be46)
   * [【全748集】清华大佬终于把AI大模型（LLM）讲清楚了！通俗易懂，2024最新内部版](https://www.bilibili.com/video/BV1rS411F735?spm_id_from=333.788.player.switch&vd_source=be3ac4894f8bf7883ae92030f6f7be46&p=3)
   * [DeepLearnAI---FREE COURSE](https://www.deeplearning.ai/short-courses/langchain-for-llm-application-development/)
-# 大模型GPU硬件配置
-  * [【2025版】大模型GPU硬件配置保姆级指南｜一站式解决深度学习&大模型硬件问题](https://www.bilibili.com/video/BV1VFqZYSEoj/?source_id=4331&resource_id=__RESOURCEID__&creative_id=206489306&linked_creative_id=206489306&track_id=pbaes.sJSebqmPoByN1JYjnug3d60W7zpAsXHQyUwhtQYIUIZ5GyA_Ny1s4aXnffz4VwozvpHvovrkmLhkVfYsPJ2K_rVThBv1M-3XnaQUUUACMvndLswqyRE9RjI5c-C6Z9fmsH3d8sGOT1JNbQDnOgQPJnoW5HzaO3pVgDL_cRV2Y3DHDPhtHmi7f81m9QVriu5XlTGVdQ60LUrX9A1Q_xOU-g&from_spmid=__FROMSPMID__&trackid=__FROMTRACKID__&request_id=1740551654983q172a25a173a54q2&caid=__CAID__&vd_source=2e815885181376606e6c241ba03c8907)
+
 # 数学
   * [强推！这绝对是全站最全的人工智能入门数学系列课程！一小时带你掌握机器学习必备的数学基础！微积分、线性代数、泰勒公式、方差、假设分析...等多个高等数学知识点！](https://www.bilibili.com/video/BV1XGUsYQEvs/?spm_id_from=333.337.search-card.all.click&vd_source=be3ac4894f8bf7883ae92030f6f7be46)
 
@@ -77,10 +71,6 @@
     * [高等数学---同济版-宋浩老师](https://www.youtube.com/watch?v=FgY912VvdYw&list=PL4zrv2vhJAeDT4iJSzQ9AfU12a8JybtHp) 
   * 4 统计概率
     * [概率论与数理统计---宋浩老师](https://www.youtube.com/watch?v=YWhtvSq5bXs&list=PL4zrv2vhJAeBpl_spgWJZE9RvSsW8aZ7n)  
-
-# spring AI编程
-  * [Spring AI 生态开发快速上手- OpenAI、Ollama、LLama3、RAG等](https://www.bilibili.com/video/BV11b421h7uX?spm_id_from=333.788.recommend_more_video.-1&vd_source=be3ac4894f8bf7883ae92030f6f7be46)
-  * [Spring AI整合OpenAI和Ollama本地大模型](https://www.bilibili.com/video/BV1Wz421k71w?spm_id_from=333.788.videopod.sections&vd_source=be3ac4894f8bf7883ae92030f6f7be46)
 
 # 在线书籍
 
@@ -131,7 +121,7 @@
 * [如何用ChatGPT生成虚拟数字人带货视频帮你卖货，帮你赚钱？普通小白也能轻松上手，手把手教你怎么做](https://www.youtube.com/watch?v=JLJeUiBMiV0)
 ## ChatGPT &  OpenAI
 * ChatGPT编程
-  * [【全网首发】从0到1带你实现一个SpringAI 智能航空助手项目实战，2025最新内部版](https://www.bilibili.com/video/BV1Tjm2YvErt/?spm_id_from=333.337.search-card.all.click&vd_source=be3ac4894f8bf7883ae92030f6f7be46)
+  
   * [不限量 无门槛 | 免费获取ChatGPT API | gpt-4o-mini API免费用 | 适用于沉浸式翻译等应用](https://www.youtube.com/watch?v=lUWFK70hYGw)
   * [Spring Boot + OpenAI ChatGPT API Integration | JavaTechie](https://www.youtube.com/watch?v=HlDkuFy8xRM)
   * [尚硅谷chatgpt](https://www.youtube.com/watch?v=GrkivZ4bycs&list=PLmOn9nNkQxJGDzznY4icyNgyEKM91Tfvy)
@@ -241,6 +231,9 @@
 * [flow gpt---useing the best prompt](https://flowgpt.com/)
 * [免费的文本转语音网站](https://ttsmp3.com/)
   * [月赚5万美金！儿童频道AI自动生成动画视频，YouTube赚钱新思路，全新蓝海领域变现超快](https://www.youtube.com/watch?v=e834xf5ZKqc&t=29s) 
+
+
+
 [阿里巴巴 知行动手实验室](https://start.aliyun.com/)|[巨牛的人工智能学习网站](https://www.captainai.net/jiangyu1013/)|[床长人工智能教程](https://www.cbedai.net/zimug/)|[开源的人工智能零基础入门](https://zh.d2l.ai/chapter_convolutional-modern/index.html)|
 ---|---|---|---|
 
@@ -296,6 +289,15 @@
 * [基于PX4、ROS和Gazebo的无人机通用仿真平台](https://gitee.com/robin_shaun/XTDrone)
 * [面向 L5 自主飞行的 eVTOL 与无人机，提供稳健强大基于激光雷达的全自主飞行开源平台](https://gitee.com/gaasdev/GAAS)
 
+AI人工智能整体分层架构的核心组成
+1. **数据层**：数据是AI的基石，数据层负责数据的采集、清洗、存储和管理。在整体分层架构中，数据层扮演着至关重要的角色，为上层的算法和模型提供必要的数据支持。
+
+2. **算法层**：算法层包括各种AI算法和模型，负责数据的处理、分析和学习。在整体分层架构中，算法层是AI系统的核心，决定了系统的智能水平和性能表现。
+3. **应用层**：应用层是用户直接接触到的部分，包括各类AI应用程序和服务。在整体分层架构中，应用层负责将算法层的输出转化为可视化、易用的形式，满足用户需求。
+
+4. **管理与优化层**：管理与优化层负责监控和管理整个AI系统的运行状态，对系统进行优化和调整。在整体分层架构中，管理与优化层起着保障系统稳定性和性能的重要作用。
+
+
 
 # 目录
 
@@ -307,6 +309,7 @@
       * 卷积神经网络---一个主要用来识别和理解图像、视频和音频数据的神经网络，因为它能够处理密集的数据，比如数百万像素的图像或数千个音频文件样本
       * 递归神经网络---一种用于自然语言处理的神经网络，它可以周期性地、连续地分析数据，这意味着它可以处理像单词或句子这样的数据，同时在句子中保持它们的顺序和上下文
       * 长短期记忆网络---一种周期性的神经网络的变体，它的是用来根据数据来保留结构化的信息。例如，RNN可以识别句子中的所有名词和形容词，检查它们是否被正确使用，但LSTM可以记住一本书的情节 
+  *  大模型 
   * 人脸识别原理 + OpenCV计算机视觉
   * 知识图谱
  
