@@ -19,3 +19,8 @@
 # 大模型GPU硬件配置
   * [【2025版】大模型GPU硬件配置保姆级指南｜一站式解决深度学习&大模型硬件问题](https://www.bilibili.com/video/BV1VFqZYSEoj/?source_id=4331&resource_id=__RESOURCEID__&creative_id=206489306&linked_creative_id=206489306&track_id=pbaes.sJSebqmPoByN1JYjnug3d60W7zpAsXHQyUwhtQYIUIZ5GyA_Ny1s4aXnffz4VwozvpHvovrkmLhkVfYsPJ2K_rVThBv1M-3XnaQUUUACMvndLswqyRE9RjI5c-C6Z9fmsH3d8sGOT1JNbQDnOgQPJnoW5HzaO3pVgDL_cRV2Y3DHDPhtHmi7f81m9QVriu5XlTGVdQ60LUrX9A1Q_xOU-g&from_spmid=__FROMSPMID__&trackid=__FROMTRACKID__&request_id=1740551654983q172a25a173a54q2&caid=__CAID__&vd_source=2e815885181376606e6c241ba03c8907)
 
+
+
+
+# 有用的联接
+* [一文剖析AI大模型技术架构的全景视图：从基础实施层、云原生层、模型层、应用技术层、能力层、到应用层](https://blog.csdn.net/datian1234/article/details/144274537?utm_medium=distribute.pc_relevant.none-task-blog-2~default~baidujs_baidulandingword~default-0-144274537-blog-136968033.235^v43^pc_blog_bottom_relevance_base5&spm=1001.2101.3001.4242.1&utm_relevant_index=3)
