@@ -300,7 +300,7 @@ AI人工智能整体分层架构的核心组成
 
 
 # 目录
-
+* [【人工智能学习笔记 一】 AI分层架构、基本概念分类与产品技术架构](https://blog.csdn.net/sinat_33087001/article/details/145418655?utm_medium=distribute.pc_relevant.none-task-blog-2~default~baidujs_baidulandingword~default-4-145418655-blog-136968033.235^v43^pc_blog_bottom_relevance_base5&spm=1001.2101.3001.4242.3&utm_relevant_index=7)
 * AI(人工智能应用)
   * [机器学习](https://github.com/stevenli91748/AI/blob/master/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/README.md)
   * 深度学习
