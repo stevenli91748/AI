@@ -332,6 +332,7 @@ AI人工智能整体分层架构的核心组成
         * [3.1.1.6 联邦学习](https://github.com/stevenli91748/AI/tree/master/%E8%81%94%E9%82%A6%E5%AD%A6%E4%B9%A0)
       * 3.1.2 知识处理与训练
         * [3.1.2.1 自然语言处理（NLP）](https://github.com/stevenli91748/AI/tree/master/%E8%87%AA%E7%84%B6%E8%AF%AD%E8%A8%80%E5%A4%84%E7%90%86%EF%BC%88NLP%EF%BC%89)
+          * [3.1.2.1.1 LLM 大型语言模型（Large Language Model）](https://github.com/stevenli91748/AI/tree/master/LLM%20%E5%A4%A7%E5%9E%8B%E8%AF%AD%E8%A8%80%E6%A8%A1%E5%9E%8B)   
         * [3.1.2.2 计算机视觉（CV）](https://github.com/stevenli91748/AI/tree/master/%E8%AE%A1%E7%AE%97%E6%9C%BA%E8%A7%86%E8%A7%89%EF%BC%88CV%EF%BC%89)
         * [3.1.2.3 音频处理（AP）](https://github.com/stevenli91748/AI/tree/master/%E9%9F%B3%E9%A2%91%E5%A4%84%E7%90%86%EF%BC%88AP%EF%BC%89)
         * [3.1.2.4 视频处理（VP）](https://github.com/stevenli91748/AI/tree/master/%E8%A7%86%E9%A2%91%E5%A4%84%E7%90%86%EF%BC%88VP%EF%BC%89)
