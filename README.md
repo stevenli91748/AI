@@ -328,6 +328,8 @@ AI人工智能整体分层架构的核心组成
         * [3.1.1.2 深度学习](https://github.com/stevenli91748/AI/blob/master/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0/README.md)
         * [3.1.1.3 强化学习](https://github.com/stevenli91748/AI/tree/master/%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0)
         * [3.1.1.4 迁移学习](https://github.com/stevenli91748/AI/tree/master/%E8%BF%81%E7%A7%BB%E5%AD%A6%E4%B9%A0)
+        * [3.1.1.5 多模态学习](https://github.com/stevenli91748/AI/tree/master/%E5%A4%9A%E6%A8%A1%E6%80%81%E5%AD%A6%E4%B9%A0)
+        * [3.1.1.6 联邦学习](https://github.com/stevenli91748/AI/tree/master/%E8%81%94%E9%82%A6%E5%AD%A6%E4%B9%A0)
       * 3.1.2 知识处理与训练
       * 3.1.3 知识决策与表达  
     * 3.2  算法框架(算法)---如TensorFlow、PyTorch、Caffe等，为开发者提供了构建和训练AI模型的工具和接口
