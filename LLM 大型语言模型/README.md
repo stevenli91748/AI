@@ -34,3 +34,7 @@ LLM（Large Language Model，大型语言模型）、AIGC（AI Generated Content
 三者相互关联、相互促进。LLM是基础技术，为AIGC和AI Agent提供了强大的语言处理支持；AIGC基于LLM等技术实现了各种内容的生成，丰富了AI的应用形式；AI Agent则作为应用载体，将LLM和AIGC的能力集成到具体的任务和场景中，使它们的价值得到更充分的体现，共同推动了人工智能技术的发展和应用。
 
 总的来说AI主要由算法、算力、数据组成，算法是核心。LLM是基于Transformer架构的算法成果，属于NLP领域关键技术，赋予AI理解和生成语言的能力。如果把AI AGENT看作人工助手，LLM就是其大脑，提供智能核心。AIGC则基于LLM等技术，生成语言、图像、音频等内容，就像人基于大脑的一些语言和视觉的表达。举个例子：云雀模型是LLM，豆包的问答查询基于此，是AIGC在语言领域的应用；图片生成借助专门模型，也是AIGC。豆包APP里的智能体是AI AGENT，集成云雀能力为用户服务。
+
+
+# 有用的参考
+* [本地快速安装运行史上最强开源LLaMa3大模型](https://liaoxuefeng.com/blogs/all/2024-05-06-llama3/index.html)
