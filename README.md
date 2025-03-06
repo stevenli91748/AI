@@ -240,6 +240,8 @@
   * [月赚5万美金！儿童频道AI自动生成动画视频，YouTube赚钱新思路，全新蓝海领域变现超快](https://www.youtube.com/watch?v=e834xf5ZKqc&t=29s) 
 
 
+[我用Cursor AI编程开发的App，登上了Appstore排行榜第一｜小猫补光灯Pro](https://www.bilibili.com/video/BV1f6BfYPE9o/?spm_id_from=333.337.search-card.all.click&vd_source=2e815885181376606e6c241ba03c8907)|
+---|
 
 [阿里巴巴 知行动手实验室](https://start.aliyun.com/)|[巨牛的人工智能学习网站](https://www.captainai.net/jiangyu1013/)|[床长人工智能教程](https://www.cbedai.net/zimug/)|[开源的人工智能零基础入门](https://zh.d2l.ai/chapter_convolutional-modern/index.html)|
 ---|---|---|---|
