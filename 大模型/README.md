@@ -19,6 +19,9 @@
 # 大模型GPU硬件配置
   * [【2025版】大模型GPU硬件配置保姆级指南｜一站式解决深度学习&大模型硬件问题](https://www.bilibili.com/video/BV1VFqZYSEoj/?source_id=4331&resource_id=__RESOURCEID__&creative_id=206489306&linked_creative_id=206489306&track_id=pbaes.sJSebqmPoByN1JYjnug3d60W7zpAsXHQyUwhtQYIUIZ5GyA_Ny1s4aXnffz4VwozvpHvovrkmLhkVfYsPJ2K_rVThBv1M-3XnaQUUUACMvndLswqyRE9RjI5c-C6Z9fmsH3d8sGOT1JNbQDnOgQPJnoW5HzaO3pVgDL_cRV2Y3DHDPhtHmi7f81m9QVriu5XlTGVdQ60LUrX9A1Q_xOU-g&from_spmid=__FROMSPMID__&trackid=__FROMTRACKID__&request_id=1740551654983q172a25a173a54q2&caid=__CAID__&vd_source=2e815885181376606e6c241ba03c8907)
 
+# 大模型项目实战
+* [12个大模型实战项目，包含初中高级，适合各个阶段练手使用！](https://www.bilibili.com/video/BV1qqBeYFEAh/?spm_id_from=333.337.search-card.all.click&vd_source=2e815885181376606e6c241ba03c8907)
+
 
 # 目录
   * 1 基础设施层---GPU、CPU、RAM、HDD、Network 等关键硬件设施。这些硬件设备为 AI 大模型的训练与推理提供了关键的运算资源和存储能力
