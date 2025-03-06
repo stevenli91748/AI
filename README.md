@@ -58,6 +58,11 @@
   * [这绝对是B站2025年人工智能入门的天花板教程](https://www.bilibili.com/video/BV1mSq2Y1ER5?spm_id_from=333.788.recommend_more_video.1&vd_source=be3ac4894f8bf7883ae92030f6f7be46)
   * [【全748集】清华大佬终于把AI大模型（LLM）讲清楚了！通俗易懂，2024最新内部版](https://www.bilibili.com/video/BV1rS411F735?spm_id_from=333.788.player.switch&vd_source=be3ac4894f8bf7883ae92030f6f7be46&p=3)
   * [DeepLearnAI---FREE COURSE](https://www.deeplearning.ai/short-courses/langchain-for-llm-application-development/)
+# AI论文
+* [人工智能必看的45篇论文](https://islinxu.github.io/survey-read-notes/List/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%BF%85%E7%9C%8B%E7%9A%8445%E7%AF%87%E8%AE%BA%E6%96%87.html)
+* [人工智能领域2024年6月多篇最新论文](https://blog.csdn.net/weixin_44904675/article/details/140455541)
+* 
+
 
 # 数学
   * [强推！这绝对是全站最全的人工智能入门数学系列课程！一小时带你掌握机器学习必备的数学基础！微积分、线性代数、泰勒公式、方差、假设分析...等多个高等数学知识点！](https://www.bilibili.com/video/BV1XGUsYQEvs/?spm_id_from=333.337.search-card.all.click&vd_source=be3ac4894f8bf7883ae92030f6f7be46)
