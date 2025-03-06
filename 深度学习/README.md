@@ -1,4 +1,7 @@
 
+# 深度学习路线图
+* [唐宇迪---深度学习路线图](https://www.bilibili.com/video/BV1wh9dYBEbM?spm_id_from=333.788.player.switch&vd_source=2e815885181376606e6c241ba03c8907&p=2)
+
 # 目录
 * 深度学习
   * 神经网络架构
