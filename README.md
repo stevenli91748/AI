@@ -59,6 +59,7 @@
   * [【全748集】清华大佬终于把AI大模型（LLM）讲清楚了！通俗易懂，2024最新内部版](https://www.bilibili.com/video/BV1rS411F735?spm_id_from=333.788.player.switch&vd_source=be3ac4894f8bf7883ae92030f6f7be46&p=3)
   * [DeepLearnAI---FREE COURSE](https://www.deeplearning.ai/short-courses/langchain-for-llm-application-development/)
 # AI论文
+* [人工智能从业者应该从哪里去寻找和阅读顶级论文？](https://www.zhihu.com/question/303022763)
 * [人工智能必看的45篇论文](https://islinxu.github.io/survey-read-notes/List/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%BF%85%E7%9C%8B%E7%9A%8445%E7%AF%87%E8%AE%BA%E6%96%87.html)
 * [人工智能领域2024年6月多篇最新论文](https://blog.csdn.net/weixin_44904675/article/details/140455541)
 * 
