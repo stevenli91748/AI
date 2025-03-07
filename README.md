@@ -239,6 +239,11 @@
 * [免费的文本转语音网站](https://ttsmp3.com/)
   * [月赚5万美金！儿童频道AI自动生成动画视频，YouTube赚钱新思路，全新蓝海领域变现超快](https://www.youtube.com/watch?v=e834xf5ZKqc&t=29s) 
 
+# AI网站
+# 小白如何入门AI？不花一分钱，这些免费资源请收藏好
+[通往AGI之路   非常好](https://www.waytoagi.com/zh)|[Discover The Best AI Websites & Tools](https://www.toolify.ai/)|[https://www.aibase.com/zh/](https://www.aibase.com/)|
+---|---|---|
+
 
 [我用Cursor AI编程开发的App，登上了Appstore排行榜第一｜小猫补光灯Pro](https://www.bilibili.com/video/BV1f6BfYPE9o/?spm_id_from=333.337.search-card.all.click&vd_source=2e815885181376606e6c241ba03c8907)|
 ---|
