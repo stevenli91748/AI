@@ -48,3 +48,4 @@
 
 # 有用的联接
 * [一文剖析AI大模型技术架构的全景视图：从基础实施层、云原生层、模型层、应用技术层、能力层、到应用层](https://blog.csdn.net/datian1234/article/details/144274537?utm_medium=distribute.pc_relevant.none-task-blog-2~default~baidujs_baidulandingword~default-0-144274537-blog-136968033.235^v43^pc_blog_bottom_relevance_base5&spm=1001.2101.3001.4242.1&utm_relevant_index=3)
+* [利用多Lora节省大模型部署成本｜得物技术](https://tech.dewu.com/article?id=128)
