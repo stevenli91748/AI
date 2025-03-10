@@ -355,7 +355,9 @@ AI人工智能整体分层架构的核心组成
         * [3.1.3.2 知识推理](https://github.com/stevenli91748/AI/tree/master/%E7%9F%A5%E8%AF%86%E6%8E%A8%E7%90%86)
     * 3.2  算法框架(算法)---如TensorFlow、PyTorch、Caffe等，为开发者提供了构建和训练AI模型的工具和接口
       * AI程序开发工具
-        * [从零玩转Langchain4j！揭秘SpringBoot集成核心技巧，让你的AI应用效率翻倍](https://www.bilibili.com/video/BV19k97Y1E48/?spm_id_from=333.1391.0.0&p=2&vd_source=2e815885181376606e6c241ba03c8907)  
+        * [从零玩转Langchain4j！揭秘SpringBoot集成核心技巧，让你的AI应用效率翻倍](https://www.bilibili.com/video/BV19k97Y1E48/?spm_id_from=333.1391.0.0&p=2&vd_source=2e815885181376606e6c241ba03c8907)
+      * Transformer
+        * [深入理解Transformer技术原理](https://tech.dewu.com/article?id=109)  
     * 3.3  开发平台---云服务提供商的AI开发平台（如阿里云、腾讯云等）集成了计算资源、数据存储、算法框架等，方便开发者进行AI模型的开发、训练和部署
   * 4 应用层(工具)---应用层是AI技术与具体场景相结合的产物，包括面向消费者（C端）和面向企业/政府（B/G端）的应用
     * 4.1 C端应用：如智能语音助手（Siri、Alexa）、个性化推荐（视频、音乐推荐）等，直接影响普通用户的体验
