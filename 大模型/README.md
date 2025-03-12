@@ -11,6 +11,7 @@
         * [Spring AI整合OpenAI和Ollama本地大模型](https://www.bilibili.com/video/BV1Wz421k71w?spm_id_from=333.788.videopod.sections&vd_source=be3ac4894f8bf7883ae92030f6f7be46)
         * [【全网首发】从0到1带你实现一个SpringAI 智能航空助手项目实战，2025最新内部版](https://www.bilibili.com/video/BV1Tjm2YvErt/?spm_id_from=333.337.search-card.all.click&vd_source=be3ac4894f8bf7883ae92030f6f7be46)
     * 2 Langchain4j
+      * [Langchain4j深度解析×SpringBoot整合秘籍丨2小时实现智能问答系统](https://www.bilibili.com/video/BV1bP9wY4Ewg/?spm_id_from=333.337.search-card.all.click&vd_source=2e815885181376606e6c241ba03c8907) 
     * 3 JLlama
   * 两大技能
     * RAG
