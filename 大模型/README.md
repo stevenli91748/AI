@@ -34,6 +34,7 @@
   * 4 应用技术层---
     * 4.1  AI Agent（智能体）技术---Agent 智能体技术就是利用大模型的推理能力对任务进行规划拆解，并使用外部的工具完成一件复杂的任务
     * 4.2  RAG（检索增强生成）技术---RAG 技术融合了检索与生成两种方法，旨在提升信息生成的精准度。它利用检索到的相关信息来增强生成模型的效能，确保所生成内容的准确性与相关性
+      * 4.2.1 [RAG训练营 - AI Engineering Bootcamp: Retrieval Augmented Generation (RAG) for LLMs](https://www.bilibili.com/video/BV1vkNqeqEin?spm_id_from=333.788.recommend_more_video.19&vd_source=2e815885181376606e6c241ba03c8907) 
     * 4.3  大模型微调（Fine-tuning）---大模型微调技术通过对模型进行细致调整，使其更好地适应特定任务需求。在特定任务的数据集上进行微调后，模型在相关任务上的性能可以得到显著提升，实现更精准和高效的处理
     * 4.4  提示词工程（Prompt Engineering）---提示词工程专注于设计高效的提示语，以优化模型的输出结果。通过精心设计的提示词，可以引导模型生成更加符合预期的内容，从而提升生成文本的质量
     * 4.4 函数调用( Function calling)
