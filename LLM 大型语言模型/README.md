@@ -39,6 +39,8 @@ LLM（Large Language Model，大型语言模型）、AIGC（AI Generated Content
 * LangChain
   * [LangChain官方网站 ](https://www.langchain.asia/)
   * [从零玩转Langchain4j！揭秘SpringBoot集成核心技巧，让你的AI应用效率翻倍！](https://www.bilibili.com/video/BV19k97Y1E48/?spm_id_from=333.1391.0.0&p=2&vd_source=2e815885181376606e6c241ba03c8907)
+* AI Agent
+  * [12项Agent智能体开发框架入门与选型](https://www.bilibili.com/video/BV16NBJYRE3s/?spm_id_from=333.337.search-card.all.click&vd_source=2e815885181376606e6c241ba03c8907)  
 
 # 有用的参考
 * [本地快速安装运行史上最强开源LLaMa3大模型](https://liaoxuefeng.com/blogs/all/2024-05-06-llama3/index.html)
