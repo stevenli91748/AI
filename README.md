@@ -210,12 +210,14 @@
   * [如何用 AI 应用 Speak 帮你练英语口语](https://www.youtube.com/watch?v=1XRKoikjags)
   * [如何用Chat GPT练就流利英语口语-让A I帮你准备雅思口语考试](https://www.youtube.com/watch?v=OFM6RwzcBqk)
   * [神級+免費🤯  4個AI學英文工具](https://www.youtube.com/watch?v=AFx6WF4UChM)
+
 * chatGPT编程
   * [你真的会学习吗？利用ChatGPT解锁五个让你学习效率加倍的秘诀](https://www.youtube.com/watch?v=6TyxocwA1Ng)
   * [ChatGPT 如何帮你提升科研效率？](https://www.youtube.com/watch?v=MHW64JZhbcQ) 
   * [ChatGPT vs Google Bard : 人工智能哪家强? 谁更懂编程](https://www.youtube.com/watch?v=iCDjOx2RPDo)
   * [如何用 ChatGPT 帮你写 Python 爬虫？实际样例循序渐进手把手教程](https://www.youtube.com/watch?v=MHW64JZhbcQ)
   * [我用AI编程windsurf做了个图书管理系统01](https://www.bilibili.com/video/BV1B9cnenEva?spm_id_from=333.788.videopod.sections&vd_source=2e815885181376606e6c241ba03c8907)
+  * [重塑编程未来的AI集成开发环境（IDE）深度解析](https://blog.csdn.net/luomao2012/article/details/144437108)
 * ChatGPT Database
   * [阿里---Chat2DB](https://github.com/alibaba/Chat2DB)
 * ChatGPT Office
