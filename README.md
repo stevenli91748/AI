@@ -218,6 +218,7 @@
   * [如何用 ChatGPT 帮你写 Python 爬虫？实际样例循序渐进手把手教程](https://www.youtube.com/watch?v=MHW64JZhbcQ)
   * [我用AI编程windsurf做了个图书管理系统01](https://www.bilibili.com/video/BV1B9cnenEva?spm_id_from=333.788.videopod.sections&vd_source=2e815885181376606e6c241ba03c8907)
   * [重塑编程未来的AI集成开发环境（IDE）深度解析](https://blog.csdn.net/luomao2012/article/details/144437108)
+  * [进击的猿的部落](https://space.bilibili.com/278462933)
 * ChatGPT Database
   * [阿里---Chat2DB](https://github.com/alibaba/Chat2DB)
 * ChatGPT Office
