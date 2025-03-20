@@ -39,6 +39,7 @@ LLM（Large Language Model，大型语言模型）、AIGC（AI Generated Content
   * [神书  从零构建大型语言模型](https://www.scribd.com/document/763076237/%E4%BB%8E%E9%9B%B6%E6%9E%84%E5%BB%BA%E5%A4%A7%E8%AF%AD%E8%A8%80%E6%A8%A1%E5%9E%8B-%E4%B8%AD%E6%96%87%E7%89%88)
 
 # 目录
+* [2025年最新大模型学习路线，零基础到精通一条龙（基础/进阶/实战）](https://www.bilibili.com/video/BV1K8QVYHEoP/?spm_id_from=333.1007.tianma.53-2-208.click&vd_source=2e815885181376606e6c241ba03c8907)
 * LangChain
   * [LangChain官方网站 ](https://www.langchain.asia/)
   * [LangChain中文网1](https://www.langchain.com.cn/)
