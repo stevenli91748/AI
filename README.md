@@ -70,6 +70,7 @@
 
 * 李宏毅
   * [李宏毅官方](https://speech.ee.ntu.edu.tw/~tlkagk/courses.html)
+    * [一堂課搞懂生成式人工智慧的技術突破與未來發展  学习步骤](https://www.youtube.com/watch?v=QLiKmca4kzI) 
 
 
 # 数学
