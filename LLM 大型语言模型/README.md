@@ -56,5 +56,11 @@ LLM（Large Language Model，大型语言模型）、AIGC（AI Generated Content
 * AI Agent
   * [12项Agent智能体开发框架入门与选型](https://www.bilibili.com/video/BV16NBJYRE3s/?spm_id_from=333.337.search-card.all.click&vd_source=2e815885181376606e6c241ba03c8907)  
 
+* AI 大模型的学习路线推荐
+  * AI 大模型---算法方向
+  * AI 大模型---工程落地方向 
+
+
+
 # 有用的参考
 * [本地快速安装运行史上最强开源LLaMa3大模型](https://liaoxuefeng.com/blogs/all/2024-05-06-llama3/index.html)
