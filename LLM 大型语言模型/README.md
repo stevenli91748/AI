@@ -71,6 +71,7 @@ LLM（Large Language Model，大型语言模型）、AIGC（AI Generated Content
 * ✅ 数学基础---线性代数：矩阵运算、特征值分解，概率论与统计：条件概率、贝叶斯公式、最大似然估计，微积分：偏导数、链式法则，推荐资源：3Blue1Brown 视频（直观）+ 李宏毅机器学习课前几章
 
   🗓️ 第 1 周：Python 与深度学习基础（Day 1-7）
+
         ✅ 每周任务： Python 入门与 Numpy、Pandas、Matplotlib 基础（可用：菜鸟教程 + 知乎专栏）
   
         天数	学习内容
