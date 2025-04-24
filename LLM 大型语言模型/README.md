@@ -39,8 +39,8 @@ LLM（Large Language Model，大型语言模型）、AIGC（AI Generated Content
   * [神书  从零构建大型语言模型](https://www.scribd.com/document/763076237/%E4%BB%8E%E9%9B%B6%E6%9E%84%E5%BB%BA%E5%A4%A7%E8%AF%AD%E8%A8%80%E6%A8%A1%E5%9E%8B-%E4%B8%AD%E6%96%87%E7%89%88)
 
 # 博客
-[动手学大模型应用开发---github](https://github.com/datawhalechina/llm-universe)|[llm-action](https://github.com/liguodongiot/llm-action)|
----|---|
+[动手学大模型应用开发---github](https://github.com/datawhalechina/llm-universe)|[llm-action](https://github.com/liguodongiot/llm-action)|[3Blue1Brown](https://www.youtube.com/c/3blue1brown)|
+---|---|---|
 
 
 * [自学 AI 大模型的学习路线推荐---强](https://www.bilibili.com/video/BV12uY7eiEpG?spm_id_from=333.788.recommend_more_video.14&vd_source=2e815885181376606e6c241ba03c8907)
