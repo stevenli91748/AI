@@ -65,9 +65,22 @@ LLM（Large Language Model，大型语言模型）、AIGC（AI Generated Content
   * [AI 大模型---工程落地方向 ](https://github.com/stevenli91748/AI/blob/master/LLM%20%E5%A4%A7%E5%9E%8B%E8%AF%AD%E8%A8%80%E6%A8%A1%E5%9E%8B/AI%20%E5%A4%A7%E6%A8%A1%E5%9E%8B---%E5%B7%A5%E7%A8%8B%E8%90%BD%E5%9C%B0%E6%96%B9%E5%90%91.md)
 
 # 目录
-1. 基础知识准备
-* ✅ 编程能力---学习 Python，熟练掌握基础语法、数据结构（list/dict/set）、函数与类，学习 Numpy、Pandas、Matplotlib 基础，便于处理数据和可视化
+1. 基础知识准备（第 1 周）---掌握 Python 编程，理解神经网络基本结构和训练机制
+* ✅ 编程能力---学习 Python，熟练掌握基础语法、数据结构（list/dict/set）、函数与类，学习 Numpy、Pandas、Matplotlib 基础，便于处理数据和可视化,
+                
 * ✅ 数学基础---线性代数：矩阵运算、特征值分解，概率论与统计：条件概率、贝叶斯公式、最大似然估计，微积分：偏导数、链式法则，推荐资源：3Blue1Brown 视频（直观）+ 李宏毅机器学习课前几章
+
+  🗓️ 第 1 周：Python 与深度学习基础（Day 1-7）
+        ✅ 每周任务： Python 入门与 Numpy、Pandas、Matplotlib 基础（可用：菜鸟教程 + 知乎专栏）
+  
+        天数	学习内容
+        Day 1	Python 基础语法、变量、分支、循环
+        Day 2	函数、列表/字典/集合操作
+        Day 3	Numpy 基础，矩阵运算
+        Day 4	Pandas 读写 CSV、基本统计分析
+        Day 5	Matplotlib 数据可视化
+        Day 6	PyTorch 张量、模型定义、前向传播
+        Day 7	复习 + 写一个简单的 MLP 模型用于分类 MNIST（含训练与验证）
 
 2. 深度学习基础
 * ✅ 理解神经网络---感知机 → 多层感知机（MLP）→ 前馈神经网络（FNN），反向传播与梯度下降优化器（SGD、Adam）
@@ -91,10 +104,10 @@ LLM（Large Language Model，大型语言模型）、AIGC（AI Generated Content
 * ✅ 应用场景---Chatbot、文档总结、代码补全、问答系统
 
 7. 进阶阅读与研究方向（可选）
-* MoE（Mixture of Experts）
-* RAG（Retrieval Augmented Generation）
-* 多模态模型（图文理解）、Agent 系统（LangChain）
-* RLHF（强化学习人类反馈）
+* ✅ MoE（Mixture of Experts）
+* ✅ RAG（Retrieval Augmented Generation）
+* ✅ 多模态模型（图文理解）、Agent 系统（LangChain）
+* ✅ RLHF（强化学习人类反馈）
 
 ----
 
@@ -105,7 +118,7 @@ LLM（Large Language Model，大型语言模型）、AIGC（AI Generated Content
 理解神经网络基本结构和训练机制
 
 ✅ 每周任务：
-Python 入门与 Numpy、Pandas、Matplotlib 基础（可用：菜鸟教程 + 知乎专栏）
+
 
 学习神经网络原理（推荐：李宏毅深度学习课前几讲）
 
@@ -185,6 +198,7 @@ Day 4	Pandas 读写 CSV、基本统计分析
 Day 5	Matplotlib 数据可视化
 Day 6	PyTorch 张量、模型定义、前向传播
 Day 7	复习 + 写一个简单的 MLP 模型用于分类 MNIST（含训练与验证）
+
 🗓️ 第 2 周：深度学习进阶与优化（Day 8-14）
 
 天数	学习内容
@@ -195,6 +209,7 @@ Day 11	使用 DataLoader 和自定义 Dataset
 Day 12	模型保存、加载、断点训练
 Day 13	写一个完整的分类项目（结构 + 参数调优）
 Day 14	复习 + 小项目：CIFAR-10 图像分类
+
 🗓️ 第 3 周：NLP 入门与 Transformer 理解（Day 15-21）
 
 天数	学习内容
@@ -205,6 +220,7 @@ Day 18	Self-Attention 与多头注意力机制
 Day 19	Positional Encoding、LayerNorm、残差连接
 Day 20	实现一个简化版 Transformer（Encoder）
 Day 21	复习 + 用 Transformers 库加载 GPT2 并推理文本生成
+
 🗓️ 第 4 周：HuggingFace 快速上手（Day 22-28）
 
 天数	学习内容
@@ -215,6 +231,7 @@ Day 25	文本生成任务微调（Causal LM）
 Day 26	掌握 LoRA 机制进行参数高效微调
 Day 27	用小数据做一次微调（SST2）
 Day 28	复习 + 小项目：训练一个对话模型并保存
+
 🗓️ 第 5 周：部署与优化（Day 29-35）
 
 天数	学习内容
@@ -225,6 +242,7 @@ Day 32	FastAPI + Transformers 构建 API 服务
 Day 33	模型部署到本地/服务器
 Day 34	测试部署性能，响应时间分析
 Day 35	复习 + 小项目：部署你的聊天机器人到本地网页
+
 🗓️ 第 6 周：项目实战整合（Day 36-42）
 
 天数	学习内容
@@ -235,12 +253,14 @@ Day 39	训练调试，分析 loss 曲线与 overfitting 现象
 Day 40	推理、部署、打包工具整合
 Day 41	项目收尾：封装 API，打包 demo 工程
 Day 42	项目演示 + 总结（写文档）
+
 🗓️ 第 7-8 周：前沿技术与深度理解（Day 43-60）
 
 周	任务
 第 7 周	阅读论文（MoE、RAG、RLHF 各一篇）
 实现简单版检索增强生成（RAG）
 对比 GPT2 与 LLaMA 的结构与推理性能
+
 第 8 周	使用 LangChain 实现简单智能助手
 集成向量数据库（如 FAISS）
 模拟 RLHF 数据训练一个奖励模型
@@ -249,77 +269,6 @@ Day 42	项目演示 + 总结（写文档）
 
 
 ----
-
-🗓️ 第 1 周：Python 与深度学习基础（Day 1-7）
-
-天数	学习内容
-Day 1	Python 基础语法、变量、分支、循环
-Day 2	函数、列表/字典/集合操作
-Day 3	Numpy 基础，矩阵运算
-Day 4	Pandas 读写 CSV、基本统计分析
-Day 5	Matplotlib 数据可视化
-Day 6	PyTorch 张量、模型定义、前向传播
-Day 7	复习 + 写一个简单的 MLP 模型用于分类 MNIST（含训练与验证）
-🗓️ 第 2 周：深度学习进阶与优化（Day 8-14）
-
-天数	学习内容
-Day 8	神经网络反向传播原理
-Day 9	Loss 函数、优化器（SGD/Adam）原理
-Day 10	使用 PyTorch 训练 MLP 并使用 TensorBoard 监控
-Day 11	使用 DataLoader 和自定义 Dataset
-Day 12	模型保存、加载、断点训练
-Day 13	写一个完整的分类项目（结构 + 参数调优）
-Day 14	复习 + 小项目：CIFAR-10 图像分类
-🗓️ 第 3 周：NLP 入门与 Transformer 理解（Day 15-21）
-
-天数	学习内容
-Day 15	NLP 任务简介 + Tokenizer 原理
-Day 16	Word Embedding：Word2Vec / BERT embedding
-Day 17	Transformer 架构总览
-Day 18	Self-Attention 与多头注意力机制
-Day 19	Positional Encoding、LayerNorm、残差连接
-Day 20	实现一个简化版 Transformer（Encoder）
-Day 21	复习 + 用 Transformers 库加载 GPT2 并推理文本生成
-🗓️ 第 4 周：HuggingFace 快速上手（Day 22-28）
-
-天数	学习内容
-Day 22	HuggingFace Transformers 库结构概览
-Day 23	使用 Pretrained 模型 + Tokenizer 推理
-Day 24	文本分类任务微调（Trainer + Dataset）
-Day 25	文本生成任务微调（Causal LM）
-Day 26	掌握 LoRA 机制进行参数高效微调
-Day 27	用小数据做一次微调（SST2）
-Day 28	复习 + 小项目：训练一个对话模型并保存
-🗓️ 第 5 周：部署与优化（Day 29-35）
-
-天数	学习内容
-Day 29	模型推理优化：int8 量化，混合精度
-Day 30	导出 ONNX / TorchScript 模型
-Day 31	使用 Gradio 创建推理界面
-Day 32	FastAPI + Transformers 构建 API 服务
-Day 33	模型部署到本地/服务器
-Day 34	测试部署性能，响应时间分析
-Day 35	复习 + 小项目：部署你的聊天机器人到本地网页
-🗓️ 第 6 周：项目实战整合（Day 36-42）
-
-天数	学习内容
-Day 36	端到端流程梳理：准备数据 → 微调 → 推理
-Day 37	开发数据收集脚本并构造训练集
-Day 38	使用自己的数据训练简易问答模型
-Day 39	训练调试，分析 loss 曲线与 overfitting 现象
-Day 40	推理、部署、打包工具整合
-Day 41	项目收尾：封装 API，打包 demo 工程
-Day 42	项目演示 + 总结（写文档）
-🗓️ 第 7-8 周：前沿技术与深度理解（Day 43-60）
-
-周	任务
-第 7 周	阅读论文（MoE、RAG、RLHF 各一篇）
-实现简单版检索增强生成（RAG）
-对比 GPT2 与 LLaMA 的结构与推理性能
-第 8 周	使用 LangChain 实现简单智能助手
-集成向量数据库（如 FAISS）
-模拟 RLHF 数据训练一个奖励模型
-完整复习全流程，输出总结笔记
 
 
 
