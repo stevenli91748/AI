@@ -74,28 +74,81 @@ LLM（Large Language Model，大型语言模型）、AIGC（AI Generated Content
 
         ✅ 每周任务： Python 入门与 Numpy、Pandas、Matplotlib 基础（可用：菜鸟教程 + 知乎专栏）
   
-        天数	学习内容
-        Day 1	Python 基础语法、变量、分支、循环
-        Day 2	函数、列表/字典/集合操作
-        Day 3	Numpy 基础，矩阵运算
-        Day 4	Pandas 读写 CSV、基本统计分析
-        Day 5	Matplotlib 数据可视化
-        Day 6	PyTorch 张量、模型定义、前向传播
-        Day 7	复习 + 写一个简单的 MLP 模型用于分类 MNIST（含训练与验证）
+            天数	学习内容
+            Day 1	Python 基础语法、变量、分支、循环
+            Day 2	函数、列表/字典/集合操作
+            Day 3	Numpy 基础，矩阵运算
+            Day 4	Pandas 读写 CSV、基本统计分析
+            Day 5	Matplotlib 数据可视化
+            Day 6	PyTorch 张量、模型定义、前向传播
+            Day 7	复习 + 写一个简单的 MLP 模型用于分类 MNIST（含训练与验证）
 
-2. 深度学习基础
+2. 深度学习基础（第 2 周）
 * ✅ 理解神经网络---感知机 → 多层感知机（MLP）→ 前馈神经网络（FNN），反向传播与梯度下降优化器（SGD、Adam）
 * ✅ 熟悉框架---PyTorch（推荐） 或 TensorFlow，会用 torch.nn, torch.optim, torch.utils.data 编写基础模型训练
 * ✅ 学习资源---《Deep Learning》by Ian Goodfellow（理论），李宏毅《深度学习》课程（系统），FastAI 或 HuggingFace 的入门教程（实践）
+
+  🗓️ 第 2 周：深度学习进阶与优化（Day 8-14）
+
+     ✅ 每周任务：学习神经网络原理（推荐：李宏毅深度学习课前几讲），学会用 PyTorch 写一个 MLP 并在 MNIST 上训练
+
+      🗓️ 第 2 周：深度学习进阶与优化（Day 8-14）
+
+            天数	学习内容
+            Day 8	神经网络反向传播原理
+            Day 9	Loss 函数、优化器（SGD/Adam）原理
+            Day 10	使用 PyTorch 训练 MLP 并使用 TensorBoard 监控
+            Day 11	使用 DataLoader 和自定义 Dataset
+            Day 12	模型保存、加载、断点训练
+            Day 13	写一个完整的分类项目（结构 + 参数调优）
+            Day 14	复习 + 小项目：CIFAR-10 图像分类
+  
 
 3. 语言模型基础
 * ✅ 理解 NLP 任务---Tokenization、Word Embedding、Sequence Modeling，LSTM / GRU 简介（可略），Transformer 架构（重点）
 * ✅ Transformer 细节---Self-Attention，Positional Encoding，Multi-head Attention，LayerNorm / Residual
 * ✅ 推荐资料---Illustrated Transformer（可视化讲解），Attention Is All You Need（原论文），Stanford CS224n（自然语言处理课程）
 
+  🗓️ 第 3 周：NLP 入门与 Transformer 理解（Day 15-21）
+
+     ✅ 每周任务： 掌握 NLP 基础与 Transformer 架构， 理解 Attention、Embedding、位置编码等机制
+
+        天数	学习内容
+        Day 15	NLP 任务简介 + Tokenizer 原理
+        Day 16	Word Embedding：Word2Vec / BERT embedding
+        Day 17	Transformer 架构总览
+        Day 18	Self-Attention 与多头注意力机制
+        Day 19	Positional Encoding、LayerNorm、残差连接
+        Day 20	实现一个简化版 Transformer（Encoder）
+        Day 21	复习 + 用 Transformers 库加载 GPT2 并推理文本生成
+ 
+
 4. 大模型架构与训练机制
 * ✅ 构建 LLM 的关键模块---Decoder-only Transformer（GPT 架构），Masked Self-Attention，Causal Language Modeling（CLM）
 * ✅ 训练大模型要点---预训练 vs 微调，数据并行、模型并行（Megatron、Deepspeed），Mixed Precision、Gradient Checkpointing
+
+  🗓️ 第 4 周：HuggingFace 快速上手（Day 22-28）
+
+    ✅ 每周任务： 阅读“Attention is All You Need”前半部分, 跟着 Illustrated Transformer 做可视化学习, 用 PyTorch 实现简化版的 Transformer（可参考 Harvard NLP 的教程）,
+                 用 HuggingFace 加载一个 GPT2 模型并进行推理
+
+        天数	学习内容
+        Day 22	HuggingFace Transformers 库结构概览
+        Day 23	使用 Pretrained 模型 + Tokenizer 推理
+        Day 24	文本分类任务微调（Trainer + Dataset）
+        Day 25	文本生成任务微调（Causal LM）
+        Day 26	掌握 LoRA 机制进行参数高效微调
+        Day 27	用小数据做一次微调（SST2）
+        Day 28	复习 + 小项目：训练一个对话模型并保存
+
+  🗓️ 第 5 周：实战 HuggingFace 与微调 LLM
+
+        🧠 目标：
+        学会使用 HuggingFace Transformers 进行微调， 掌握 Tokenizer、数据准备、训练流程
+        
+        ✅ 每周任务：学习 HuggingFace 教程（HuggingFace Course），微调一个 GPT2 或 LLaMA 模型做摘要/问答（LoRA 或 QLoRA），理解模型训练日志、保存和加载
+
+ 
 
 5. 开源项目实战
 * ✅ 推荐实战项目---HuggingFace Transformers: 熟悉 AutoModelForCausalLM, Trainer，LLaMA、GPT-NeoX、RWKV：了解模型结构与微调流程，LoRA / QLoRA 微调方法，适合资源有限场景
@@ -112,18 +165,7 @@ LLM（Large Language Model，大型语言模型）、AIGC（AI Generated Content
 
 ----
 
-🗓 第 1-2 周：基础知识与深度学习入门
-🧠 目标：
-掌握 Python 编程
 
-理解神经网络基本结构和训练机制
-
-✅ 每周任务：
-
-
-学习神经网络原理（推荐：李宏毅深度学习课前几讲）
-
-学会用 PyTorch 写一个 MLP 并在 MNIST 上训练
 
 🗓 第 3-4 周：语言模型与 Transformer 理解
 🧠 目标：
