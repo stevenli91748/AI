@@ -66,50 +66,35 @@ LLM（Large Language Model，大型语言模型）、AIGC（AI Generated Content
 
 # 目录
 1. 基础知识准备
-✅ 编程能力---学习 Python，熟练掌握基础语法、数据结构（list/dict/set）、函数与类，学习 Numpy、Pandas、Matplotlib 基础，便于处理数据和可视化
-✅ 数学基础---线性代数：矩阵运算、特征值分解，概率论与统计：条件概率、贝叶斯公式、最大似然估计，微积分：偏导数、链式法则，推荐资源：3Blue1Brown 视频（直观）+ 李宏毅机器学习课前几章
+* ✅ 编程能力---学习 Python，熟练掌握基础语法、数据结构（list/dict/set）、函数与类，学习 Numpy、Pandas、Matplotlib 基础，便于处理数据和可视化
+* ✅ 数学基础---线性代数：矩阵运算、特征值分解，概率论与统计：条件概率、贝叶斯公式、最大似然估计，微积分：偏导数、链式法则，推荐资源：3Blue1Brown 视频（直观）+ 李宏毅机器学习课前几章
 
 2. 深度学习基础
-✅ 理解神经网络---感知机 → 多层感知机（MLP）→ 前馈神经网络（FNN），反向传播与梯度下降优化器（SGD、Adam）
-✅ 熟悉框架---PyTorch（推荐） 或 TensorFlow，会用 torch.nn, torch.optim, torch.utils.data 编写基础模型训练
-✅ 学习资源---《Deep Learning》by Ian Goodfellow（理论），李宏毅《深度学习》课程（系统），FastAI 或 HuggingFace 的入门教程（实践）
+* ✅ 理解神经网络---感知机 → 多层感知机（MLP）→ 前馈神经网络（FNN），反向传播与梯度下降优化器（SGD、Adam）
+* ✅ 熟悉框架---PyTorch（推荐） 或 TensorFlow，会用 torch.nn, torch.optim, torch.utils.data 编写基础模型训练
+* ✅ 学习资源---《Deep Learning》by Ian Goodfellow（理论），李宏毅《深度学习》课程（系统），FastAI 或 HuggingFace 的入门教程（实践）
 
 3. 语言模型基础
-✅ 理解 NLP 任务---Tokenization、Word Embedding、Sequence Modeling，LSTM / GRU 简介（可略），Transformer 架构（重点）
-✅ Transformer 细节---Self-Attention，Positional Encoding，Multi-head Attention，LayerNorm / Residual
-✅ 推荐资料---Illustrated Transformer（可视化讲解），Attention Is All You Need（原论文），Stanford CS224n（自然语言处理课程）
+* ✅ 理解 NLP 任务---Tokenization、Word Embedding、Sequence Modeling，LSTM / GRU 简介（可略），Transformer 架构（重点）
+* ✅ Transformer 细节---Self-Attention，Positional Encoding，Multi-head Attention，LayerNorm / Residual
+* ✅ 推荐资料---Illustrated Transformer（可视化讲解），Attention Is All You Need（原论文），Stanford CS224n（自然语言处理课程）
 
 4. 大模型架构与训练机制
-✅ 构建 LLM 的关键模块---Decoder-only Transformer（GPT 架构），Masked Self-Attention，Causal Language Modeling（CLM）
-✅ 训练大模型要点---预训练 vs 微调，数据并行、模型并行（Megatron、Deepspeed），Mixed Precision、Gradient Checkpointing
+* ✅ 构建 LLM 的关键模块---Decoder-only Transformer（GPT 架构），Masked Self-Attention，Causal Language Modeling（CLM）
+* ✅ 训练大模型要点---预训练 vs 微调，数据并行、模型并行（Megatron、Deepspeed），Mixed Precision、Gradient Checkpointing
 
 5. 开源项目实战
-✅ 推荐实战项目
-HuggingFace Transformers: 熟悉 AutoModelForCausalLM, Trainer
-
-LLaMA、GPT-NeoX、RWKV：了解模型结构与微调流程
-
-LoRA / QLoRA 微调方法，适合资源有限场景
+* ✅ 推荐实战项目---HuggingFace Transformers: 熟悉 AutoModelForCausalLM, Trainer，LLaMA、GPT-NeoX、RWKV：了解模型结构与微调流程，LoRA / QLoRA 微调方法，适合资源有限场景
 
 6. 部署与应用
-✅ 模型推理部署
-ONNX、TorchScript
-
-HuggingFace Inference Endpoints、FastAPI 接口部署
-
-GPU 加速、量化推理（INT8）
-
-✅ 应用场景
-Chatbot、文档总结、代码补全、问答系统
+* ✅ 模型推理部署---ONNX、TorchScript，HuggingFace Inference Endpoints、FastAPI 接口部署，GPU 加速、量化推理（INT8）
+* ✅ 应用场景---Chatbot、文档总结、代码补全、问答系统
 
 7. 进阶阅读与研究方向（可选）
-MoE（Mixture of Experts）
-
-RAG（Retrieval Augmented Generation）
-
-多模态模型（图文理解）、Agent 系统（LangChain）
-
-RLHF（强化学习人类反馈）
+* MoE（Mixture of Experts）
+* RAG（Retrieval Augmented Generation）
+* 多模态模型（图文理解）、Agent 系统（LangChain）
+* RLHF（强化学习人类反馈）
 
 ----
 
