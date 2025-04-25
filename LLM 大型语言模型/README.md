@@ -151,11 +151,42 @@ LLM（Large Language Model，大型语言模型）、AIGC（AI Generated Content
  
 
 5. 开源项目实战
+
 * ✅ 推荐实战项目---HuggingFace Transformers: 熟悉 AutoModelForCausalLM, Trainer，LLaMA、GPT-NeoX、RWKV：了解模型结构与微调流程，LoRA / QLoRA 微调方法，适合资源有限场景
+
+  🗓️ 第 6 周：项目实战整合（Day 36-42）
+
+        天数	学习内容
+        Day 29	端到端流程梳理：准备数据 → 微调 → 推理
+        Day 30	开发数据收集脚本并构造训练集
+        Day 31	使用自己的数据训练简易问答模型
+        Day 32	训练调试，分析 loss 曲线与 overfitting 现象
+        Day 33	推理、部署、打包工具整合
+        Day 34	项目收尾：封装 API，打包 demo 工程
+        Day 35	项目演示 + 总结（写文档）
+
+
 
 6. 部署与应用
 * ✅ 模型推理部署---ONNX、TorchScript，HuggingFace Inference Endpoints、FastAPI 接口部署，GPU 加速、量化推理（INT8）
 * ✅ 应用场景---Chatbot、文档总结、代码补全、问答系统
+
+  🗓️ 第 7 周：部署与优化（Day 29-35）
+
+    🧠 目标：掌握模型导出、量化与部署方法
+
+    ✅ 每周任务：使用 transformers + gradio 创建一个简单聊天网页，了解模型导出 ONNX、TorchScript，尝试使用 quantization 推理加速（bitsandbytes 或 GGML）
+
+    天数	学习内容
+    Day 36	模型推理优化：int8 量化，混合精度
+    Day 37	导出 ONNX / TorchScript 模型
+    Day 38	使用 Gradio 创建推理界面
+    Day 39	FastAPI + Transformers 构建 API 服务
+    Day 40	模型部署到本地/服务器
+    Day 41	测试部署性能，响应时间分析
+    Day 42	复习 + 小项目：部署你的聊天机器人到本地网页
+
+
 
 7. 进阶阅读与研究方向（可选）
 * ✅ MoE（Mixture of Experts）
@@ -163,155 +194,13 @@ LLM（Large Language Model，大型语言模型）、AIGC（AI Generated Content
 * ✅ 多模态模型（图文理解）、Agent 系统（LangChain）
 * ✅ RLHF（强化学习人类反馈）
 
-----
+  🗓️ 第 8 周	阅读论文（MoE、RAG、RLHF 各一篇）
+  
+        🧠 目标：整合从训练到部署的流程,初探前沿方向（MoE, RAG, RLHF）
 
-
-
-🗓 第 3-4 周：语言模型与 Transformer 理解
-🧠 目标：
-掌握 NLP 基础与 Transformer 架构
-
-理解 Attention、Embedding、位置编码等机制
-
-✅ 每周任务：
-阅读“Attention is All You Need”前半部分
-
-跟着 Illustrated Transformer 做可视化学习
-
-用 PyTorch 实现简化版的 Transformer（可参考 Harvard NLP 的教程）
-
-用 HuggingFace 加载一个 GPT2 模型并进行推理
-
-🗓 第 5-6 周：实战 HuggingFace 与微调 LLM
-🧠 目标：
-学会使用 HuggingFace Transformers 进行微调
-
-掌握 Tokenizer、数据准备、训练流程
-
-✅ 每周任务：
-学习 HuggingFace 教程（HuggingFace Course）
-
-微调一个 GPT2 或 LLaMA 模型做摘要/问答（LoRA 或 QLoRA）
-
-理解模型训练日志、保存和加载
-
-🗓 第 7 周：模型部署与推理优化
-🧠 目标：
-掌握模型导出、量化与部署方法
-
-✅ 每周任务：
-使用 transformers + gradio 创建一个简单聊天网页
-
-了解模型导出 ONNX、TorchScript
-
-尝试使用 quantization 推理加速（bitsandbytes 或 GGML）
-
-🗓 第 8 周：项目整合与进阶阅读
-🧠 目标：
-整合从训练到部署的流程
-
-初探前沿方向（MoE, RAG, RLHF）
-
-✅ 每周任务：
-实现一个端到端的聊天系统 demo（数据 → 微调 → 部署）
-
-阅读一篇前沿论文：RAG 或 RLHF
-
-浏览 LLaMA、GPT-NeoX、RWKV 的开源实现
-
-🔧 推荐工具与资源
-
-类型	名称/链接
-课程	李宏毅机器学习、HuggingFace Course
-框架	PyTorch、Transformers、Datasets、Gradio
-项目代码	LLaMA.cpp、GPT2 微调教程、HuggingFace examples
-可视化理解	Visual Transformer
-数据集	SST-2、AG News、OpenAssistant Dataset
-
-----
-
-
-🗓️ 第 1 周：Python 与深度学习基础（Day 1-7）
-
-天数	学习内容
-Day 1	Python 基础语法、变量、分支、循环
-Day 2	函数、列表/字典/集合操作
-Day 3	Numpy 基础，矩阵运算
-Day 4	Pandas 读写 CSV、基本统计分析
-Day 5	Matplotlib 数据可视化
-Day 6	PyTorch 张量、模型定义、前向传播
-Day 7	复习 + 写一个简单的 MLP 模型用于分类 MNIST（含训练与验证）
-
-🗓️ 第 2 周：深度学习进阶与优化（Day 8-14）
-
-天数	学习内容
-Day 8	神经网络反向传播原理
-Day 9	Loss 函数、优化器（SGD/Adam）原理
-Day 10	使用 PyTorch 训练 MLP 并使用 TensorBoard 监控
-Day 11	使用 DataLoader 和自定义 Dataset
-Day 12	模型保存、加载、断点训练
-Day 13	写一个完整的分类项目（结构 + 参数调优）
-Day 14	复习 + 小项目：CIFAR-10 图像分类
-
-🗓️ 第 3 周：NLP 入门与 Transformer 理解（Day 15-21）
-
-天数	学习内容
-Day 15	NLP 任务简介 + Tokenizer 原理
-Day 16	Word Embedding：Word2Vec / BERT embedding
-Day 17	Transformer 架构总览
-Day 18	Self-Attention 与多头注意力机制
-Day 19	Positional Encoding、LayerNorm、残差连接
-Day 20	实现一个简化版 Transformer（Encoder）
-Day 21	复习 + 用 Transformers 库加载 GPT2 并推理文本生成
-
-🗓️ 第 4 周：HuggingFace 快速上手（Day 22-28）
-
-天数	学习内容
-Day 22	HuggingFace Transformers 库结构概览
-Day 23	使用 Pretrained 模型 + Tokenizer 推理
-Day 24	文本分类任务微调（Trainer + Dataset）
-Day 25	文本生成任务微调（Causal LM）
-Day 26	掌握 LoRA 机制进行参数高效微调
-Day 27	用小数据做一次微调（SST2）
-Day 28	复习 + 小项目：训练一个对话模型并保存
-
-🗓️ 第 5 周：部署与优化（Day 29-35）
-
-天数	学习内容
-Day 29	模型推理优化：int8 量化，混合精度
-Day 30	导出 ONNX / TorchScript 模型
-Day 31	使用 Gradio 创建推理界面
-Day 32	FastAPI + Transformers 构建 API 服务
-Day 33	模型部署到本地/服务器
-Day 34	测试部署性能，响应时间分析
-Day 35	复习 + 小项目：部署你的聊天机器人到本地网页
-
-🗓️ 第 6 周：项目实战整合（Day 36-42）
-
-天数	学习内容
-Day 36	端到端流程梳理：准备数据 → 微调 → 推理
-Day 37	开发数据收集脚本并构造训练集
-Day 38	使用自己的数据训练简易问答模型
-Day 39	训练调试，分析 loss 曲线与 overfitting 现象
-Day 40	推理、部署、打包工具整合
-Day 41	项目收尾：封装 API，打包 demo 工程
-Day 42	项目演示 + 总结（写文档）
-
-🗓️ 第 7-8 周：前沿技术与深度理解（Day 43-60）
-
-周	任务
-第 7 周	阅读论文（MoE、RAG、RLHF 各一篇）
-实现简单版检索增强生成（RAG）
-对比 GPT2 与 LLaMA 的结构与推理性能
-
-第 8 周	使用 LangChain 实现简单智能助手
-集成向量数据库（如 FAISS）
-模拟 RLHF 数据训练一个奖励模型
-完整复习全流程，输出总结笔记
-
-
-
-----
+        ✅ 每周任务：实现一个端到端的聊天系统 demo（数据 → 微调 → 部署）,阅读一篇前沿论文：RAG 或 RLHF, 浏览 LLaMA、GPT-NeoX、RWKV 的开源实现,
+                    实现简单版检索增强生成（RAG）对比 GPT2 与 LLaMA 的结构与推理性能,使用 LangChain 实现简单智能助手，集成向量数据库（如 FAISS）
+                    模拟 RLHF 数据训练一个奖励模型，完整复习全流程，输出总结笔记
 
 
 
