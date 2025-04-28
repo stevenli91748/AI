@@ -65,6 +65,8 @@ LLM（Large Language Model，大型语言模型）、AIGC（AI Generated Content
   * [AI 大模型---工程落地方向 ](https://github.com/stevenli91748/AI/blob/master/LLM%20%E5%A4%A7%E5%9E%8B%E8%AF%AD%E8%A8%80%E6%A8%A1%E5%9E%8B/AI%20%E5%A4%A7%E6%A8%A1%E5%9E%8B---%E5%B7%A5%E7%A8%8B%E8%90%BD%E5%9C%B0%E6%96%B9%E5%90%91.md)
 
 # 目录
+0. 环境配置
+   * [建立环境的三种方法](https://simplelearn.tw/anaconda-navigator-virtual-environment/)  
 1. 基础知识准备（第 1 周）---掌握 Python 编程，理解神经网络基本结构和训练机制
 * ✅ 编程能力---学习 Python，熟练掌握基础语法、数据结构（list/dict/set）、函数与类，学习 Numpy、Pandas、Matplotlib 基础，便于处理数据和可视化,
                 
