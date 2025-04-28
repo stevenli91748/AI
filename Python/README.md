@@ -3,4 +3,5 @@
 
 # 目录
 * python 函数库
-  * [Pandas](https://github.com/stevenli91748/AI/tree/master/Python/pandas)  
+  * [Pandas](https://github.com/stevenli91748/AI/tree/master/Python/pandas)
+  * [Matplotlib](https://github.com/stevenli91748/AI/tree/master/Python/Matplotlib)
