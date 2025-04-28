@@ -70,7 +70,8 @@ LLM（Large Language Model，大型语言模型）、AIGC（AI Generated Content
 1. 基础知识准备（第 1 周）---掌握 Python 编程，理解神经网络基本结构和训练机制
 * ✅ 编程能力---学习 Python，熟练掌握基础语法、数据结构（list/dict/set）、函数与类，学习 Numpy、Pandas、Matplotlib 基础，便于处理数据和可视化
      * [pandas](https://github.com/stevenli91748/AI/tree/master/Python/pandas) 
-     * [Matplotlib](https://github.com/stevenli91748/AI/tree/master/Python/Matplotlib)           
+     * [Matplotlib](https://github.com/stevenli91748/AI/tree/master/Python/Matplotlib)
+     * [NumPy](https://github.com/stevenli91748/AI/tree/master/Python/NumPy)       
 * ✅ 数学基础---线性代数：矩阵运算、特征值分解，概率论与统计：条件概率、贝叶斯公式、最大似然估计，微积分：偏导数、链式法则，推荐资源：3Blue1Brown 视频（直观）+ 李宏毅机器学习课前几章
 
   🗓️ 第 1 周：Python 与深度学习基础（Day 1-7）
