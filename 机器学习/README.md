@@ -7,6 +7,9 @@
  * [唐宇迪人工智能开发工程师：机器学习算法详解](https://edu.51cto.com/course/15009.html)
  * [machine-learning-yearning](https://github.com/ajaymache/machine-learning-yearning/blob/master/full%20book/machine-learning-yearning.pdf)
 
+# 机器学习例子项目
+  * [机器学习例子项目](https://simplelearn.tw/category/%e6%a9%9f%e5%99%a8%e5%ad%b8%e7%bf%92/)
+
 
 # 目录
 
