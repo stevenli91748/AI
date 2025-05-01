@@ -35,6 +35,7 @@ LLM（Large Language Model，大型语言模型）、AIGC（AI Generated Content
 
 总的来说AI主要由算法、算力、数据组成，算法是核心。LLM是基于Transformer架构的算法成果，属于NLP领域关键技术，赋予AI理解和生成语言的能力。如果把AI AGENT看作人工助手，LLM就是其大脑，提供智能核心。AIGC则基于LLM等技术，生成语言、图像、音频等内容，就像人基于大脑的一些语言和视觉的表达。举个例子：云雀模型是LLM，豆包的问答查询基于此，是AIGC在语言领域的应用；图片生成借助专门模型，也是AIGC。豆包APP里的智能体是AI AGENT，集成云雀能力为用户服务。
 
+# 自然语言 LLM 学习路径
 
 ![自然语言 LLM 学习路径](https://github.com/stevenli91748/AI/blob/master/%E8%87%AA%E7%84%B6%E8%AF%AD%E8%A8%80%E5%A4%84%E7%90%86%E5%AD%A6%E4%B9%A0%E8%B7%AF%E5%BE%84.png  "自然语言 LLM 学习路径")
 
