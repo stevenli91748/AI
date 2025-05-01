@@ -35,12 +35,16 @@
 提高数据分析能力，理解业务场景并将AI技术应用于实际问题。
 学习云计算平台上的服务，如阿里云、AWS或Google Cloud的AI/ML服务，以便将模型部署到生产环境。
 
-                        
+                         
 
 
 # AI学习路径
   
-  
+# 1 数据分析学习路径
+！[]() 
+# 2 计算机视觉学习路径
+# 3 自然语言处理学习路径
+# 4 推荐系统学习路径
   
   * 大模型学习路线
       * [AI大模型学习路线](https://www.bilibili.com/video/BV15Y6JYWE6u/?spm_id_from=333.337.search-card.all.click&vd_source=2e815885181376606e6c241ba03c8907)
