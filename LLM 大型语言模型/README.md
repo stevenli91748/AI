@@ -43,6 +43,8 @@ LLM（Large Language Model，大型语言模型）、AIGC（AI Generated Content
 ---|---|---|---|
 
 
+
+
 * [自学 AI 大模型的学习路线推荐---强](https://www.bilibili.com/video/BV12uY7eiEpG?spm_id_from=333.788.recommend_more_video.14&vd_source=2e815885181376606e6c241ba03c8907)
 * [AI大模型学习路线](https://www.bilibili.com/video/BV15Y6JYWE6u/?spm_id_from=333.337.search-card.all.click&vd_source=2e815885181376606e6c241ba03c8907)
 * [一个月吃透人工智能学习路线---唐宇迪](https://www.bilibili.com/video/BV1p4NGerEwJ?spm_id_from=333.788.videopod.episodes&vd_source=2e815885181376606e6c241ba03c8907&p=2)
