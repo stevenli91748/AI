@@ -41,11 +41,13 @@
 # AI学习路径
   
 # 1 数据分析学习路径
-！[]() 
+![](https://github.com/stevenli91748/AI/blob/master/%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90%E5%AD%A6%E4%B9%A0%E8%B7%AF%E5%BE%84.png) 
 # 2 计算机视觉学习路径
+![](https://github.com/stevenli91748/AI/blob/master/%E8%AE%A1%E7%AE%97%E6%9C%BA%E8%A7%86%E8%A7%89%E5%AD%A6%E4%B9%A0%E8%B7%AF%E5%BE%84.png)
 # 3 自然语言处理学习路径
+![](https://github.com/stevenli91748/AI/blob/master/%E8%87%AA%E7%84%B6%E8%AF%AD%E8%A8%80%E5%A4%84%E7%90%86%E5%AD%A6%E4%B9%A0%E8%B7%AF%E5%BE%84.png)
 # 4 推荐系统学习路径
-  
+![](https://github.com/stevenli91748/AI/blob/master/%E6%8E%A8%E8%8D%90%E7%B3%BB%E7%BB%9F%E5%AD%A6%E4%B9%A0%E8%B7%AF%E5%BE%84.png)  
   * 大模型学习路线
       * [AI大模型学习路线](https://www.bilibili.com/video/BV15Y6JYWE6u/?spm_id_from=333.337.search-card.all.click&vd_source=2e815885181376606e6c241ba03c8907)
       * [一个月吃透人工智能学习路线---唐宇迪](https://www.bilibili.com/video/BV1p4NGerEwJ?spm_id_from=333.788.videopod.episodes&vd_source=2e815885181376606e6c241ba03c8907&p=2)
