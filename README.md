@@ -39,6 +39,9 @@
 
 
 # AI学习路径
+  
+  
+  
   * 大模型学习路线
       * [AI大模型学习路线](https://www.bilibili.com/video/BV15Y6JYWE6u/?spm_id_from=333.337.search-card.all.click&vd_source=2e815885181376606e6c241ba03c8907)
       * [一个月吃透人工智能学习路线---唐宇迪](https://www.bilibili.com/video/BV1p4NGerEwJ?spm_id_from=333.788.videopod.episodes&vd_source=2e815885181376606e6c241ba03c8907&p=2)
@@ -60,6 +63,10 @@
   * [这绝对是B站2025年人工智能入门的天花板教程](https://www.bilibili.com/video/BV1mSq2Y1ER5?spm_id_from=333.788.recommend_more_video.1&vd_source=be3ac4894f8bf7883ae92030f6f7be46)
   * [【全748集】清华大佬终于把AI大模型（LLM）讲清楚了！通俗易懂，2024最新内部版](https://www.bilibili.com/video/BV1rS411F735?spm_id_from=333.788.player.switch&vd_source=be3ac4894f8bf7883ae92030f6f7be46&p=3)
   * [DeepLearnAI---FREE COURSE](https://www.deeplearning.ai/short-courses/langchain-for-llm-application-development/)
+
+
+
+
 # AI论文
 * [人工智能从业者应该从哪里去寻找和阅读顶级论文？](https://www.zhihu.com/question/303022763)
 * [人工智能必看的45篇论文](https://islinxu.github.io/survey-read-notes/List/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%BF%85%E7%9C%8B%E7%9A%8445%E7%AF%87%E8%AE%BA%E6%96%87.html)
@@ -120,7 +127,6 @@
 * [人脸识别算法与案例分析](https://weread.qq.com/web/reader/7da32c20723b09737daff5a)
 * [人脸图像处理与识别](https://weread.qq.com/web/reader/e81328a05a80d0e814c6147)
 * [人脸识别与美颜算法实战： 基于Python, 机器学习与深度学习](https://weread.qq.com/web/bookDetail/6a932e80811e37963g017dd0)
-
 
 ## 自动驾驶
 * [3D视觉工坊](https://www.3dcver.com/)
