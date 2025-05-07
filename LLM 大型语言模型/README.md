@@ -48,8 +48,8 @@ LLM（Large Language Model，大型语言模型）、AIGC（AI Generated Content
 
   
 # 博客
-[动手学大模型应用开发---github](https://github.com/datawhalechina/llm-universe)|[llm-action](https://github.com/liguodongiot/llm-action)|[3Blue1Brown](https://www.youtube.com/c/3blue1brown)| [Datawhale人工智能培养方案](https://github.com/datawhalechina)|
----|---|---|---|
+[动手学大模型应用开发---github](https://github.com/datawhalechina/llm-universe)|[llm-action](https://github.com/liguodongiot/llm-action)|[3Blue1Brown](https://www.youtube.com/c/3blue1brown)| [Datawhale人工智能培养方案](https://github.com/datawhalechina)|[面向开发者的LLM手册](https://datawhalechina.github.io/llm-cookbook/#/)|
+---|---|---|---|---|
 
 
 
