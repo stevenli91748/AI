@@ -18,11 +18,19 @@ API 实现包括总结、推断、转换等多种常用功能，是入门 LLM �
 
 **选修类课程包括（注：选修类课程暂时没有在线阅读版本）：**
 
-1. 使用 Gradio 搭建生成式 AI 应用。基于吴恩达老师《Building Generative AI Applications with Gradio》课程打造，指导开发者如何使用 Gradio 通过 Python 接口程序快速、高效地为生成式 AI 构建用户界面。
-评估改进生成式 AI。基于吴恩达老师《Evaluating and Debugging Generative AI》课程打造，结合 wandb，提供一套系统化的方法和工具，帮助开发者有效地跟踪和调试生成式 AI 模型。
-微调大语言模型。基于吴恩达老师《Finetuning Large Language Model》课程打造，结合 lamini 框架，讲述如何便捷高效地在本地基于个人数据微调开源大语言模型。
-大模型与语义检索。基于吴恩达老师《Large Language Models with Semantic Search》课程打造，针对检索增强生成，讲述了多种高级检索技巧以实现更准确、高效的检索增强 LLM 生成效果。
-基于 Chroma 的高级检索。基于吴恩达老师《Advanced Retrieval for AI with Chroma》课程打造，旨在介绍基于 Chroma 的高级检索技术，提升检索结果的准确性。
-搭建和评估高级 RAG 应用。基于吴恩达老师《Building and Evaluating Advanced RAG Applications》课程打造，介绍构建和实现高质量RAG系统所需的关键技术和评估框架。
-LangChain 的 Functions、Tools 和 Agents。基于吴恩达老师《Functions, Tools and Agents with LangChain》课程打造，介绍如何基于 LangChain 的新语法构建 Agent。
-Prompt 高级技巧。原创内容，创作中。
+* 1. 使用 Gradio 搭建生成式 AI 应用。基于吴恩达老师《Building Generative AI Applications with Gradio》课程打造，指导开发者如何使用 Gradio 通过 Python 接口程序快速、高效地为生成式 AI 构建用
+     户界面。
+   
+* 2. 评估改进生成式 AI。基于吴恩达老师《Evaluating and Debugging Generative AI》课程打造，结合 wandb，提供一套系统化的方法和工具，帮助开发者有效地跟踪和调试生成式 AI 模型。
+  
+* 3. 微调大语言模型。基于吴恩达老师《Finetuning Large Language Model》课程打造，结合 lamini 框架，讲述如何便捷高效地在本地基于个人数据微调开源大语言模型。
+   
+* 4. 大模型与语义检索。基于吴恩达老师《Large Language Models with Semantic Search》课程打造，针对检索增强生成，讲述了多种高级检索技巧以实现更准确、高效的检索增强 LLM 生成效果。
+
+* 5. 基于 Chroma 的高级检索。基于吴恩达老师《Advanced Retrieval for AI with Chroma》课程打造，旨在介绍基于 Chroma 的高级检索技术，提升检索结果的准确性。
+  
+* 6. 搭建和评估高级 RAG 应用。基于吴恩达老师《Building and Evaluating Advanced RAG Applications》课程打造，介绍构建和实现高质量RAG系统所需的关键技术和评估框架。
+
+* 7. LangChain 的 Functions、Tools 和 Agents。基于吴恩达老师《Functions, Tools and Agents with LangChain》课程打造，介绍如何基于 LangChain 的新语法构建 Agent。
+
+* 8. Prompt 高级技巧。
