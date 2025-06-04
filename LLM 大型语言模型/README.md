@@ -53,6 +53,7 @@ LLM（Large Language Model，大型语言模型）、AIGC（AI Generated Content
 
 [githut 上最多人的LLM学习课程](https://github.com/mlabonne/llm-course)|
 ---|
+* [开源的中文大语言模型，以规模较小、可私有化部署、训练成本较低的模型为主，包括底座模型，垂直领域微调及应用，数据集与教程等](https://github.com/HqWu-HITCS/Awesome-Chinese-LLM)
 * [别再花钱学大模型了，推荐几个免费高质量大模型学习平台](https://zhuanlan.zhihu.com/p/1900586391215268776)
 * [9个学习AI的网站（免费自学人工智能必备）](https://www.xue8nav.com/2090.html)
 * [自学 AI 大模型的学习路线推荐---强](https://www.bilibili.com/video/BV12uY7eiEpG?spm_id_from=333.788.recommend_more_video.14&vd_source=2e815885181376606e6c241ba03c8907)
