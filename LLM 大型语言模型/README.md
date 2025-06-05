@@ -42,6 +42,26 @@ LLM（Large Language Model，大型语言模型）、AIGC（AI Generated Content
 # 在线书籍
   * [神书  从零构建大型语言模型](https://www.scribd.com/document/763076237/%E4%BB%8E%E9%9B%B6%E6%9E%84%E5%BB%BA%E5%A4%A7%E8%AF%AD%E8%A8%80%E6%A8%A1%E5%9E%8B-%E4%B8%AD%E6%96%87%E7%89%88)
 
+由于AI大模型的发展日新月异，所以选取的书籍基本都是新近出版的，而且尽量在较新的书籍中选择豆瓣评分高的。
+
+LangChain
+李特丽：《LangChain入门指南：构建高可复用、可扩展的LLM应用程序》【2024出版】
+李多多：《LangChain编程》【2024出版】
+张海立：《LangChain实战：从原型到生产，动手打造 LLM 应用》【2024出版】
+刘伟舟：《LangChain简明讲义：从0到1构建LLM应用程序》【2024出版】
+
+AI大模型
+张奇：《大规模语言模型：从理论到实践》【2024出版】
+奥利维耶·卡埃朗：《大模型应用开发极简入门》【2024出版】
+杨青：《大语言模型：原理与工程实践》【2024出版】
+熊涛：《大语言模型：基础与前沿》【2024出版】
+刘阳：《多模态大模型：新一代人工智能技术范式》【2024出版】
+[法]丹尼斯·罗斯曼：《基于GPT-3、ChatGPT、GPT-4等Transformer架构的自然语言处理》【2024出版】
+郝少春：《ChatGPT原理与应用开发》【2024出版】
+王晓华：《从零开始大模型开发与微调：基于PyTorch与ChatGLM》【2023.11出版】
+黄佳：《GPT图解大模型是怎样构建的》【2023.12出版】
+尤洋：《实战AI大模型》【2023.11出版】
+
 # 学习例子
  [动手学大模型应用开发例子1](https://datawhalechina.github.io/llm-universe/#/)|[动手学大模型应用开发例子2](https://www.cnblogs.com/longronglang/category/2442713.html)|
 ---|---|
