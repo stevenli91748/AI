@@ -71,8 +71,8 @@ AI大模型
 [动手学大模型应用开发---github](https://github.com/datawhalechina/llm-universe)|[llm-action](https://github.com/liguodongiot/llm-action)|[3Blue1Brown](https://www.youtube.com/c/3blue1brown)| [Datawhale人工智能培养方案](https://github.com/datawhalechina)|[面向开发者的LLM手册](https://datawhalechina.github.io/llm-cookbook/#/)|
 ---|---|---|---|---|
 
-[githut 上最多人的LLM学习课程](https://github.com/mlabonne/llm-course)|[AI大模型学习资料](https://www.cnblogs.com/bigai/articles/18187946)|
----|---|
+[githut 上最多人的LLM学习课程](https://github.com/mlabonne/llm-course)|[AI大模型学习资料](https://www.cnblogs.com/bigai/articles/18187946)|[GitHub狂飙3万star的LLM公开资料 - 大模型入门教程](https://zhuanlan.zhihu.com/p/686277638)|
+---|---|---|
 * [大模型基础: 一文了解大模型基础知识](https://github.com/datawhalechina/so-large-lm?tab=readme-ov-file)
 * [开源的中文大语言模型，以规模较小、可私有化部署、训练成本较低的模型为主，包括底座模型，垂直领域微调及应用，数据集与教程等](https://github.com/HqWu-HITCS/Awesome-Chinese-LLM)
 * [别再花钱学大模型了，推荐几个免费高质量大模型学习平台](https://zhuanlan.zhihu.com/p/1900586391215268776)
