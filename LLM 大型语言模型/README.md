@@ -78,9 +78,13 @@ AI大模型
   * [小飞有点东西---python学习视频  每个视频只有几分钟，通俗易懂](https://space.bilibili.com/1803865534?spm_id_from=333.337.0.0)
   * 小白 ai：  包含一系列让你明白 ai 的原理
     * [入门篇：90 分钟！清华博士带你一口气搞懂人工智能和神经网络](https://www.bilibili.com/video/BV1atCRYsE7x/?clienttype=8&version=7.57.0.102&from=win32_yunguanjia&spm_id_from=333.337.search-card.all.click&vd_source=8aac1f6a5918d89a4405394c75c127ef&channel=00000000000000000000000040000001&privilege=&pri_extra=)
-    * 
-
-
+  * [从编解码和词嵌入开始，一步一步理解 Transformer，注意力机制(Attention)的本质是卷积神经网络(CNN)](https://www.bilibili.com/video/BV1XH4y1T76e/?clienttype=8&version=7.57.0.102&from=win32_yunguanjia&spm_id_from=333.788.player.switch&vd_source=8aac1f6a5918d89a4405394c75c127ef&channel=00000000000000000000000040000001&privilege=&pri_extra=
+  * [手写 ai  提取码: rqsh](https://pan.baidu.com/s/1rNUrfQEhzrlnjS-fcu9Xsw#list/path=%2F&parentPath=%2Fsharelink4252786448-618212488618893)
+  * [18-LLM-模型  提取码: q55u](https://pan.baidu.com/s/1ANUBJGZbXx3wDajQoDEAvQ#list/path=%2F&parentPath=%2Fsharelink4252786448-1058866667290512)
+  * 聚客AI
+    * [聚客AI官网](https://www.guangjuke.com/)
+    * [聚客AI最详细的大模型学习路线！手把手教你最高效的大模型学习方法](https://www.bilibili.com/video/BV12oUXYsEbp/?spm_id_from=333.337.search-card.all.click&vd_source=2e815885181376606e6c241ba03c8907)
+    * [重磅 【聚客AI】 大模型项目实战，顶尖的大模型项目，老师非常有经验](https://www.bilibili.com/video/BV1vKKpefEfC/?spm_id_from=333.337.search-card.all.click)
 * [大模型基础: 一文了解大模型基础知识](https://github.com/datawhalechina/so-large-lm?tab=readme-ov-file)
 * [开源的中文大语言模型，以规模较小、可私有化部署、训练成本较低的模型为主，包括底座模型，垂直领域微调及应用，数据集与教程等](https://github.com/HqWu-HITCS/Awesome-Chinese-LLM)
 * [别再花钱学大模型了，推荐几个免费高质量大模型学习平台](https://zhuanlan.zhihu.com/p/1900586391215268776)
