@@ -73,6 +73,14 @@ AI大模型
 
 [githut 上最多人的LLM学习课程](https://github.com/mlabonne/llm-course)|[AI大模型学习资料](https://www.cnblogs.com/bigai/articles/18187946)|[GitHub狂飙3万star的LLM公开资料 - 大模型入门教程](https://zhuanlan.zhihu.com/p/686277638)|
 ---|---|---|
+
+# 目前推荐 3 个机构。 小白 ai+咪咕+手写 ai+聚客  
+  * [小飞有点东西---python学习视频  每个视频只有几分钟，通俗易懂](https://space.bilibili.com/1803865534?spm_id_from=333.337.0.0)
+  * 小白 ai：  包含一系列让你明白 ai 的原理
+    * [入门篇：90 分钟！清华博士带你一口气搞懂人工智能和神经网络](https://www.bilibili.com/video/BV1atCRYsE7x/?clienttype=8&version=7.57.0.102&from=win32_yunguanjia&spm_id_from=333.337.search-card.all.click&vd_source=8aac1f6a5918d89a4405394c75c127ef&channel=00000000000000000000000040000001&privilege=&pri_extra=)
+    * 
+
+
 * [大模型基础: 一文了解大模型基础知识](https://github.com/datawhalechina/so-large-lm?tab=readme-ov-file)
 * [开源的中文大语言模型，以规模较小、可私有化部署、训练成本较低的模型为主，包括底座模型，垂直领域微调及应用，数据集与教程等](https://github.com/HqWu-HITCS/Awesome-Chinese-LLM)
 * [别再花钱学大模型了，推荐几个免费高质量大模型学习平台](https://zhuanlan.zhihu.com/p/1900586391215268776)
