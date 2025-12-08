@@ -71,7 +71,8 @@
   * [DeepLearnAI---FREE COURSE](https://www.deeplearning.ai/short-courses/langchain-for-llm-application-development/)
 
 
-
+# AI TOOLS
+ * [不花钱也可以用的#AI ](https://www.youtube.com/shorts/lIBi34aoAew)
 
 # AI论文
 * [人工智能从业者应该从哪里去寻找和阅读顶级论文？](https://www.zhihu.com/question/303022763)
