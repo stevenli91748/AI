@@ -73,6 +73,8 @@
 
 # AI TOOLS
  * [不花钱也可以用的#AI ](https://www.youtube.com/shorts/lIBi34aoAew)
+ * [Google Gemini 全系列教學 (上集)！這21個超強AI應用，很多還免費](https://www.youtube.com/watch?v=4n8jswc2pAI)
+ * []()
 
 # AI论文
 * [人工智能从业者应该从哪里去寻找和阅读顶级论文？](https://www.zhihu.com/question/303022763)
