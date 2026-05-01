@@ -1,3 +1,6 @@
+
+
+
 数学与统计学基础：
 
 线性代数：矩阵运算、特征值与特征向量等。
@@ -39,7 +42,7 @@
 
 
 # AI学习路径
-  
+# [ 重要  AI时代已至，程序员的真正出路在这里——从焦虑到机遇的完全指南](https://cloud.tencent.com/developer/article/2624131)  
 # 1 数据分析学习路径
 ![](https://github.com/stevenli91748/AI/blob/master/%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90%E5%AD%A6%E4%B9%A0%E8%B7%AF%E5%BE%84.png) 
 # 2 计算机视觉学习路径
