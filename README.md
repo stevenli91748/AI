@@ -58,9 +58,9 @@
        * 2.4 数据管道   
   * 3. 数据工程（AI项目80%的时间在处理数据，技术栈：Spark，Airflow，Databricks↳，Snowflake，Data Lake 未来需求非常稳定）
   * 4. 安全工程（长期看好，都会成为重要领域，技术栈：Cloud Security↳ IAM，Zero Trust↳ Application Security ）
-     4.1 Prompt Injection↳
-     4.2 数据泄露
-     4.3 AI安全
+       * 4.1 Prompt Injection↳
+       * 4.2 数据泄露
+       * 4.3 AI安全
 
 
 
