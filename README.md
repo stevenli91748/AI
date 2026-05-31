@@ -42,6 +42,28 @@
 
 
 # AI学习路径
+# 能利用AI提高产出的工程师能保住工作，最值得投入的方向（按优先级）
+  1. AI + 软件工程（最高优先级  重点不是训练模型，而是：如何把AI接入真实业务系统，技术栈：Python ， FastAPI， LangGraph， OpenAI API，向量数据库）
+      1.1 LLM应用开发
+      1.2 Agent系统
+      1.3 RAG（检索增强生成）
+      1.4 MCP协议
+      1.5 AI工作流编排
+      1.6 模型评估（Evals）
+      1.7 Prompt Engineering（只是入门） 
+  2. 分布式系统和架构（技术栈：Kubernetes↳ Docker，Kafka ，Redis， PostgreSQL↳，AWS）
+      2.1 高并发系统
+      2.2 微服务架构
+      2.3 云原生平台
+      2.4 数据管道   
+  3. 数据工程（AI项目80%的时间在处理数据，技术栈：Spark，Airflow，Databricks↳，Snowflake，Data Lake 未来需求非常稳定）
+  4. 安全工程（长期看好，都会成为重要领域，技术栈：Cloud Security↳ IAM，Zero Trust↳ Application Security ）
+     4.1 Prompt Injection↳
+     4.2 数据泄露
+     4.3 AI安全
+
+
+
 # [从屁都不懂到成功转行AI工程师是怎么做到的](https://www.youtube.com/shorts/wPCBHRppRLM)
 # [ 重要  AI时代已至，程序员的真正出路在这里——从焦虑到机遇的完全指南](https://cloud.tencent.com/developer/article/2624131)  
 # 1 数据分析学习路径
