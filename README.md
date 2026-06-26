@@ -5,7 +5,7 @@
 
                          
 
-# AI学习路径A
+# [AI学习路径A](https://github.com/stevenli91748/AI/blob/master/AI%E5%AD%A6%E4%B9%A0%E8%B7%AF%E5%BE%84A.md)
  
 # AI学习路径B
 # 能利用AI提高产出的工程师能保住工作，最值得投入的方向（按优先级）
