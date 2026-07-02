@@ -1,7 +1,33 @@
 
 
 
+第一阶段（基础）
 
+Python
+Git
+Linux
+Docker
+SQL
+
+第二阶段（现代软件工程）
+
+FastAPI
+Spring Boot↳
+REST API
+AWS
+Kubernetes（基础）
+
+第三阶段（AI）
+
+OpenAI API↳
+Anthropic API↳
+Google Gemini API
+MCP
+RAG
+Vector Database↳
+AI Agent
+
+第四阶段（项目）
 
                          
 
