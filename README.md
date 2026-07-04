@@ -30,7 +30,7 @@ AI Agent
 第四阶段（项目）
 
                          
-
+# [2026 年 AI Engineer 学习路线图（按招聘需求排序）](https://github.com/stevenli91748/AI/blob/master/2026%20%E5%B9%B4%20AI%20Engineer%20%E5%AD%A6%E4%B9%A0%E8%B7%AF%E7%BA%BF%E5%9B%BE%EF%BC%88%E6%8C%89%E6%8B%9B%E8%81%98%E9%9C%80%E6%B1%82%E6%8E%92%E5%BA%8F%EF%BC%89.md)
 # [AI学习路径A](https://github.com/stevenli91748/AI/blob/master/AI%E5%AD%A6%E4%B9%A0%E8%B7%AF%E5%BE%84A.md)
  
 # [AI学习路径B](https://github.com/stevenli91748/AI/blob/master/AI%E5%AD%A6%E4%B9%A0%E8%B7%AF%E5%BE%84B.md)
