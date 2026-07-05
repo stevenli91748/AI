@@ -37,11 +37,11 @@ Visual Studio Code + GitHub Copilot	⭐⭐⭐☆☆	⭐⭐⭐⭐☆	⭐⭐⭐☆
 
 如果让我只推荐一套，我会建议：
 
-Claude Code：负责大型任务、跨文件修改、自动测试和重构。
+**Claude Code：负责大型任务、跨文件修改、自动测试和重构。
 Cursor：作为日常 IDE，阅读代码、快速修改和调试体验非常好。
 Docker Desktop：本地运行和验证。
 GitHub：版本管理和 CI/CD。
-OpenAI API：实现 AI 功能。
+OpenAI API：实现 AI 功能。**
 
 这个组合已经覆盖了大多数 AI 应用开发场景。
 
@@ -49,9 +49,9 @@ OpenAI API：实现 AI 功能。
 
 结合我们之前讨论过的学习路线（Python → FastAPI → Docker → PostgreSQL → OpenAI API → RAG → MCP → Agent），我更推荐你采用Agent 驱动的 Vibe Coding：
 
-用 Claude Code 或 Cursor 创建整个项目。
+**用 Claude Code 或 Cursor 创建整个项目。
 让 AI 持续实现每个功能模块，而不是一次性生成全部代码。
 每完成一个模块就运行、测试、提交 Git。
-最后由 AI 协助完成 Docker 化、CI/CD 和 AWS 部署。
+最后由 AI 协助完成 Docker 化、CI/CD 和 AWS 部署。**
 
 这种开发方式既能提升效率，也更符合目前美国 AI 软件工程团队的实际工作流程。
