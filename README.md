@@ -3,20 +3,13 @@
 
 第一阶段（基础）
 
-Python
 Git
 Linux
-Docker
 SQL
 
 第二阶段（现代软件工程）
 
-
-Spring Boot↳
-REST API
-Docker
-AWS
-Kubernetes（基础）
+Spring Boot → REST API → Docker → AWS →  Kubernetes（基础）
 
 第三阶段（AI）
 
