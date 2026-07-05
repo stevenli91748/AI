@@ -11,21 +11,16 @@ SQL
 
 第二阶段（现代软件工程）
 
-FastAPI
+
 Spring Boot↳
 REST API
+Docker
 AWS
 Kubernetes（基础）
 
 第三阶段（AI）
 
-OpenAI API↳
-Anthropic API↳
-Google Gemini API
-MCP
-RAG
-Vector Database↳
-AI Agent
+Python → FastAPI  → PostgreSQL → (OpenAI API or Anthropic API or Google Gemini API) → RAG → MCP → AI Agent + Vector Database↳
 
 第四阶段（项目）
 
