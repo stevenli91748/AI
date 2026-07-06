@@ -19,9 +19,6 @@ Python → FastAPI  → PostgreSQL → (OpenAI API or Anthropic API or Google Ge
 
 # [2026年 Vibe Coding 开发工具](https://github.com/stevenli91748/AI/blob/master/AI%E5%BC%80%E5%8F%91%E5%B7%A5%E5%85%B7/2026%E5%B9%B4Vibe%20Coding%20%E5%BC%80%E5%8F%91%E5%B7%A5%E5%85%B7.md)                         
 # [2026 年 AI Engineer 学习路线图（按招聘需求排序）](https://github.com/stevenli91748/AI/blob/master/2026%20%E5%B9%B4%20AI%20Engineer%20%E5%AD%A6%E4%B9%A0%E8%B7%AF%E7%BA%BF%E5%9B%BE%EF%BC%88%E6%8C%89%E6%8B%9B%E8%81%98%E9%9C%80%E6%B1%82%E6%8E%92%E5%BA%8F%EF%BC%89.md)
-# [AI学习路径A](https://github.com/stevenli91748/AI/blob/master/AI%E5%AD%A6%E4%B9%A0%E8%B7%AF%E5%BE%84A.md)
- 
-# [AI学习路径B](https://github.com/stevenli91748/AI/blob/master/AI%E5%AD%A6%E4%B9%A0%E8%B7%AF%E5%BE%84B.md)
 
 # [从屁都不懂到成功转行AI工程师是怎么做到的](https://www.youtube.com/shorts/wPCBHRppRLM)
 # [ 重要  AI时代已至，程序员的真正出路在这里——从焦虑到机遇的完全指南](https://cloud.tencent.com/developer/article/2624131)  
