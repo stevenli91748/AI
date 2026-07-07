@@ -15,6 +15,18 @@
 * OpenAI Codex CLI	⭐⭐⭐⭐☆	⭐⭐⭐⭐⭐	⭐⭐⭐⭐⭐	⭐⭐⭐⭐⭐	⭐⭐⭐⭐☆	⭐⭐⭐⭐⭐	⭐⭐⭐⭐☆
 * Visual Studio Code + GitHub Copilot	⭐⭐⭐☆☆	⭐⭐⭐⭐☆	⭐⭐⭐☆☆	⭐⭐⭐☆☆	⭐⭐⭐☆☆	⭐⭐⭐⭐☆	⭐⭐⭐⭐☆
 
+与其他 AI Coding 工具的区别
+工具	      定位	                   特点
+OpenAI    Codex	AI Coding Agent	  深度理解项目，执行开发任务
+GitHub    Copilot	IDE 编程助手	    代码补全、聊天、解释代码
+Claude    Code	AI Coding Agent	   擅长大型代码库分析和重构
+OpenClaw	 开源 Coding Agent	      自动完成完整开发流程
+Hermes	   通用 AI Agent	          强调长期记忆和技能积累
+
+
+
+
+
 如果是一个完整的 AI 项目，它们能做到什么？
 
 以你将来要做的项目为例：
