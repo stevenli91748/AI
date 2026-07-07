@@ -7,12 +7,14 @@
 按 AI Engineer 的实际开发体验，我推荐如下：
 
 工具	从头到尾开发	多文件修改	自动调试	自动测试	部署协助	AI 项目能力	推荐指数
-Claude Code	⭐⭐⭐⭐⭐	⭐⭐⭐⭐⭐	⭐⭐⭐⭐⭐	⭐⭐⭐⭐⭐	⭐⭐⭐⭐⭐	⭐⭐⭐⭐⭐	⭐⭐⭐⭐⭐   
- * [Claude Code免费用！超详细薅羊毛教程](https://adg.csdn.net/694cf4d95b9f5f31781aa7ef.html)
-Cursor	⭐⭐⭐⭐☆	⭐⭐⭐⭐⭐	⭐⭐⭐⭐☆	⭐⭐⭐⭐☆	⭐⭐⭐⭐☆	⭐⭐⭐⭐⭐	⭐⭐⭐⭐⭐
-Windsurf	⭐⭐⭐⭐☆	⭐⭐⭐⭐⭐	⭐⭐⭐⭐☆	⭐⭐⭐⭐☆	⭐⭐⭐⭐☆	⭐⭐⭐⭐☆	⭐⭐⭐⭐☆
-OpenAI Codex CLI	⭐⭐⭐⭐☆	⭐⭐⭐⭐⭐	⭐⭐⭐⭐⭐	⭐⭐⭐⭐⭐	⭐⭐⭐⭐☆	⭐⭐⭐⭐⭐	⭐⭐⭐⭐☆
-Visual Studio Code + GitHub Copilot	⭐⭐⭐☆☆	⭐⭐⭐⭐☆	⭐⭐⭐☆☆	⭐⭐⭐☆☆	⭐⭐⭐☆☆	⭐⭐⭐⭐☆	⭐⭐⭐⭐☆
+* Claude Code	⭐⭐⭐⭐⭐	⭐⭐⭐⭐⭐	⭐⭐⭐⭐⭐	⭐⭐⭐⭐⭐	⭐⭐⭐⭐⭐	⭐⭐⭐⭐⭐	⭐⭐⭐⭐⭐   
+  * [Claude Code免费用！超详细薅羊毛教程](https://adg.csdn.net/694cf4d95b9f5f31781aa7ef.html)
+* Cursor	⭐⭐⭐⭐☆	⭐⭐⭐⭐⭐	⭐⭐⭐⭐☆	⭐⭐⭐⭐☆	⭐⭐⭐⭐☆	⭐⭐⭐⭐⭐	⭐⭐⭐⭐⭐
+  * [无需付费，4 种免费使用 Cursor AI 的方法（2026 最新指南）](https://apifox.com/apiskills/free-cursor-ai/) 
+* Windsurf	⭐⭐⭐⭐☆	⭐⭐⭐⭐⭐	⭐⭐⭐⭐☆	⭐⭐⭐⭐☆	⭐⭐⭐⭐☆	⭐⭐⭐⭐☆	⭐⭐⭐⭐☆
+* OpenAI Codex CLI	⭐⭐⭐⭐☆	⭐⭐⭐⭐⭐	⭐⭐⭐⭐⭐	⭐⭐⭐⭐⭐	⭐⭐⭐⭐☆	⭐⭐⭐⭐⭐	⭐⭐⭐⭐☆
+* Visual Studio Code + GitHub Copilot	⭐⭐⭐☆☆	⭐⭐⭐⭐☆	⭐⭐⭐☆☆	⭐⭐⭐☆☆	⭐⭐⭐☆☆	⭐⭐⭐⭐☆	⭐⭐⭐⭐☆
+
 如果是一个完整的 AI 项目，它们能做到什么？
 
 以你将来要做的项目为例：
