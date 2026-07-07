@@ -438,7 +438,7 @@ docker build
 deploy
 
 ## 第十七阶段（加分项）★★★☆☆
-LangChain
+LangChain + LangGraph + Pydantic AI
 
 现在不少公司更偏向：
 
@@ -453,7 +453,7 @@ Retriever
 Memory
 
 ## 第十八阶段（加分项）★★★☆☆
-OpenClaw
+OpenClaw  + Hermas(而且优先级很高)
 
 学会：
 
@@ -519,8 +519,8 @@ CUDA
 13	React / Next.js（基础）	⭐⭐⭐⭐☆	2–3 周
 14	Kubernetes	⭐⭐⭐⭐☆	3 周
 15	CI/CD（GitHub Actions）	⭐⭐⭐⭐☆	1–2 周
-16	LangChain	⭐⭐⭐☆☆	1 周
-17	OpenClaw	⭐⭐⭐☆☆	1 周
+16	LangChain	+ LangGraph、Pydantic AI⭐⭐⭐☆☆	1 周
+17	OpenClaw + Hermas ⭐⭐⭐☆☆	1 周
 18	Ollama / vLLM	⭐⭐⭐☆☆	1–2 周
 19	Transformer 等模型原理	⭐⭐☆☆☆	概念了解
 
