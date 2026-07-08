@@ -67,7 +67,7 @@ AI大模型
 
 # 学习例子项目
 * 开发工具
-  * [AI编程幻觉终结者 TDD+重构驱动的单元测试实战课2026](https://www.itdjs.com/8664/html) 
+  * [AI编程幻觉终结者 TDD+重构驱动的单元测试实战课2026---解压密码:itdjs.com@#.20260207](https://www.itdjs.com/8664/html) 
 
 * [动手学大模型应用开发例子1](https://datawhalechina.github.io/llm-universe/#/)
 * [动手学大模型应用开发例子2](https://www.cnblogs.com/longronglang/category/2442713.html)
