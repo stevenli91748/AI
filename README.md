@@ -1,4 +1,15 @@
 
+在美国开发企业级 AI 应用，我的选择会是：优先学习 Spring AI，同时掌握 LangChain4j。
+
+Java 企业开发岗位：Spring AI > LangChain4j
+
+AI Agent / RAG 深度开发：LangChain4j > Spring AI（目前）
+
+第一阶段（必须）
+Spring Boot + Spring AI
+
+
+
 
 
 第一阶段（基础）
