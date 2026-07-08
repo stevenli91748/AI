@@ -69,7 +69,9 @@ AI大模型
 * [动手学大模型应用开发例子1](https://datawhalechina.github.io/llm-universe/#/)
 * [动手学大模型应用开发例子2](https://www.cnblogs.com/longronglang/category/2442713.html)
 * [知乎AI大模型应用专家实战训练营十八期2026 对大模型技术全面讲解 ](https://www.itdjs.com/9034/html)
-* [ 众创AI大模型应用开发实战---完成 AI大模型开发环境搭建 OpenAI接口调用、工具适配 想要入门 AI 大模型应用开发的编程新手](https://www.itdjs.com/9048/html)
+* AI API
+  * [ 众创AI大模型应用开发实战---完成 AI大模型开发环境搭建 OpenAI接口调用、工具适配 想要入门 AI 大模型应用开发的编程新手](https://www.itdjs.com/9048/html)
+  * [Gemini3.0 实战训练营234期合集2026---](https://www.itdjs.com/8890/html)
 * CURSOR
   * [零基础学Cursor从需求到上线全流程实战](https://www.itdjs.com/8895/html)
   * []() 
