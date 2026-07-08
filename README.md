@@ -5,8 +5,7 @@ Java 企业开发岗位：Spring AI > LangChain4j
 
 AI Agent / RAG 深度开发：LangChain4j > Spring AI（目前）
 
-第一阶段（必须）
-Spring Boot + Spring AI
+
 
 
 
