@@ -84,7 +84,9 @@ AI大模型
   * [多模态大模型训练营](https://www.itdjs.com/8939/html)
   * []()
 * RAG
-  * [RAG全栈技术从基础到精通 ，打造高精准AI应用](https://www.itdjs.com/7527/html) 
+  * [RAG全栈技术从基础到精通 ，打造高精准AI应用](https://www.itdjs.com/7527/html)
+* Llama3
+  * [Llama3大模型原理代码精讲与部署微调评估实战](https://www.itdjs.com/8460/html)  
 
   
 # 博客
