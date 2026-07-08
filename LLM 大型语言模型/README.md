@@ -66,8 +66,11 @@ AI大模型
 尤洋：《实战AI大模型》【2023.11出版】
 
 # 学习例子
- [动手学大模型应用开发例子1](https://datawhalechina.github.io/llm-universe/#/)|[动手学大模型应用开发例子2](https://www.cnblogs.com/longronglang/category/2442713.html)|
----|---|
+* [动手学大模型应用开发例子1](https://datawhalechina.github.io/llm-universe/#/)
+* [动手学大模型应用开发例子2](https://www.cnblogs.com/longronglang/category/2442713.html)
+* [ 众创AI大模型应用开发实战---完成 AI大模型开发环境搭建 OpenAI接口调用、工具适配 想要入门 AI 大模型应用开发的编程新手](https://www.itdjs.com/9048/html)
+* []()
+* []()
 
   
 # 博客
@@ -114,7 +117,10 @@ AI大模型
   * [AI 大模型---工程落地方向 ](https://github.com/stevenli91748/AI/blob/master/LLM%20%E5%A4%A7%E5%9E%8B%E8%AF%AD%E8%A8%80%E6%A8%A1%E5%9E%8B/AI%20%E5%A4%A7%E6%A8%A1%E5%9E%8B---%E5%B7%A5%E7%A8%8B%E8%90%BD%E5%9C%B0%E6%96%B9%E5%90%91.md)
 
 # 目录
-* [吴恩达老师LLM学习路径](https://github.com/stevenli91748/AI/blob/master/LLM%20%E5%A4%A7%E5%9E%8B%E8%AF%AD%E8%A8%80%E6%A8%A1%E5%9E%8B/%E5%90%B4%E6%81%A9%E8%BE%BE%E8%80%81%E5%B8%88LLM%E5%AD%A6%E4%B9%A0%E8%B7%AF%E5%BE%84/README.md)
+* AI 大模型的学习路线推荐
+  * [吴恩达老师LLM学习路径](https://github.com/stevenli91748/AI/blob/master/LLM%20%E5%A4%A7%E5%9E%8B%E8%AF%AD%E8%A8%80%E6%A8%A1%E5%9E%8B/%E5%90%B4%E6%81%A9%E8%BE%BE%E8%80%81%E5%B8%88LLM%E5%AD%A6%E4%B9%A0%E8%B7%AF%E5%BE%84/README.md)
+  * [AI 大模型---算法方向](https://github.com/stevenli91748/AI/blob/master/LLM%20%E5%A4%A7%E5%9E%8B%E8%AF%AD%E8%A8%80%E6%A8%A1%E5%9E%8B/AI%20%E5%A4%A7%E6%A8%A1%E5%9E%8B---%E7%AE%97%E6%B3%95%E6%96%B9%E5%90%91.md)
+  * [AI 大模型---工程落地方向 ](https://github.com/stevenli91748/AI/blob/master/LLM%20%E5%A4%A7%E5%9E%8B%E8%AF%AD%E8%A8%80%E6%A8%A1%E5%9E%8B/AI%20%E5%A4%A7%E6%A8%A1%E5%9E%8B---%E5%B7%A5%E7%A8%8B%E8%90%BD%E5%9C%B0%E6%96%B9%E5%90%91.md)
   
 0. 环境配置
    * [建立环境的三种方法](https://simplelearn.tw/anaconda-navigator-virtual-environment/)  
