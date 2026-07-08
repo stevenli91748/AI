@@ -88,7 +88,9 @@ AI大模型
 * Llama3
   * [Llama3大模型原理代码精讲与部署微调评估实战](https://www.itdjs.com/8460/html)
 * AI Agent
-  * [AI Agent+MCP从0到1打造商业级编程智能体2026---从零写一个能自己规划任务、自己调工具、自己写代码、自己部署上线的编程智能体](https://www.itdjs.com/8049/html) 
+  * [AI Agent+MCP从0到1打造商业级编程智能体2026---从零写一个能自己规划任务、自己调工具、自己写代码、自己部署上线的编程智能体](https://www.itdjs.com/8049/html)
+* 提示词工程+大模型NLP应用+AI对话产品
+  * [大模型AI应用开发企业级项目实战（提示词工程+大模型NLP应用+AI对话产品）](https://www.itdjs.com/8850/html)
 
   
 # 博客
