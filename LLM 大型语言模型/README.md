@@ -80,7 +80,9 @@ AI大模型
   * [产品经理的AI分身：用OpenClaw实现一人顶三人的高效工作法](https://www.itdjs.com/9016/html)
 * 多模态
   * [多模态大模型训练营](https://www.itdjs.com/8939/html)
-  * []() 
+  * []()
+* RAG
+  * [RAG全栈技术从基础到精通 ，打造高精准AI应用](https://www.itdjs.com/7527/html) 
 
   
 # 博客
