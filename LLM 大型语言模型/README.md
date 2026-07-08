@@ -86,7 +86,9 @@ AI大模型
 * RAG
   * [RAG全栈技术从基础到精通 ，打造高精准AI应用](https://www.itdjs.com/7527/html)
 * Llama3
-  * [Llama3大模型原理代码精讲与部署微调评估实战](https://www.itdjs.com/8460/html)  
+  * [Llama3大模型原理代码精讲与部署微调评估实战](https://www.itdjs.com/8460/html)
+* AI Agent
+  * [AI Agent+MCP从0到1打造商业级编程智能体2026---从零写一个能自己规划任务、自己调工具、自己写代码、自己部署上线的编程智能体](https://www.itdjs.com/8049/html) 
 
   
 # 博客
