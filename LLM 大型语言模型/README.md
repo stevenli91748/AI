@@ -65,12 +65,22 @@ AI大模型
 黄佳：《GPT图解大模型是怎样构建的》【2023.12出版】
 尤洋：《实战AI大模型》【2023.11出版】
 
-# 学习例子
+# 学习例子项目
 * [动手学大模型应用开发例子1](https://datawhalechina.github.io/llm-universe/#/)
 * [动手学大模型应用开发例子2](https://www.cnblogs.com/longronglang/category/2442713.html)
+* [知乎AI大模型应用专家实战训练营十八期2026 对大模型技术全面讲解 ](https://www.itdjs.com/9034/html)
 * [ 众创AI大模型应用开发实战---完成 AI大模型开发环境搭建 OpenAI接口调用、工具适配 想要入门 AI 大模型应用开发的编程新手](https://www.itdjs.com/9048/html)
-* []()
-* []()
+* CURSOR
+  * [零基础学Cursor从需求到上线全流程实战](https://www.itdjs.com/8895/html)
+  * []() 
+* 私有化部署
+  * [51CTO-DeepSeek+dify+ollama三剑客，从理论到实战  解决私有化部署、成本控制、中文场景适配等难题](https://www.itdjs.com/9065/html)
+* OpenClaw
+  * [OpenClaw+Hermes 双模型：AI 私有化部署与实战落地](https://www.itdjs.com/9012/html)
+  * [产品经理的AI分身：用OpenClaw实现一人顶三人的高效工作法](https://www.itdjs.com/9016/html)
+* 多模态
+  * [多模态大模型训练营](https://www.itdjs.com/8939/html)
+  * []() 
 
   
 # 博客
