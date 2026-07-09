@@ -69,6 +69,7 @@ AI大模型
 * 开发工具
   * [AI编程幻觉终结者 TDD+重构驱动的单元测试实战课2026---解压密码:itdjs.com@#.20260207](https://www.itdjs.com/8664/html)
   * [Java大模型工程能力必修,LangChain4j实战AI智能体](https://www.itdjs.com/8212/html)
+  * []()
 * AI 数学
   * [深入AI/大模型必修数学体系2026](https://www.itdjs.com/8639/html) 
 * [动手学大模型应用开发例子1](https://datawhalechina.github.io/llm-universe/#/)
@@ -102,7 +103,8 @@ AI大模型
   * [ LLM推理优化与部署实战2026](https://www.itdjs.com/8761/html)
 * N8N
   * [N8N AI自动化大师课：从零构建企业级工作流---从 0 到 1 带你搭建完整的自动化系统](https://www.itdjs.com/8596/html)  
-  
+* MCP
+  * [大模型MCP技术实战课2025](https://www.itdjs.com/8199/html)   
 # 博客
 [动手学大模型应用开发---github](https://github.com/datawhalechina/llm-universe)|[llm-action](https://github.com/liguodongiot/llm-action)|[3Blue1Brown](https://www.youtube.com/c/3blue1brown)| [Datawhale人工智能培养方案](https://github.com/datawhalechina)|[面向开发者的LLM手册](https://datawhalechina.github.io/llm-cookbook/#/)|
 ---|---|---|---|---|
