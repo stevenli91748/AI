@@ -67,7 +67,8 @@ AI大模型
 
 # 学习例子项目
 * 开发工具
-  * [AI编程幻觉终结者 TDD+重构驱动的单元测试实战课2026---解压密码:itdjs.com@#.20260207](https://www.itdjs.com/8664/html) 
+  * [AI编程幻觉终结者 TDD+重构驱动的单元测试实战课2026---解压密码:itdjs.com@#.20260207](https://www.itdjs.com/8664/html)
+  * [Java大模型工程能力必修,LangChain4j实战AI智能体](https://www.itdjs.com/8212/html)
 * AI 数学
   * [深入AI/大模型必修数学体系2026](https://www.itdjs.com/8639/html) 
 * [动手学大模型应用开发例子1](https://datawhalechina.github.io/llm-universe/#/)
@@ -92,6 +93,7 @@ AI大模型
   * [AI智能体（Agent）开发实战：工业级项目案例驱动课2026---课程融合LangGraph多智能体开发框架与GraphRAG知识图谱方案](https://www.itdjs.com/8846/html)
 * Llama3
   * [Llama3大模型原理代码精讲与部署微调评估实战](https://www.itdjs.com/8460/html)
+  * 
 * AI Agent
   * [AI Agent+MCP从0到1打造商业级编程智能体2026---从零写一个能自己规划任务、自己调工具、自己写代码、自己部署上线的编程智能体](https://www.itdjs.com/8049/html)
 * 提示词工程+大模型NLP应用+AI对话产品
