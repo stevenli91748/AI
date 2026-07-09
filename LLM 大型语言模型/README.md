@@ -108,7 +108,9 @@ AI大模型
   * [MCP+GraphRAG+LLM的智能体全栈开发](https://www.itdjs.com/8172/html)
   * [MCP 从入门到多场景全链路实战](https://www.itdjs.com/8156/html)
 * 微调
-  * [领域大模型微调案例课](https://www.itdjs.com/8116/html) 
+  * [领域大模型微调案例课](https://www.itdjs.com/8116/html)
+* 三高（高性能、高可用、高扩展性）AI工程体系
+  * [Ai工程化项目实战营2026---通过构建“三高”（高性能、高可用、高扩展性）AI工程体系，目标是全面提升你的AI项目研发与工程化能力](https://www.itdjs.com/8647/html) 
 # 博客
 [动手学大模型应用开发---github](https://github.com/datawhalechina/llm-universe)|[llm-action](https://github.com/liguodongiot/llm-action)|[3Blue1Brown](https://www.youtube.com/c/3blue1brown)| [Datawhale人工智能培养方案](https://github.com/datawhalechina)|[面向开发者的LLM手册](https://datawhalechina.github.io/llm-cookbook/#/)|
 ---|---|---|---|---|
