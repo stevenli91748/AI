@@ -104,7 +104,9 @@ AI大模型
 * N8N
   * [N8N AI自动化大师课：从零构建企业级工作流---从 0 到 1 带你搭建完整的自动化系统](https://www.itdjs.com/8596/html)  
 * MCP
-  * [大模型MCP技术实战课2025](https://www.itdjs.com/8199/html)   
+  * [大模型MCP技术实战课2025](https://www.itdjs.com/8199/html)
+  * [MCP+GraphRAG+LLM的智能体全栈开发](https://www.itdjs.com/8172/html)
+  * [MCP 从入门到多场景全链路实战](https://www.itdjs.com/8156/html)
 # 博客
 [动手学大模型应用开发---github](https://github.com/datawhalechina/llm-universe)|[llm-action](https://github.com/liguodongiot/llm-action)|[3Blue1Brown](https://www.youtube.com/c/3blue1brown)| [Datawhale人工智能培养方案](https://github.com/datawhalechina)|[面向开发者的LLM手册](https://datawhalechina.github.io/llm-cookbook/#/)|
 ---|---|---|---|---|
