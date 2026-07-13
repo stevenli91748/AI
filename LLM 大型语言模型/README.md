@@ -104,7 +104,7 @@ AI大模型
 * N8N
   * [N8N AI自动化大师课：从零构建企业级工作流---从 0 到 1 带你搭建完整的自动化系统](https://www.itdjs.com/8596/html)  
 * MCP
-  * [大模型MCP技术实战课2025](https://www.itdjs.com/8199/html)
+  * [大模型MCP技术实战课2025---系统拆解AI智能体开发全流程！从Agent底层逻辑、Function Call优化策略，到MCP环境搭建与服务端开发，手把手带你构建高可用客户端和服务端架构。深入剖析复杂智能体的数据库设计、多服务协同（SQL/Python）、并行/串行调用等硬核技术](https://www.itdjs.com/8199/html)
   * [MCP+GraphRAG+LLM的智能体全栈开发](https://www.itdjs.com/8172/html)
   * [MCP 从入门到多场景全链路实战](https://www.itdjs.com/8156/html)
 * 微调
