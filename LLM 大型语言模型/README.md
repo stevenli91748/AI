@@ -86,6 +86,7 @@ AI大模型
 * OpenClaw
   * [OpenClaw+Hermes 双模型：AI 私有化部署与实战落地](https://www.itdjs.com/9012/html)
   * [产品经理的AI分身：用OpenClaw实现一人顶三人的高效工作法](https://www.itdjs.com/9016/html)
+  * [小龙虾openclaw-Al一人公司实战训练营-从部署到创收](https://www.itdjs.com/8829/html)
 * 多模态
   * [多模态大模型训练营](https://www.itdjs.com/8939/html)
   * []()
