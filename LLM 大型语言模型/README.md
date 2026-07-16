@@ -35,6 +35,14 @@ LLM（Large Language Model，大型语言模型）、AIGC（AI Generated Content
 
 总的来说AI主要由算法、算力、数据组成，算法是核心。LLM是基于Transformer架构的算法成果，属于NLP领域关键技术，赋予AI理解和生成语言的能力。如果把AI AGENT看作人工助手，LLM就是其大脑，提供智能核心。AIGC则基于LLM等技术，生成语言、图像、音频等内容，就像人基于大脑的一些语言和视觉的表达。举个例子：云雀模型是LLM，豆包的问答查询基于此，是AIGC在语言领域的应用；图片生成借助专门模型，也是AIGC。豆包APP里的智能体是AI AGENT，集成云雀能力为用户服务。
 
+**AI Agent , MCP , RAG 三者关系**
+**RAG = 检索增强生成,它解决的问题：LLM(GPT) 不知道你的企业内部数据, 通过它把企业内部数据放到Vector Database中，并跟据 “用户提问“ 通过Vector Search找到相关内容，把相关内容作为GPT的输入输据**
+**MCP= AI 与外部工具通信的标准协议,MCP 提供统一方式**
+
+
+**Agent->MCP->Oracle->RAG ( PDF原始数据->切块Chunk->Embedding->Vector Database->用户提问->Vector Search->找到相关内容 )->LLM（GPT）->回答**
+
+
 
 # [AI 开发工具](https://github.com/stevenli91748/AI/blob/master/AI%E5%BC%80%E5%8F%91%E5%B7%A5%E5%85%B7/2026%E5%B9%B4Vibe%20Coding%20%E5%BC%80%E5%8F%91%E5%B7%A5%E5%85%B7.md)
 
@@ -113,7 +121,9 @@ AI大模型
 * 微调
   * [领域大模型微调案例课](https://www.itdjs.com/8116/html)
 * 三高（高性能、高可用、高扩展性）AI工程体系
-  * [Ai工程化项目实战营2026---通过构建“三高”（高性能、高可用、高扩展性）AI工程体系，目标是全面提升你的AI项目研发与工程化能力  解压密码:itdjs.com@#20260202](https://www.itdjs.com/8647/html) 
+  * [Ai工程化项目实战营2026---通过构建“三高”（高性能、高可用、高扩展性）AI工程体系，目标是全面提升你的AI项目研发与工程化能力  解压密码:itdjs.com@#20260202](https://www.itdjs.com/8647/html)
+  * java AI
+    * [ LLM大模型智能引擎实战–SpringAI+RAG+MCP+实时搜索](https://www.itdjs.com/7952/html) 
 # 博客
 [动手学大模型应用开发---github](https://github.com/datawhalechina/llm-universe)|[llm-action](https://github.com/liguodongiot/llm-action)|[3Blue1Brown](https://www.youtube.com/c/3blue1brown)| [Datawhale人工智能培养方案](https://github.com/datawhalechina)|[面向开发者的LLM手册](https://datawhalechina.github.io/llm-cookbook/#/)|
 ---|---|---|---|---|
