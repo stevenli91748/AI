@@ -100,6 +100,7 @@ AI大模型
   * [AI智能体（Agent）开发实战：工业级项目案例驱动课2026---融合LangGraph多智能体开发框架与GraphRAG知识图谱方案](https://www.itdjs.com/8846/html)
 * 提示词工程+大模型NLP应用+AI对话产品
   * [大模型AI应用开发企业级项目实战（提示词工程+大模型NLP应用+AI对话产品）](https://www.itdjs.com/8850/html)
+  * [AI时代人人必修课-提示词工程+大语言模型 多场景实战](https://www.itdjs.com/7091/html)
 * LLM推理优化
   * [ LLM推理优化与部署实战2026](https://www.itdjs.com/8761/html)
 * N8N
