@@ -122,6 +122,8 @@ AI大模型
   * [MCP 从入门到多场景全链路实战](https://www.itdjs.com/8156/html)
 * 微调
   * [领域大模型微调案例课](https://www.itdjs.com/8116/html)
+* AI大模型全栈测试
+  * [AI大模型全栈测试课程2025](https://www.itdjs.com/8009/html)   
 
 * 三高（高性能、高可用、高扩展性）AI工程体系
   * [Ai工程化项目实战营2026---通过构建“三高”（高性能、高可用、高扩展性）AI工程体系，目标是全面提升你的AI项目研发与工程化能力  解压密码:itdjs.com@#20260202](https://www.itdjs.com/8647/html)
