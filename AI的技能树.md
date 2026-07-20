@@ -335,8 +335,8 @@ AI Engineer	   |   LLM Research Scientist
 构建 AI 应用	   |    设计和训练新模型
 OpenAI API	   |    PyTorch/JAX
 FastAPI	       |    CUDA
-LangChain	     |    Transformer 细节
+LangChain	   |    Transformer 细节
 RAG	           |    分布式训练
-Agent	         |    RLHF / DPO
+Agent	       |    RLHF / DPO
 MCP	           |    新算法研究
-云部署	         |    GPU 集群优化
+云部署	       |    GPU 集群优化
