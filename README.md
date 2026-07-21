@@ -25,6 +25,44 @@ Spring Boot → REST API → Docker →  Kubernetes（基础）→ AWS
 
 Python → FastAPI  → PostgreSQL → (OpenAI API or Anthropic API or Google Gemini API) → RAG → MCP → AI Agent + Vector Database↳
 
+（OpenAI API or Anthropic API or Google Gemini API）：
+
+  第一阶段（必须）学习：
+    
+    ✅ GPT API
+    ✅ Claude API
+    ✅ Gemini API
+    
+    掌握：
+    
+    Prompt Engineering↳
+    RAG
+    Agent
+    MCP
+    Function Calling↳
+
+ 第二阶段（企业部署）学习：
+    
+    ✅ Llama
+    
+    包括：
+    
+    Ollama
+    vLLM
+    Hugging Face↳
+    LangChain
+    LangGraph
+    Vector Database
+
+ 第三阶段（高级）学习：
+
+   Fine-tuning
+   LoRA
+   Quantization↳
+   GPU 推理优化
+
+
+
 第四阶段（项目）
 
 # [2026 AI 技能树](https://github.com/stevenli91748/AI/blob/master/AI%E7%9A%84%E6%8A%80%E8%83%BD%E6%A0%91.md)
