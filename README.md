@@ -25,9 +25,8 @@ Spring Boot → REST API → Docker →  Kubernetes（基础）→ AWS
 
 Python → FastAPI  → PostgreSQL → (OpenAI API or Anthropic API or Google Gemini API) → RAG → MCP → AI Agent + Vector Database↳
 
-（OpenAI API or Anthropic API or Google Gemini API）：
-
-  第一阶段（必须）学习：
+ （OpenAI API or Anthropic API or Google Gemini API）：
+ 第一阶段（必须）学习：
     
     ✅ GPT API
     ✅ Claude API
