@@ -56,13 +56,13 @@ Python → FastAPI  → PostgreSQL → (OpenAI API or Anthropic API or Google Ge
 
  第三阶段（高级）学习：
 
-   Fine-tuning
-   
-   LoRA
-   
-   Quantization↳
-   
-   GPU 推理优化
+     Fine-tuning
+     
+     LoRA
+     
+     Quantization↳
+     
+     GPU 推理优化
 
 
 
