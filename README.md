@@ -31,6 +31,8 @@ Python → FastAPI  → PostgreSQL → (OpenAI API or Anthropic API or Google Ge
     ✅ GPT API
     ✅ Claude API
     ✅ Gemini API
+    ✅ Spring AI
+    ✅ LangChain4j
     
     掌握：
     
@@ -39,7 +41,8 @@ Python → FastAPI  → PostgreSQL → (OpenAI API or Anthropic API or Google Ge
     Agent
     MCP
     Function Calling↳
-
+    Vector Database
+    
  第二阶段（企业部署）学习：
     
     ✅ Llama
@@ -51,7 +54,7 @@ Python → FastAPI  → PostgreSQL → (OpenAI API or Anthropic API or Google Ge
     Hugging Face↳
     LangChain
     LangGraph
-    Vector Database
+   
 
  第三阶段（高级）学习：
 
@@ -62,7 +65,12 @@ Python → FastAPI  → PostgreSQL → (OpenAI API or Anthropic API or Google Ge
      Quantization↳
      
      GPU 推理优化
-
+     
+     CUDA基础
+     
+     GPU部署
+     
+     模型优化
 
 
 第四阶段（项目）
