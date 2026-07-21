@@ -86,7 +86,7 @@ Python → FastAPI  → PostgreSQL → (OpenAI API or Anthropic API or Google Ge
   * [汇总了目前AI所有的产品](https://latentbox.com/en)
   * [闪剪---AI数字人自动帮你做视频，只要输入文案，就可生成视频](https://shanjian.tv/?inviteId=641e817dff3c22003b2a0f2b)
 
-# 数学
+# [AI数学](https://github.com/stevenli91748/AI/blob/master/AI%20%E6%95%B0%E5%AD%A6/README.md)
   * [强推！这绝对是全站最全的人工智能入门数学系列课程！一小时带你掌握机器学习必备的数学基础！微积分、线性代数、泰勒公式、方差、假设分析...等多个高等数学知识点！](https://www.bilibili.com/video/BV1XGUsYQEvs/?spm_id_from=333.337.search-card.all.click&vd_source=be3ac4894f8bf7883ae92030f6f7be46)
 
  * 推荐的数学学习逻辑顺序
