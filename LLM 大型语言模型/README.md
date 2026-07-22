@@ -93,6 +93,7 @@ AI大模型
   * []() 
 * 私有化部署
   * [51CTO-DeepSeek+dify+ollama三剑客，从理论到实战  解决私有化部署、成本控制、中文场景适配等难题](https://www.itdjs.com/9065/html)
+  * [本地快速安装运行史上最强开源LLaMa3大模型](https://liaoxuefeng.com/blogs/all/2024-05-06-llama3/index.html)
 * OpenClaw
   * [OpenClaw+Hermes 双模型：AI 私有化部署与实战落地](https://www.itdjs.com/9012/html)
   * [产品经理的AI分身：用OpenClaw实现一人顶三人的高效工作法](https://www.itdjs.com/9016/html)
