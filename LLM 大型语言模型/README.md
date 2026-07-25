@@ -75,6 +75,8 @@ AI大模型
 
 # 学习例子项目
 * 开发工具
+  * 前端开发工具
+    *  
   * [AI编程幻觉终结者 TDD+重构驱动的单元测试实战课2026---解压密码:itdjs.com@#.20260207](https://www.itdjs.com/8664/html)
   * java AI
     * [ LLM大模型智能引擎实战–SpringAI+RAG+MCP+实时搜索](https://www.itdjs.com/7952/html) 
