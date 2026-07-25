@@ -99,8 +99,18 @@
 │   ├── Next.js
 │   └── Tailwind CSS
 │
-├── 13. AI前端（★★★★★）
-│   ├── Streaming
+├── 13. AI前端（★★★★★）（React + Next.js + Tailwind + shadcn/ui 已经成为很多美国 AI 初创公司和大型公司的主流组合。   ）
+│── 美国目前最主流的 AI 应用技术栈
+    层	     主流技术	  必学程度
+    UI设计	 Figma	     ⭐⭐⭐
+    前端	 React	     ⭐⭐⭐⭐⭐
+    全栈前端	 Next.js	⭐⭐⭐⭐⭐
+    CSS	     Tailwind CSS	⭐⭐⭐⭐⭐
+    UI组件	 shadcn/ui	⭐⭐⭐⭐⭐
+    图标	 Lucide React	⭐⭐⭐⭐
+    图表	 Recharts	⭐⭐⭐
+    状态管理	 Zustand	⭐⭐⭐⭐
+├── Streaming
 │   ├── Markdown
 │   ├── Chat UI
 │   ├── File Upload
