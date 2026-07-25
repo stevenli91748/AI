@@ -101,10 +101,10 @@
 │
 ├── 13. AI前端（★★★★★）（React + Next.js + Tailwind + shadcn/ui 已经成为很多美国 AI 初创公司和大型公司的主流组合。   ）
 │── 美国目前最主流的 AI 应用技术栈
-    层	     主流技术	  必学程度
-    UI设计	 Figma	     ⭐⭐⭐
-    前端	 React	     ⭐⭐⭐⭐⭐
-    全栈前端	 Next.js	⭐⭐⭐⭐⭐
+    层	     主流技术	                  必学程度
+    UI设计	 Figma（设计界面）             ⭐⭐⭐
+    前端	 React（开发真正的前端程序 提供 UI 组件能力 ，React 本身只负责页面组件）	     ⭐⭐⭐⭐⭐
+    全栈前端	 Next.js（在 React 基础上增加了完整的网站开发能力）	⭐⭐⭐⭐⭐
     CSS	     Tailwind CSS	⭐⭐⭐⭐⭐
     UI组件	 shadcn/ui	⭐⭐⭐⭐⭐
     图标	 Lucide React	⭐⭐⭐⭐
