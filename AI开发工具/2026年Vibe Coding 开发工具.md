@@ -9,6 +9,7 @@
 工具	从头到尾开发	多文件修改	自动调试	自动测试	部署协助	AI 项目能力	推荐指数
 * Claude Code	⭐⭐⭐⭐⭐	⭐⭐⭐⭐⭐	⭐⭐⭐⭐⭐	⭐⭐⭐⭐⭐	⭐⭐⭐⭐⭐	⭐⭐⭐⭐⭐	⭐⭐⭐⭐⭐   
   * [Claude Code免费用！超详细薅羊毛教程](https://adg.csdn.net/694cf4d95b9f5f31781aa7ef.html)
+  * [Claude Cowork/Code保姆級完整教學：從入門到進階，自動生成內容、網頁和工作流，快速打造你的AI員工(https://www.youtube.com/watch?v=Lq-wedAiffo)
 * Cursor	⭐⭐⭐⭐☆	⭐⭐⭐⭐⭐	⭐⭐⭐⭐☆	⭐⭐⭐⭐☆	⭐⭐⭐⭐☆	⭐⭐⭐⭐⭐	⭐⭐⭐⭐⭐
   * [无需付费，4 种免费使用 Cursor AI 的方法（2026 最新指南）](https://apifox.com/apiskills/free-cursor-ai/) 
 * Windsurf	⭐⭐⭐⭐☆	⭐⭐⭐⭐⭐	⭐⭐⭐⭐☆	⭐⭐⭐⭐☆	⭐⭐⭐⭐☆	⭐⭐⭐⭐☆	⭐⭐⭐⭐☆
