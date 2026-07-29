@@ -1,5 +1,5 @@
-* [
-2026 AI電商從0到1教學｜選品+建站+投放，最後實操驗證能不能出單](https://www.youtube.com/watch?v=x6s3TT8niik)
+* [2026 AI電商從0到1教學｜選品+建站+投放，最後實操驗證能不能出單](https://www.youtube.com/watch?v=x6s3TT8niik)
+* [2026跨境電商還能做嗎？ 幫你折開市場、成本、金流工具，最後有業界秘密彩蛋！](https://www.youtube.com/watch?v=wjNlLyXmoFM)
 * [2026最赚钱的5种不露脸Youtube频道AI AI搞钱 AI创业 AI赚钱 AI副业 赚钱 自由职业 YouTube教学 个人IP 财富自由 创业 AI工具 AI工作流 AI自动化](https://www.youtube.com/watch?v=YXnBKwbDAgI)
 * [全网最省事的AI搞钱方法？我用AI拍出“实地取景”电影级短片，还能搞钱？教学全流程来了！](https://www.youtube.com/watch?v=xhQM1Y-GTEg)
 * [【2026最新保姆级讲解】手把手教会你AI影视剧创作](https://www.youtube.com/watch?v=TdpdnJPY80Q)
