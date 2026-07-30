@@ -113,6 +113,8 @@ Python → FastAPI  → PostgreSQL → (OpenAI API or Anthropic API or Google Ge
 
 
 # AI TOOLS
+ * [OpenAI 提供的文本转Token 工具 Tokenizer，](https://platform.openai.com/tokenizer/Release.gz?utm_source=chatgpt.com)
+ * OpenAI 官方推荐使用 tiktoken 库：[tiktoken GitHub](https://github.com/openai/tiktoken?utm_source=chatgpt.com)
  * [不花钱也可以用的#AI ](https://www.youtube.com/shorts/lIBi34aoAew)
  * [Google Gemini 全系列教學 (上集)！這21個超強AI應用，很多還免費](https://www.youtube.com/watch?v=4n8jswc2pAI)
  * [全球大模型 稳定直连 分钟级接入 官方价 5 折](https://taotoken.net/)
