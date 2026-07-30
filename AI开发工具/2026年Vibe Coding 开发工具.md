@@ -9,7 +9,7 @@
 工具	从头到尾开发	多文件修改	自动调试	自动测试	部署协助	AI 项目能力	推荐指数
 * LM Studio(LM Studio 是一个本地运行大语言模型（LLM）的桌面软件，无需把数据发送到云端即可在自己的电脑上运行和管理模型,LM Studio = 本地 LLM 运行平台 + 模型管理器 + OpenAI API 兼容服务器。
 它不是大模型，而是运行大模型的软件) 和 Ollama 的区别
-* CC SWITCH---CC Switch 通常指 Claude Code Switch（也有人简称 CC Switch），是一个用于切换 AI 模型/账号/配置的工具，主要配合 Claude Code（Anthropic 的代码 Agent） 使用。
+* [CC SWITCH](https://www.youtube.com/watch?v=v3fDWFRzS7E)---CC Switch 通常指 Claude Code Switch（也有人简称 CC Switch），是一个用于切换 AI 模型/账号/配置的工具，主要配合 Claude Code（Anthropic 的代码 Agent） 使用。
 * Claude Code	⭐⭐⭐⭐⭐	⭐⭐⭐⭐⭐	⭐⭐⭐⭐⭐	⭐⭐⭐⭐⭐	⭐⭐⭐⭐⭐	⭐⭐⭐⭐⭐	⭐⭐⭐⭐⭐   
   * [Claude Code免费用！超详细薅羊毛教程](https://adg.csdn.net/694cf4d95b9f5f31781aa7ef.html)
   * [Claude Cowork/Code保姆級完整教學：從入門到進階，自動生成內容、網頁和工作流，快速打造你的AI員工](https://www.youtube.com/watch?v=Lq-wedAiffo)
