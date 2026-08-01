@@ -1,6 +1,7 @@
 * [2026 AI電商從0到1教學｜選品+建站+投放，最後實操驗證能不能出單](https://www.youtube.com/watch?v=x6s3TT8niik)
 * [2026跨境電商還能做嗎？ 幫你折開市場、成本、金流工具，最後有業界秘密彩蛋！](https://www.youtube.com/watch?v=wjNlLyXmoFM)
 * [【重磅】最近变化：AI已经可以直接操作Shopify店铺了（实测）｜完整setup+使用演示，电商新工作流来了](https://www.youtube.com/watch?v=WAz1PEmIX5g&t=70s)
+* []()
 * [Claude AI + Shopify做无货源跨境电商教程：连接Zendrop让AI帮你选品、上架、发货、制作广告视频!](https://www.youtube.com/watch?v=JUTJ8yAdqUw)
 * [我尝试了一周 AI 代发货（真实结果）](https://www.youtube.com/watch?v=rhuYy9LP72M)
 * [跨境AI运营神器，让Codex全全接管你的平台](https://www.youtube.com/watch?v=eeFCSaghz8g)
