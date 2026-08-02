@@ -111,6 +111,7 @@ AI大模型
   * [Llama3大模型原理代码精讲与部署微调评估实战](https://www.itdjs.com/8460/html)
   * [LLama实战本地CPU推理大语言模型-C++开发实战](https://www.itdjs.com/8139/html)
 * AI Agent
+  * [工业级实战：从传统RAG到Agentic RAG的进阶优化！](https://www.youtube.com/watch?v=UZs_yOKcw7A) 
   * [AI Agent+MCP从0到1打造商业级编程智能体2026---从零写一个能自己规划任务、自己调工具、自己写代码、自己部署上线的编程智能体](https://www.itdjs.com/8049/html)
   * [AI智能体（Agent）开发实战：工业级项目案例驱动课2026---融合LangGraph多智能体开发框架与GraphRAG知识图谱方案](https://www.itdjs.com/8846/html)
   * [Agent Skills 做知识库检索，能比传统 RAG 效果更好吗？](https://www.youtube.com/watch?v=YL-BgiruIe0)
