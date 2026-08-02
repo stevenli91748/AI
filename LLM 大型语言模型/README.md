@@ -79,6 +79,7 @@ AI大模型
     *  
   * [AI编程幻觉终结者 TDD+重构驱动的单元测试实战课2026---解压密码:itdjs.com@#.20260207](https://www.itdjs.com/8664/html)
   * java AI
+    * [体系课Java+AI全栈开发工程师2026---课程用AI全程辅助开发  解压密码itdjs.com@#20260801 ](https://www.itdjs.com/9107/html) 
     * [ LLM大模型智能引擎实战–SpringAI+RAG+MCP+实时搜索](https://www.itdjs.com/7952/html) 
     * [Java大模型工程能力必修,LangChain4j实战AI智能体](https://www.itdjs.com/8212/html)
     * []()
