@@ -14,7 +14,8 @@
   * [Claude Code免费用！超详细薅羊毛教程](https://adg.csdn.net/694cf4d95b9f5f31781aa7ef.html)
   * [Claude Cowork/Code保姆級完整教學：從入門到進階，自動生成內容、網頁和工作流，快速打造你的AI員工](https://www.youtube.com/watch?v=Lq-wedAiffo)
   * [AI编程革命！Claude Code Workflow自动生成Harness！彻底抹平Harness Engineering技术鸿沟！ultrawork自动召唤cc神级功能自动多Agent编程开发！](https://www.youtube.com/watch?v=8gOOlBcdrIo)
-  * [程序员必备设计神器！Claude Code原生支持Claude Design！一个/design命令，从UI原型到代码同步，全流程演示，AI设计到开发终于闭环了！小白也能做精美UI！挑战Figma！](https://www.youtube.com/watch?v=5jXwHYfccvw) 
+  * [程序员必备设计神器！Claude Code原生支持Claude Design！一个/design命令，从UI原型到代码同步，全流程演示，AI设计到开发终于闭环了！小白也能做精美UI！挑战Figma！](https://www.youtube.com/watch?v=5jXwHYfccvw)
+  * [真要取代Figma了？Claude Design最新版深度评测！UI原型设计+PPT生成效果惊人，design system实现风格统一，Opus 4.8前端能力直接拉满，一句话设计一整套品牌系统！](https://www.youtube.com/watch?v=trtd977aArU)
 * Cursor	⭐⭐⭐⭐☆	⭐⭐⭐⭐⭐	⭐⭐⭐⭐☆	⭐⭐⭐⭐☆	⭐⭐⭐⭐☆	⭐⭐⭐⭐⭐	⭐⭐⭐⭐⭐
   * [无需付费，4 种免费使用 Cursor AI 的方法（2026 最新指南）](https://apifox.com/apiskills/free-cursor-ai/) 
 * Windsurf	⭐⭐⭐⭐☆	⭐⭐⭐⭐⭐	⭐⭐⭐⭐☆	⭐⭐⭐⭐☆	⭐⭐⭐⭐☆	⭐⭐⭐⭐☆	⭐⭐⭐⭐☆
