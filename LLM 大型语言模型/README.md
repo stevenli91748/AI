@@ -78,7 +78,9 @@ AI大模型
   * 前端开发工具
     *  
   * [AI编程幻觉终结者 TDD+重构驱动的单元测试实战课2026---解压密码:itdjs.com@#.20260207](https://www.itdjs.com/8664/html)
-  * [AI编程革命！Claude Code Workflow自动生成Harness！彻底抹平Harness Engineering技术鸿沟！ultrawork自动召唤cc神级功能自动多Agent编程开发！](https://www.youtube.com/watch?v=8gOOlBcdrIo)
+  * Claude Code
+    * [AI编程革命！Claude Code Workflow自动生成Harness！彻底抹平Harness Engineering技术鸿沟！ultrawork自动召唤cc神级功能自动多Agent编程开发！](https://www.youtube.com/watch?v=8gOOlBcdrIo)
+    * [程序员必备设计神器！Claude Code原生支持Claude Design！一个/design命令，从UI原型到代码同步，全流程演示，AI设计到开发终于闭环了！小白也能做精美UI！挑战Figma！](https://www.youtube.com/watch?v=5jXwHYfccvw)
   * java AI
     * [体系课Java+AI全栈开发工程师2026---课程用AI全程辅助开发  解压密码itdjs.com@#20260801 ](https://www.itdjs.com/9107/html) 
     * [ LLM大模型智能引擎实战–SpringAI+RAG+MCP+实时搜索](https://www.itdjs.com/7952/html) 
