@@ -110,6 +110,7 @@ AI大模型
 * RAG
   * [RAG全栈技术从基础到精通 ，打造高精准AI应用](https://www.itdjs.com/7527/html)
   * [AI智能体（Agent）开发实战：工业级项目案例驱动课2026---课程融合LangGraph多智能体开发框架与GraphRAG知识图谱方案](https://www.itdjs.com/8846/html)
+  * [工业级实战：从传统RAG到Agentic RAG的进阶优化！](https://www.youtube.com/watch?v=UZs_yOKcw7A)
 * Llama3
   * [Llama3大模型原理代码精讲与部署微调评估实战](https://www.itdjs.com/8460/html)
   * [LLama实战本地CPU推理大语言模型-C++开发实战](https://www.itdjs.com/8139/html)
