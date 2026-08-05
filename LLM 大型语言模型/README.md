@@ -140,7 +140,7 @@ AI大模型
   * [Ai工程化项目实战营2026---通过构建“三高”（高性能、高可用、高扩展性）AI工程体系，目标是全面提升你的AI项目研发与工程化能力  解压密码:itdjs.com@#20260202](https://www.itdjs.com/8647/html)
 # 博客
 
-[白白说大模型](https://www.youtube.com/@%E7%99%BD%E7%99%BD%E8%AF%B4%E5%A4%A7%E6%A8%A1%E5%9E%8B)|[马克的技术工作坊](https://www.youtube.com/@%E9%A9%AC%E5%85%8B%E7%9A%84%E6%8A%80%E6%9C%AF%E5%B7%A5%E4%BD%9C%E5%9D%8A)|[]()|
+[白白说大模型](https://www.youtube.com/@%E7%99%BD%E7%99%BD%E8%AF%B4%E5%A4%A7%E6%A8%A1%E5%9E%8B)|[马克的技术工作坊](https://www.youtube.com/@%E9%A9%AC%E5%85%8B%E7%9A%84%E6%8A%80%E6%9C%AF%E5%B7%A5%E4%BD%9C%E5%9D%8A)|[AI超元域](https://www.youtube.com/@AIsuperdomain)|
 ---|---|---|
 
 
