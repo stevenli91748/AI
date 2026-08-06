@@ -12,6 +12,9 @@
   * [5分钟教会你如何本地部署DeepSeek-R1，无需联网，全程干货，没有一句废话](https://www.youtube.com/watch?v=brXZfjq9lF4)
   * [使用 DeepSeek R1 与 AnythingLLM 搭建本地知识库](https://www.youtube.com/watch?v=OsI9TAjhaWs)
 # 工具	从头到尾开发	多文件修改	自动调试	自动测试	部署协助	AI 项目能力	推荐指数
+* Ollama
+* AnythingLLM (AnythingLLM 是一个开源的本地 AI 应用平台,它可以连接本地大模型或云端大模型,学习企业 RAG 和 Agent 的实验平台,想做企业AI应用 → AnythingLLM)
+* Open WebUI  (想玩本地模型聊天 → Open WebUI)
 * LM Studio(LM Studio 是一个本地运行大语言模型（LLM）的桌面软件，无需把数据发送到云端即可在自己的电脑上运行和管理模型,LM Studio = 本地 LLM 运行平台 + 模型管理器 + OpenAI API 兼容服务器。
 它不是大模型，而是运行大模型的软件) 和 Ollama 的区别
 * [CC SWITCH](https://www.youtube.com/watch?v=v3fDWFRzS7E)---CC Switch 通常指 Claude Code Switch（也有人简称 CC Switch），是一个用于切换 AI 模型/账号/配置的工具，主要配合 Claude Code（Anthropic 的代码 Agent） 使用。
