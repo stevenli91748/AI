@@ -119,6 +119,7 @@ AI大模型
   * [AI Agent+MCP从0到1打造商业级编程智能体2026---从零写一个能自己规划任务、自己调工具、自己写代码、自己部署上线的编程智能体](https://www.itdjs.com/8049/html)
   * [AI智能体（Agent）开发实战：工业级项目案例驱动课2026---融合LangGraph多智能体开发框架与GraphRAG知识图谱方案](https://www.itdjs.com/8846/html)
   * [Agent Skills 做知识库检索，能比传统 RAG 效果更好吗？](https://www.youtube.com/watch?v=YL-BgiruIe0)
+  * [构建生产级Agent Memory的系统架构](https://www.youtube.com/watch?v=rDTUDnPwUa0)
 * 提示词工程+大模型NLP应用+AI对话产品
   * [大模型AI应用开发企业级项目实战（提示词工程+大模型NLP应用+AI对话产品）](https://www.itdjs.com/8850/html)
   * [AI时代人人必修课-提示词工程+大语言模型 多场景实战](https://www.itdjs.com/7091/html)
