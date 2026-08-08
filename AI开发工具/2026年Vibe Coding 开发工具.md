@@ -11,6 +11,7 @@
 # AI 开发环境搭建
   * [5分钟教会你如何本地部署DeepSeek-R1，无需联网，全程干货，没有一句废话](https://www.youtube.com/watch?v=brXZfjq9lF4)
   * [使用 DeepSeek R1 与 AnythingLLM 搭建本地知识库](https://www.youtube.com/watch?v=OsI9TAjhaWs)
+  * [保姆级教程！教你搭建一个无限制、可联网、带本地知识库的私人 DeepSeek](https://www.youtube.com/watch?v=bJ2dEtZcJGA)
 # 工具	从头到尾开发	多文件修改	自动调试	自动测试	部署协助	AI 项目能力	推荐指数
 * Ollama
 * AnythingLLM (AnythingLLM 是一个开源的本地 AI 应用平台,它可以连接本地大模型或云端大模型,学习企业 RAG 和 Agent 的实验平台,想做企业AI应用 → AnythingLLM)
