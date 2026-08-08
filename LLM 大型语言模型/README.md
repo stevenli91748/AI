@@ -121,7 +121,7 @@ AI大模型
   * [Agent Skills 做知识库检索，能比传统 RAG 效果更好吗？](https://www.youtube.com/watch?v=YL-BgiruIe0)
   * [构建生产级Agent Memory的系统架构](https://www.youtube.com/watch?v=rDTUDnPwUa0)
   * [Agent记忆框架怎么选？5大Agent Memory项目工程级横向对比，哪一种才是未来Agent记忆的标准答案 ？](https://www.youtube.com/watch?v=BVwpVRpbph4)
-  * [从Workflow到Agent, 你真正需要的是---解析Agent的发展路径](https://www.youtube.com/watch?v=nBvtDzr6ijc)
+  * [从Workflow到Agent, 你真正需要的是---解析Agent的发展路径是如何演进的](https://www.youtube.com/watch?v=nBvtDzr6ijc)
 * 提示词工程+大模型NLP应用+AI对话产品
   * [大模型AI应用开发企业级项目实战（提示词工程+大模型NLP应用+AI对话产品）](https://www.itdjs.com/8850/html)
   * [AI时代人人必修课-提示词工程+大语言模型 多场景实战](https://www.itdjs.com/7091/html)
@@ -136,6 +136,16 @@ AI大模型
   * [用过上百款编程MCP，只有这15个真正好用，Claude Code与Codex配置MCP详细教程](https://www.youtube.com/watch?v=UW5iQGE3264)
 * 微调
   * [领域大模型微调案例课](https://www.itdjs.com/8116/html)
+  * [如何把你的 DeepSeek R1 微调为某个领域的专家？（理论篇）](https://www.youtube.com/watch?v=cgRDs1iUDSM)
+  * [如何把你的 DeepSeek R1 微调为某个领域的专家？（实战篇）](https://www.youtube.com/watch?v=pYAARaPG48k)
+  * [想微调特定领域的大模型，数据集究竟要怎么搞](https://www.youtube.com/watch?v=C7euxRVw3JQ)
+  * [如何把领域文献批量转换为可供模型微调的数据集](https://www.youtube.com/watch?v=usYzmXLvXXc)
+  * [Easy Dataset 最新功能解读，以及几个数据集构建实战案例](https://www.youtube.com/watch?v=BZDXu9yGxJg)
+  * [手把手教你从零微调一个专属领域大模型，零基础也能学会](https://www.youtube.com/watch?v=sE12haEVREY)
+  * [LLaMA Factory微调教程（4） 如何观测模型的微调过程？微调后的模型如何合并导出和部署？](https://www.youtube.com/watch?v=UNhotbyZdf0)
+  * [LLaMA Factory微调教程（3） 微调模型的各种参数到底怎么搞？如何优化显存消耗](https://www.youtube.com/watch?v=ducyWMh-aIg)
+  * [LLaMA Factory微调教程（2） LLaMA Factory 微调教程：如何构建高质量数据集？](https://www.youtube.com/watch?v=wTW0NccRXtI)
+  * [LLaMA Factory微调教程（1） 纯本地！零代码！一站式完整数据集准备到模型微调全流程！](https://www.youtube.com/watch?v=0-CdIF7n4-4)
 * AI大模型全栈测试
   * [AI大模型全栈测试课程2025](https://www.itdjs.com/8009/html)   
 
