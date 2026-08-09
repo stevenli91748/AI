@@ -144,6 +144,9 @@ AI大模型
 [白白说大模型](https://www.youtube.com/@%E7%99%BD%E7%99%BD%E8%AF%B4%E5%A4%A7%E6%A8%A1%E5%9E%8B)|[马克的技术工作坊](https://www.youtube.com/@%E9%A9%AC%E5%85%8B%E7%9A%84%E6%8A%80%E6%9C%AF%E5%B7%A5%E4%BD%9C%E5%9D%8A)|[AI超元域](https://www.youtube.com/@AIsuperdomain)|[code秘密花园](https://www.youtube.com/@garden-conard)|
 ---|---|---|---|
 
+[我开源了一个 Skill，把项目经验沉淀成可复用的知识](https://www.youtube.com/watch?v=HcbjFO1mRIw)|
+---|
+
 
 [动手学大模型应用开发---github](https://github.com/datawhalechina/llm-universe)|[llm-action](https://github.com/liguodongiot/llm-action)|[3Blue1Brown](https://www.youtube.com/c/3blue1brown)| [Datawhale人工智能培养方案](https://github.com/datawhalechina)|[面向开发者的LLM手册](https://datawhalechina.github.io/llm-cookbook/#/)|
 ---|---|---|---|---|
