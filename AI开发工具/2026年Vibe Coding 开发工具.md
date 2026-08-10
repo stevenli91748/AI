@@ -14,6 +14,8 @@
   * [保姆级教程！教你搭建一个无限制、可联网、带本地知识库的私人 DeepSeek](https://www.youtube.com/watch?v=bJ2dEtZcJGA)
   * [本地快速安装运行史上最强开源LLaMa3大模型](https://liaoxuefeng.com/blogs/all/2024-05-06-llama3/index.html)
 # 工具	从头到尾开发	多文件修改	自动调试	自动测试	部署协助	AI 项目能力	推荐指数
+* [NotionAI---企业知识库/AI Agent/团队协作](https://www.notion.com/product/ai?utm_source=chatgpt.com)
+* [Google NotebookLM---个人学习/研究](https://notebooklm.google/plans?utm_source=chatgpt.com)
 * Ollama
 * AnythingLLM (AnythingLLM 是一个开源的本地 AI 应用平台,它可以连接本地大模型或云端大模型,学习企业 RAG 和 Agent 的实验平台,想做企业AI应用 → AnythingLLM)
 * Open WebUI  (想玩本地模型聊天 → Open WebUI)
