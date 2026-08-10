@@ -147,6 +147,8 @@ AI大模型
 [我开源了一个 Skill，把项目经验沉淀成可复用的知识](https://www.youtube.com/watch?v=HcbjFO1mRIw)|
 ---|
 
+[图解大模型算法---github上最详细的大模型解析教程 重要 ](https://github.com/changyeyu/LLM-RL-Visualized/tree/master)|
+---|
 
 [动手学大模型应用开发---github](https://github.com/datawhalechina/llm-universe)|[llm-action](https://github.com/liguodongiot/llm-action)|[3Blue1Brown](https://www.youtube.com/c/3blue1brown)| [Datawhale人工智能培养方案](https://github.com/datawhalechina)|[面向开发者的LLM手册](https://datawhalechina.github.io/llm-cookbook/#/)|
 ---|---|---|---|---|
