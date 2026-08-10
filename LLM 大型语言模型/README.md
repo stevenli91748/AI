@@ -73,6 +73,7 @@ AI大模型
     * [ LLM大模型智能引擎实战–SpringAI+RAG+MCP+实时搜索](https://www.itdjs.com/7952/html) 
     * [Java大模型工程能力必修,LangChain4j实战AI智能体](https://www.itdjs.com/8212/html)
     * []()
+* [大模型官方提示词工程---OpenAI,Gemini,Anthropic](https://github.com/stevenli91748/AI/blob/master/%E6%8F%90%E7%A4%BA%E8%AF%8D%E5%B7%A5%E7%A8%8B/%E6%8F%90%E7%A4%BA%E8%AF%8D%E5%B7%A5%E7%A8%8B.md)
 * AI 数学
   * [深入AI/大模型必修数学体系2026](https://www.itdjs.com/8639/html) 
 * [动手学大模型应用开发例子1](https://datawhalechina.github.io/llm-universe/#/)
@@ -197,6 +198,7 @@ AI大模型
   * [吴恩达老师LLM学习路径](https://github.com/stevenli91748/AI/blob/master/LLM%20%E5%A4%A7%E5%9E%8B%E8%AF%AD%E8%A8%80%E6%A8%A1%E5%9E%8B/%E5%90%B4%E6%81%A9%E8%BE%BE%E8%80%81%E5%B8%88LLM%E5%AD%A6%E4%B9%A0%E8%B7%AF%E5%BE%84/README.md)
   * [AI 大模型---算法方向](https://github.com/stevenli91748/AI/blob/master/LLM%20%E5%A4%A7%E5%9E%8B%E8%AF%AD%E8%A8%80%E6%A8%A1%E5%9E%8B/AI%20%E5%A4%A7%E6%A8%A1%E5%9E%8B---%E7%AE%97%E6%B3%95%E6%96%B9%E5%90%91.md)
   * [AI 大模型---工程落地方向 ](https://github.com/stevenli91748/AI/blob/master/LLM%20%E5%A4%A7%E5%9E%8B%E8%AF%AD%E8%A8%80%E6%A8%A1%E5%9E%8B/AI%20%E5%A4%A7%E6%A8%A1%E5%9E%8B---%E5%B7%A5%E7%A8%8B%E8%90%BD%E5%9C%B0%E6%96%B9%E5%90%91.md)
+
   
 0. 环境配置
    * [建立环境的三种方法](https://simplelearn.tw/anaconda-navigator-virtual-environment/)  
