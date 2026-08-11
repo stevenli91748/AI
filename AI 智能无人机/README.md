@@ -1517,3 +1517,895 @@ Python + LLM + 无人机
 PX4 和 ArduPilot 都已经提供 SITL/ROS 2 开发路径；ArduPilot 官方也明确支持 ROS 2 与 SITL/Gazebo 集成。
 
 如果你准备真正动手开发，下一步最合适的是直接搭建一套 “Windows 11 + WSL2 + Ubuntu 22.04 + ROS 2 Humble + PX4 + Gazebo + VS Code”无人机开发环境，然后做第一个 PX4 SITL → Gazebo → ROS 2 → C++控制无人机起飞/降落项目。
+
+
+如果你的目标是真正学习和开发无人机，而不是单纯飞无人机，我最推荐你从：
+
+🥇 Holybro X500 V2 + Pixhawk 6C 开始
+5
+
+它本质上是一个无人机机器人开发测试平台（Drone Robotics Testbed），非常适合你前面问的：
+
+Python / C++ → ROS 2 → PX4 → MAVLink → AI视觉 → Jetson → 自动飞行
+
+PX4 官方目前把 X500 V2 列为 Official PX4 Developer Kit；套件使用 Pixhawk 6C/6X、GPS、遥测、电机和 ESC，并且电机/ESC 已经预装，组装大约 30 分钟。
+
+为什么我推荐 X500，而不是 DJI？
+平台	适合开发	ROS 2	PX4	AI视觉	自己改飞控	推荐
+DJI Mini/Mavic	❌	❌	❌	⚠️	❌	⭐
+FPV无人机	⚠️	❌	❌	⚠️	⚠️	⭐⭐
+普通DIY四轴	✅	✅	✅	✅	✅	⭐⭐⭐⭐
+Holybro X500 V2	✅	✅	✅	✅	✅	⭐⭐⭐⭐⭐
+X650	✅	✅	✅	✅	✅	⭐⭐⭐⭐⭐
+
+X500 V2 还是一个比较好的模块化实验平台：可以加 Raspberry Pi、Jetson、深度摄像头、GPS、各种传感器和云台。官方资料明确提供了 companion computer 和深度相机的安装支持。
+
+我建议你按照这个路线测试
+
+不要一开始就买昂贵的无人机。
+
+Level 1：模拟器
+
+先不用真实无人机：
+
+PX4 SITL + Gazebo / ROS 2
+
+测试：
+
+起飞/降落
+Position Hold
+Waypoint
+自动导航
+PID
+EKF
+Sensor
+Offboard Control↳
+
+PX4 的开发生态就是按照这种方式进行开发的。
+
+Level 2：X500 V2
+
+然后进入真实硬件：
+
+                Laptop
+                   │
+             ROS 2 / Python
+                   │
+              MAVLink / DDS
+                   │
+             Pixhawk 6C
+                   │
+          ┌────────┼────────┐
+          ↓        ↓        ↓
+        IMU       GPS      Barometer
+          │
+          ↓
+       ESC × 4
+          │
+       Motors × 4
+
+这时候你真正开始做无人机工程。
+
+Level 3：加入 AI Computer
+
+例如：
+
+Jetson Orin Nano / Raspberry Pi
+
+变成：
+
+Camera
+   ↓
+OpenCV
+   ↓
+YOLO
+   ↓
+Object Detection
+   ↓
+ROS 2
+   ↓
+PX4
+   ↓
+MAVLink
+   ↓
+Pixhawk
+   ↓
+Motor
+
+这时候你已经不是在学习“无人机怎么飞”，而是在开发：
+
+Autonomous Drone / AI Drone
+
+Level 4：做真正的自主飞行
+
+例如：
+
+项目 1
+
+无人机自动跟踪目标
+
+Camera
+→ YOLO
+→ Target Tracking
+→ ROS 2
+→ PX4 Offboard
+→ 自动飞行
+
+项目 2
+
+无人机自主避障
+
+Depth Camera
+→ Point Cloud
+→ Obstacle Detection
+→ Path Planning
+→ PX4
+↳
+
+项目 3
+
+无人机自主导航
+
+GPS + IMU + Camera
+→ Localization
+→ SLAM
+→ Path Planning
+→ Autonomous Flight
+
+项目 4
+
+多无人机
+
+              Mission Planner
+                    │
+          ┌─────────┼─────────┐
+          ↓         ↓         ↓
+        Drone 1   Drone 2   Drone 3
+          │         │         │
+        PX4       PX4       PX4
+
+PX4/ROS 2 和 ArduPilot 都适合继续向这个方向发展；ArduPilot 本身也支持多旋翼、固定翼、直升机等多种无人系统。
+
+⭐ 如果是你，我会这样买
+
+第一台：
+
+Holybro X500 V2 + Pixhawk 6C
+
+先不要买 DJI。
+
+然后逐步增加：
+
+X500 V2
+  ↓
+Pixhawk 6C
+  ↓
+PX4
+  ↓
+QGroundControl
+  ↓
+Python
+  ↓
+MAVSDK
+  ↓
+ROS 2
+  ↓
+OpenCV
+  ↓
+YOLO
+  ↓
+Jetson
+  ↓
+Autonomous Drone
+
+这条路线非常适合你想学习的机器人开发 + AI + 无人机开发，而且以后从四旋翼扩展到六旋翼、固定翼、无人车也比较顺。PX4 官方目前也提供 X500、X650、S500 等开发套件。
+
+如果只让我选一台作为你的第一台开发无人机：X500 V2。
+
+如果你愿意，我下一步可以直接给你整理一份 “X500 V2 无人机完整开发实验室清单：无人机 + Pixhawk + Jetson + 摄像头 + GPS + 遥控器 + 软件 + ROS2 + PX4 + 模拟器，以及大约 $500/$1,000/$2,000 三档预算”。
+
+整理
+
+可以。按你前面想学的 无人机 + ROS 2 + AI + 机器人开发，我建议不要一次把所有东西买齐，而是按 模拟器 → 基础飞行 → Companion Computer → AI视觉 → 自主飞行 五阶段搭建。
+
+1. 我最推荐的完整路线
+
+核心平台：
+
+Holybro X500 V2 + Pixhawk 6C + PX4 + ROS 2 + Jetson
+
+X500 V2 是 PX4 官方 Developer Kit 之一，当前套件可配 Pixhawk 6C/6X，带 GPS、SiK Telemetry、4 个电机/ESC，并预留 Raspberry Pi/Jetson 和深度相机安装位置。
+
+2. 第一阶段：先不要买无人机
+软件实验室
+软件	用途
+Ubuntu 22.04	主开发环境
+VS Code	编程
+Git/GitHub	代码管理
+Python	AI/控制程序
+C++	ROS 2/性能代码
+PX4	飞控
+ROS 2 Humble	机器人中间件
+Gazebo	3D无人机仿真
+QGroundControl	地面站
+
+PX4 官方目前推荐 Ubuntu 22.04 + ROS 2 Humble；PX4 与 Gazebo 可以组成 SITL 仿真环境。
+
+你先完成：
+PX4 SITL
+   ↓
+Gazebo
+   ↓
+ROS 2
+   ↓
+Python / C++
+   ↓
+MAVLink / DDS
+   ↓
+QGroundControl
+
+这一阶段零飞行风险、零炸机成本。
+
+3. 第二阶段：购买 X500 V2
+核心采购
+Holybro X500 V2 PX4 Development Kit
+$719.00
+•
+DrUAV
+
+建议选择：
+
+X500 V2 + Pixhawk 6C
+
+套件已经包含：
+
+X500 V2 机架
+Pixhawk 6C
+GPS
+SiK Telemetry
+4 × Motor
+4 × ESC
+PDB
+螺旋桨
+电源模块
+
+官方说明约 30 分钟即可完成基本组装，而且无需焊接。
+
+还需要买
+配件	建议
+4S LiPo 电池	5000–6000mAh
+LiPo Charger	HOTA / ISDT 类
+RC Controller	RadioMaster TX16S / TX12
+Receiver	与遥控器协议匹配
+备用螺旋桨	至少 2–3 套
+电池电压测试器	建议
+工具包	螺丝刀、六角等
+LiPo 安全袋	必须
+
+第一架不要急着装 AI 电脑。
+
+先把：
+
+PX4 → Pixhawk → GPS → RC → Motor
+
+全部跑通。
+
+4. 第三阶段：加入 Jetson
+
+这一步才开始真正进入AI无人机开发。
+
+我建议：
+
+Jetson Orin Nano Super 8GB
+NVIDIA Jetson Orin Nano Super Developer Kit
+$543.80 · RCDrone
+
+不要一开始上 Orin NX。
+
+你的第一个目标不是训练大模型，而是：
+
+OpenCV
+YOLO
+Object Detection
+Object Tracking
+ROS 2
+Camera
+PX4 Offboard Control
+
+已经够用了。
+
+X500 V2 本身就预留了 companion computer 安装位置。
+
+5. 第四阶段：加入摄像头
+
+我建议先用：
+
+Intel RealSense D435i
+Intel RealSense D435i
+$461.82 · ThinkRobotics.com
+
+它比普通 RGB 摄像头更适合学习机器人视觉，因为你可以获得：
+
+RGB
+Depth
+IMU
+   ↓
+3D perception
+
+然后：
+
+D435i
+   ↓
+ROS 2
+   ↓
+Point Cloud / Depth
+   ↓
+Obstacle Detection
+   ↓
+Path Planning
+   ↓
+PX4
+
+X500 V2 官方也提供 RealSense 等深度相机的安装支持。
+
+6. 最终系统架构
+
+你最后应该做成这样：
+
+                 ┌──────────────────────┐
+                 │     QGroundControl   │
+                 └──────────┬───────────┘
+                            │
+                         MAVLink
+                            │
+                   ┌────────▼────────┐
+                   │     Pixhawk     │
+                   │     PX4         │
+                   └────────┬────────┘
+                            │
+                    Motor / GPS / IMU
+                            │
+                         X500 V2
+                            ▲
+                            │
+                    MAVLink / DDS
+                            │
+              ┌─────────────┴─────────────┐
+              │                           │
+       ┌──────▼──────┐             ┌──────▼──────┐
+       │   Jetson    │             │   Sensors   │
+       │ Orin Nano   │◄────────────│ Camera/IMU  │
+       └──────┬──────┘             └─────────────┘
+              │
+            ROS 2
+              │
+       ┌──────┼─────────────┐
+       │      │             │
+     OpenCV  YOLO      Path Planning
+       │      │             │
+       └──────┴─────────────┘
+              │
+        Autonomous Flight
+
+这实际上已经非常接近现代AI Robotics UAV的开发架构。
+
+7. 三档预算
+💰 $500 左右：学习飞控
+X500 V2
+Pixhawk 6C
+GPS
+Telemetry
+Battery
+RC
+Charger
+
+目标：
+
+PX4 + 飞控 + GPS + 自动航点
+
+💰 $1,000 左右：真正开始无人机开发
+X500 V2
++
+Pixhawk 6C
++
+RC
++
+Battery
++
+Charger
++
+Raspberry Pi / 基础 Companion Computer
+
+目标：
+
+Python + MAVLink + ROS 2 + Offboard
+
+🔥 $1,500–$2,000：我最推荐
+                 X500 V2
+                    │
+                Pixhawk 6C
+                    │
+                   PX4
+                    │
+          ┌─────────┴─────────┐
+          │                   │
+      Jetson Orin        RealSense D435i
+          │                   │
+          └─────────┬─────────┘
+                    │
+                  ROS 2
+                    │
+          ┌─────────┼─────────┐
+          ↓         ↓         ↓
+       OpenCV     YOLO      SLAM
+          │         │         │
+          └─────────┼─────────┘
+                    ↓
+              Path Planning
+                    ↓
+             PX4 Offboard
+                    ↓
+             Autonomous UAV
+
+这一档最适合你。
+
+8. 你真正应该学习的技术顺序
+
+不要同时学一大堆。
+
+第 1 月
+
+Python + Linux + Git
+
+↓
+
+第 2 月
+
+PX4 + QGroundControl
+
+↓
+
+第 3 月
+
+ROS 2 + C++
+
+↓
+
+第 4 月
+
+MAVLink / MAVSDK + PX4 Offboard
+
+↓
+
+第 5 月
+
+OpenCV + YOLO
+
+↓
+
+第 6 月
+
+Jetson + RealSense + ROS 2
+
+↓
+
+第 7 月
+
+SLAM + Navigation + Path Planning
+
+↓
+
+第 8 月
+
+Autonomous Drone
+
+9. 最值得做的 10 个实验
+
+我建议你按这个顺序做：
+
+#	项目	难度
+1	Gazebo 无人机起飞	⭐
+2	Python 控制无人机	⭐⭐
+3	ROS 2 控制 PX4	⭐⭐
+4	自动 Waypoint	⭐⭐
+5	Offboard Control	⭐⭐⭐
+6	Camera + OpenCV	⭐⭐⭐
+7	YOLO 目标识别	⭐⭐⭐
+8	RealSense 障碍物检测	⭐⭐⭐⭐
+9	SLAM + Navigation	⭐⭐⭐⭐⭐
+10	AI Autonomous Drone	⭐⭐⭐⭐⭐
+10. 最重要的一点
+
+不要一上来就买无人机然后研究“怎么让它自动飞”。
+
+正确的工程流程应该是：
+
+        Simulation
+            ↓
+       PX4 SITL
+            ↓
+        Gazebo
+            ↓
+         ROS 2
+            ↓
+       Python/C++
+            ↓
+       MAVLink/DDS
+            ↓
+       Hardware-in-loop
+            ↓
+        X500 V2
+            ↓
+      Companion Computer
+            ↓
+        AI / Vision
+            ↓
+    Autonomous Flight
+
+这也是为什么我认为 X500 V2 比 DJI 更适合你学习：它把飞控、传感器、计算机、ROS 2、AI 和自主控制全部连接起来，而且 Pixhawk 6C 同时兼容 PX4 和 ArduPilot。
+
+如果你准备正式开始，我建议下一步直接
+做一份「X500 V2 无人机开发实验室采购清单」——我可以按美国购买渠道，把每一个零件具体到型号、数量、预算，并区分“必须买 / 后面再买 / 不要买”。
+
+可以。按你要做 AI 无人机开发实验室 的目标，我建议直接按 $1,500–$2,000 档 配，不要买太多暂时用不到的东西。
+
+一、核心采购清单
+类别	推荐型号	数量	优先级
+🚁 无人机	Holybro X500 V2 PX4 Kit + Pixhawk 6C	1	⭐⭐⭐⭐⭐
+🧠 Companion Computer	Jetson Orin Nano Super 8GB	1	⭐⭐⭐⭐⭐
+👁️ 深度相机	Intel RealSense D435i	1	⭐⭐⭐⭐⭐
+🎮 遥控器	RadioMaster TX16S Mark II ELRS	1	⭐⭐⭐⭐⭐
+🔋 电池	4S 5000–6000mAh LiPo	2–3	⭐⭐⭐⭐⭐
+🔌 充电器	HOTA D6 Pro / 同级 LiPo Charger	1	⭐⭐⭐⭐⭐
+📡 Telemetry	Holybro SiK Telemetry	1套	X500通常已含
+🛰️ GPS	Holybro GPS	1	X500通常已含
+🪶 备用螺旋桨	X500 V2 配套	2–3套	⭐⭐⭐⭐
+🔧 工具	六角扳手、螺丝刀等	1套	⭐⭐⭐⭐
+🔥 LiPo安全袋	LiPo Safety Bag	1	⭐⭐⭐⭐⭐
+二、第一笔钱应该花在哪里
+① X500 V2
+
+这是整个实验平台。
+
+建议直接买：
+
+X500 V2 + Pixhawk 6C
+
+不要买太便宜的无名 DIY 四轴。
+
+你的开发链：
+
+X500
+ ↓
+Pixhawk 6C
+ ↓
+PX4
+ ↓
+MAVLink
+ ↓
+ROS 2
+三、Jetson
+推荐：Jetson Orin Nano Super 8GB
+
+它负责：
+
+Camera
+   ↓
+OpenCV
+   ↓
+YOLO
+   ↓
+AI inference
+   ↓
+ROS 2
+   ↓
+PX4
+
+也就是说：
+
+Pixhawk负责“飞”，Jetson负责“想”。
+
+这一点非常重要。
+
+不要把 AI 算法直接塞进 Pixhawk。
+
+四、摄像头
+第一台：RealSense D435i
+
+它可以同时用于：
+
+RGB
+Depth
+IMU
+Point Cloud
+ROS 2
+障碍物检测
+SLAM
+
+因此特别适合你后面学习：
+
+机器人视觉 + 三维点云 + 自主导航。
+
+五、遥控器
+RadioMaster TX16S Mark II ELRS
+
+原因不是因为它“飞得最好”，而是：
+
+开发自由度高。
+
+以后你可以继续研究：
+
+RC
+ ↓
+Receiver
+ ↓
+PX4
+ ↓
+Manual
+ ↓
+Position
+ ↓
+Offboard
+ ↓
+Autonomous
+
+不要把遥控器当成主要开发设备，它主要是：
+
+人工接管 + 安全保护
+
+六、电池
+
+X500 建议准备：
+
+4S LiPo 5000–6000mAh × 2–3
+
+为什么至少 2 个？
+
+因为你会大量测试：
+
+Takeoff
+ ↓
+Hover
+ ↓
+Waypoint
+ ↓
+Landing
+ ↓
+Repeat
+
+一块电池很快就没了。
+
+第一阶段不要追求大容量。
+
+七、充电器
+
+建议买：
+
+HOTA D6 Pro 或同级双通道智能 LiPo Charger
+
+你需要学习：
+
+Balance Charge
+Storage Charge↳
+Battery Voltage
+Cell Voltage
+Charging Current
+
+无人机开发中，LiPo 电池管理是必须掌握的。
+
+八、不要现在买的东西
+
+这些我建议你暂时不要买：
+
+❌ LiDAR
+
+❌ RTK GPS
+
+❌ 激光雷达
+
+❌ 云台
+
+❌ 机械臂
+
+❌ 4K 摄像机
+
+❌ 多光谱相机
+
+❌ 高级 AI 摄像头
+
+❌ Jetson AGX Orin
+
+❌ 六旋翼
+
+❌ 固定翼
+
+原因很简单：
+
+你现在首先要建立：
+
+PX4 + ROS 2 + AI + Vision 的完整闭环。
+
+九、最终实验室结构
+
+我建议你最后搭成：
+
+                    ┌──────────────┐
+                    │   Laptop     │
+                    │ Ubuntu 22.04 │
+                    └──────┬───────┘
+                           │
+                     ROS 2 / PX4
+                           │
+                     ┌─────▼─────┐
+                     │ QGround   │
+                     │ Control   │
+                     └─────┬─────┘
+                           │
+                        MAVLink
+                           │
+                  ┌────────▼────────┐
+                  │    Pixhawk 6C   │
+                  │      PX4        │
+                  └────────┬────────┘
+                           │
+                    X500 V2 Flight
+                           │
+             ┌─────────────┴─────────────┐
+             │                           │
+        GPS / IMU                   Motors / ESC
+             │
+             │
+      ┌──────▼───────┐
+      │    Jetson    │
+      │ Orin Nano    │
+      └──────┬───────┘
+             │
+           ROS 2
+             │
+      ┌──────┼──────────┐
+      │      │          │
+    OpenCV  YOLO     RealSense
+      │      │          │
+      └──────┼──────────┘
+             │
+       Perception
+             │
+       Path Planning
+             │
+       Autonomous Flight
+十、软件全部免费
+
+你这套实验室的软件基本不需要额外购买：
+
+软件	用途
+Ubuntu 22.04	OS
+VS Code	IDE
+Git	版本控制
+GitHub	代码
+PX4	Flight Controller
+QGroundControl	Ground Station
+ROS 2 Humble	Robotics Middleware
+Gazebo	Simulation
+MAVLink	UAV protocol
+MAVSDK	UAV API
+OpenCV	Computer Vision
+YOLO	Object Detection
+Python	AI/控制
+C++	ROS 2/高性能程序
+Docker	环境管理
+十一、你的开发环境最好这样配置
+
+如果你有一台 Windows PC：
+
+Windows 11
+    │
+    └── Ubuntu 22.04
+            │
+       ┌────┼──────────┐
+       │    │          │
+      PX4  ROS 2     Gazebo
+       │    │          │
+       └────┼──────────┘
+            │
+          VS Code
+
+不要为了学无人机马上买一台新的电脑。
+
+如果你的电脑 CPU/GPU 足够，先在现有 PC 上跑：
+
+PX4 + Gazebo + ROS 2
+
+Jetson 是装到无人机上之后再发挥作用。
+
+十二、预算建议
+🟢 第一阶段：约 $700–900
+X500 V2
++
+Pixhawk 6C
++
+RC
++
+Battery
++
+Charger
+
+学习：
+
+PX4 + 飞控 + GPS + Mission
+
+🟡 第二阶段：约 $1,200–1,500
+
+增加：
+
+Jetson Orin Nano
+
+学习：
+
+ROS 2 + MAVLink + Offboard + Python
+
+🔴 第三阶段：约 $1,600–2,000
+
+再增加：
+
+RealSense D435i
+
+开始：
+
+AI Vision + Depth + SLAM + Autonomous Flight
+
+十三、我建议你的第一个完整项目
+
+不要一开始做“自动无人机”。
+
+做这个：
+
+Project #1：AI目标跟踪无人机
+            RealSense
+                 ↓
+             Camera
+                 ↓
+              YOLO
+                 ↓
+        Detect person/object
+                 ↓
+          Object Tracking
+                 ↓
+              ROS 2
+                 ↓
+        Position / Velocity
+                 ↓
+          PX4 Offboard
+                 ↓
+              X500
+                 ↓
+        自动跟踪目标
+
+完成这个项目以后，你已经真正掌握了：
+
+无人机 + 飞控 + ROS 2 + AI + Computer Vision + Autonomous Control。
+
+最后给你一个明确采购结论
+现在买
+
+必须：
+
+X500 V2 + Pixhawk 6C
+RadioMaster TX16S Mark II ELRS↳
+4S LiPo × 2–3
+LiPo Charger
+备用螺旋桨
+LiPo Safety Bag
+
+第二批：
+
+Jetson Orin Nano Super 8GB
+
+第三批：
+
+RealSense D435i
+
+暂时不要：
+
+LiDAR、RTK、AGX Orin、云台、多光谱、固定翼。
+
+这样买，不会花冤枉钱，而且每一件设备都能进入后面的开发链。
