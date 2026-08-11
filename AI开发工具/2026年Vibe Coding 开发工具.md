@@ -14,11 +14,7 @@
   * [保姆级教程！教你搭建一个无限制、可联网、带本地知识库的私人 DeepSeek](https://www.youtube.com/watch?v=bJ2dEtZcJGA)
   * [本地快速安装运行史上最强开源LLaMa3大模型](https://liaoxuefeng.com/blogs/all/2024-05-06-llama3/index.html)
 # 工具	从头到尾开发	多文件修改	自动调试	自动测试	部署协助	AI 项目能力	推荐指数
-* [NotionAI---企业知识库/AI Agent/团队协作](https://www.notion.com/product/ai?utm_source=chatgpt.com)
-  * [Notion AI 官方中文教程总目录](https://www.notion.com/zh-cn/help/guides/category/ai?utm_source=chatgpt.com)
-  * [Notion AI：完整功能教程](https://www.notion.com/help/guides/everything-you-can-do-with-notion-ai?utm_source=chatgpt.com)
-  * [Notion Agent：入门教程](https://www.notion.com/help/notion-agent?utm_source=chatgpt.com)
-  * [Notion Academy 官方学习平台](https://academy.notion.com/)
+* [NotionAI---企业知识库/AI Agent/团队协作](https://github.com/stevenli91748/AI/tree/master/AI%E5%BC%80%E5%8F%91%E5%B7%A5%E5%85%B7/NotionAI)
 * [Google NotebookLM---个人学习/研究](https://notebooklm.google/plans?utm_source=chatgpt.com)
   * [6分钟快速上手最强学习工具NotebookLM（2025）](https://www.youtube.com/watch?v=6PLCsX1gCk4) 
 * Ollama
