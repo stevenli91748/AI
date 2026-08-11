@@ -2,16 +2,14 @@
 
 先给你官方教程
 
-Notion AI 官方中文教程总目录
+  * [Notion AI 官方中文教程总目录](https://www.notion.com/zh-cn/help/guides/category/ai?utm_source=chatgpt.com)
+  * [Notion AI：完整功能教程](https://www.notion.com/help/guides/everything-you-can-do-with-notion-ai?utm_source=chatgpt.com)
+  * [Notion Agent：入门教程](https://www.notion.com/help/notion-agent?utm_source=chatgpt.com)
+  * [Notion Academy 官方学习平台](https://academy.notion.com/)
 
 官方目前的 AI 教程已经包括 Notion Agent、Custom Agent、AI Connectors、MCP、Research Mode、Enterprise Search、AI Meeting Notes 等。
 ↳
 
-Notion AI：完整功能教程
-
-Notion Agent：入门教程
-
-Notion Academy 官方学习平台
 
 我建议你这样学
 第1阶段：Notion 基础
