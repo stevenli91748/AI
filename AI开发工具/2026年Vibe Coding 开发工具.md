@@ -17,6 +17,7 @@
 * [NotionAI---企业知识库/AI Agent/团队协作](https://github.com/stevenli91748/AI/tree/master/AI%E5%BC%80%E5%8F%91%E5%B7%A5%E5%85%B7/NotionAI)
 * [Google NotebookLM---个人学习/研究](https://notebooklm.google/plans?utm_source=chatgpt.com)
   * [6分钟快速上手最强学习工具NotebookLM（2025）](https://www.youtube.com/watch?v=6PLCsX1gCk4) 
+* [Qoder---AI 编程 Agent + AI IDE”，定位上和 Cursor、Claude Code、OpenAI Codex、GitHub Copilot 属于同一大类，但它更强调 让 Agent 自主完成整个软件开发任务，而不只是帮你写几行代](https://github.com/stevenli91748/AI/blob/master/AI%E5%BC%80%E5%8F%91%E5%B7%A5%E5%85%B7/Qoder(%E8%AE%A9%20Agent%20%E8%87%AA%E4%B8%BB%E5%AE%8C%E6%88%90%E6%95%B4%E4%B8%AA%E8%BD%AF%E4%BB%B6%E5%BC%80%E5%8F%91%E4%BB%BB%E5%8A%A1)/README.md)
 * Ollama
 * AnythingLLM (AnythingLLM 是一个开源的本地 AI 应用平台,它可以连接本地大模型或云端大模型,学习企业 RAG 和 Agent 的实验平台,想做企业AI应用 → AnythingLLM)
 * Open WebUI  (想玩本地模型聊天 → Open WebUI)
