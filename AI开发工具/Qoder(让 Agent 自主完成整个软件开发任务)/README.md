@@ -1,6 +1,6 @@
 
-[Qoder 官方网站](https://qoder.com/?utm_source=chatgpt.com)
-[Qoder 官方文档](https://docs.qoder.com/product-series/what-is-qoder)
+* [Qoder 官方网站](https://qoder.com/?utm_source=chatgpt.com)
+* [Qoder 官方文档](https://docs.qoder.com/product-series/what-is-qoder)
 
 Qoder 可以理解成 “AI 编程 Agent + AI IDE”，定位上和 Cursor、Claude Code、OpenAI Codex、GitHub Copilot 属于同一大类，但它更强调 让 Agent 自主完成整个软件开发任务，而不只是帮你写几行代码。
 
