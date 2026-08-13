@@ -2,8 +2,22 @@
 
 
 # 博客
-[ nvidia AI Robotics](https://www.nvidia.com/en-us/industries/robotics/)|
+[ nvidia AI Robotics 官方网站](https://www.nvidia.com/en-us/industries/robotics/)|
 ---|
+
+
+# 目录
+* 传统机器人
+* 具身智能机器人---4 条技术路线，其中 Figure 的 Helix 和 NVIDIA 的 GR00T尤其值得你做技术对比，因为它们代表了当前人形机器人领域两种很重要的 VLA / Physical AI 路线。
+  * NVIDIA → GR00T + Isaac  （第一名  适合拿来做二次开发、学习和自己做机器人 ）
+  * Google DeepMind → Gemini Robotics  （第二名 ）
+  * Figure AI → Helix + Figure 03  （目前不适合作为开放开发平台 ）
+  * Tesla → Optimus   （目前最不适合外部开发者二次开发）
+  
+
+
+
+
 
 
 如果从美国机器人公司的实际开发视角来看，现在做机器人已经不是“学一个机器人编程语言”这么简单，而是一个完整技术栈：
