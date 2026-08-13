@@ -2,14 +2,13 @@
 
 
 # 博客
-[ nvidia AI Robotics 官方网站](https://www.nvidia.com/en-us/industries/robotics/)|
----|
+
 
 
 # 目录
 * 传统机器人
 * 具身智能机器人---4 条技术路线，其中 Figure 的 Helix 和 NVIDIA 的 GR00T尤其值得你做技术对比，因为它们代表了当前人形机器人领域两种很重要的 VLA / Physical AI 路线。
-  * NVIDIA → GR00T + Isaac  （第一名  适合拿来做二次开发、学习和自己做机器人 ）
+  * [NVIDIA → GR00T + Isaac  （第一名  适合拿来做二次开发、学习和自己做机器人 ）](https://github.com/stevenli91748/AI/blob/master/AI%20%E6%9C%BA%E5%99%A8%E4%BA%BA/NVIDIA/NVIDIA%20%E2%86%92%20GR00T%20%2B%20Isaac.md)
   * Google DeepMind → Gemini Robotics  （第二名 ）
   * Figure AI → Helix + Figure 03  （目前不适合作为开放开发平台 ）
   * Tesla → Optimus   （目前最不适合外部开发者二次开发）
