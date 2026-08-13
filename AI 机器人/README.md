@@ -1,7 +1,9 @@
 * [一份 AI Robotics 第一个月逐日学习计划（Day 1–30）和 Ubuntu/ROS 2 安装命令及第一个 ROS 2 机器人项目完整代码结构](https://github.com/stevenli91748/AI/blob/master/AI%20%E6%9C%BA%E5%99%A8%E4%BA%BA/AI%20Robotics%20%E7%AC%AC%E4%B8%80%E4%B8%AA%E6%9C%88%E9%80%90%E6%97%A5%E5%AD%A6%E4%B9%A0%E8%AE%A1%E5%88%92%EF%BC%88Day%201%E2%80%9330%EF%BC%89.md)
 
 
-
+# 博客
+[ nvidia AI Robotics](https://www.nvidia.com/en-us/industries/robotics/)|
+---|
 
 
 如果从美国机器人公司的实际开发视角来看，现在做机器人已经不是“学一个机器人编程语言”这么简单，而是一个完整技术栈：
