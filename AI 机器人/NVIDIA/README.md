@@ -1,3 +1,14 @@
+NVIDIA Cosmos 可以简单理解成，让 AI 学会“理解物理世界”的基础模型平台。
+
+传统 LLM：
+
+Text → LLM → Text
+
+机器人 AI：
+
+Camera/Sensors → Cosmos World Model → 理解/预测物理世界 → Robot Policy → Robot Action
+
+
 # 博客
 
 [ nvidia AI Robotics 官方网站](https://www.nvidia.com/en-us/industries/robotics/)|
