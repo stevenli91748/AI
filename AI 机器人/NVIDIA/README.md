@@ -8,6 +8,12 @@ Text → LLM → Text
 
 Camera/Sensors → Cosmos World Model → 理解/预测物理世界 → Robot Policy → Robot Action
 
+Cosmos：让 AI 理解和预测世界
+GR00T：让机器人 理解任务并行动
+Isaac：机器人 开发/仿真/训练工具链
+Omniverse：建立 3D 世界和数字孪生环境
+
+如果你现在是在学 AI Robotics，我建议把 Cosmos + GR00T + Isaac + Omniverse 放在同一个技术体系里学习，而不是把 Cosmos 当成一个普通的 AI Agent 平台。
 
 # 博客
 
