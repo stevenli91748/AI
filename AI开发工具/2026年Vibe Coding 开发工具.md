@@ -31,11 +31,17 @@
   * [程序员必备设计神器！Claude Code原生支持Claude Design！一个/design命令，从UI原型到代码同步，全流程演示，AI设计到开发终于闭环了！小白也能做精美UI！挑战Figma！](https://www.youtube.com/watch?v=5jXwHYfccvw)
   * [真要取代Figma了？Claude Design最新版深度评测！UI原型设计+PPT生成效果惊人，design system实现风格统一，Opus 4.8前端能力直接拉满，一句话设计一整套品牌系统！](https://www.youtube.com/watch?v=trtd977aArU)
 * Cursor	⭐⭐⭐⭐☆	⭐⭐⭐⭐⭐	⭐⭐⭐⭐☆	⭐⭐⭐⭐☆	⭐⭐⭐⭐☆	⭐⭐⭐⭐⭐	⭐⭐⭐⭐⭐
-  * [无需付费，4 种免费使用 Cursor AI 的方法（2026 最新指南）](https://apifox.com/apiskills/free-cursor-ai/) 
+  * [无需付费，4 种免费使用 Cursor AI 的方法（2026 最新指南）](https://apifox.com/apiskills/free-cursor-ai/)
+  * [cursor开发前后端项目,全程解读,干货满满](https://www.youtube.com/watch?v=-nwIB9XUAL8)
+  * [如何用Cursor开发大项目，全流程讲解，干货十足](https://www.youtube.com/watch?v=yIAYdr7hdkg)
+  * [Cursor零代码开发前端项目全流程技巧](https://www.youtube.com/watch?v=IJnCZ8WnXxQ)
+  * [这条Rules让Cursor准确率狂飙！赶紧收藏](https://www.youtube.com/watch?v=s6P0NMiF3Ic)
 * Windsurf	⭐⭐⭐⭐☆	⭐⭐⭐⭐⭐	⭐⭐⭐⭐☆	⭐⭐⭐⭐☆	⭐⭐⭐⭐☆	⭐⭐⭐⭐☆	⭐⭐⭐⭐☆
 * OpenAI Codex CLI	⭐⭐⭐⭐☆	⭐⭐⭐⭐⭐	⭐⭐⭐⭐⭐	⭐⭐⭐⭐⭐	⭐⭐⭐⭐☆	⭐⭐⭐⭐⭐	⭐⭐⭐⭐☆
 * Visual Studio Code + GitHub Copilot	⭐⭐⭐☆☆	⭐⭐⭐⭐☆	⭐⭐⭐☆☆	⭐⭐⭐☆☆	⭐⭐⭐☆☆	⭐⭐⭐⭐☆	⭐⭐⭐⭐☆
-
+* JAVA AI
+  * [
+IDEA Java 开发最佳 AI 辅助插件：Java AI，无限 Token，程序员效率直接拉满！](https://www.youtube.com/watch?v=sYaYaZp06Vk) 
 与其他 AI Coding 工具的区别
 工具	      定位	                   特点
 OpenAI    Codex	AI Coding Agent	  深度理解项目，执行开发任务
