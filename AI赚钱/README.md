@@ -1,3 +1,5 @@
+* [
+我注册了海外一人公司，跑通了全球收付款！（实操分享）](https://www.youtube.com/watch?v=Zp-_EEkNaHA)
 * [https://www.youtube.com/watch?v=HcbjFO1mRIw](https://www.youtube.com/watch?v=Vu0IpRQRbYg)
 * [2026 AI電商從0到1教學｜選品+建站+投放，最後實操驗證能不能出單](https://www.youtube.com/watch?v=x6s3TT8niik)
 * [2026跨境電商還能做嗎？ 幫你折開市場、成本、金流工具，最後有業界秘密彩蛋！](https://www.youtube.com/watch?v=wjNlLyXmoFM)
