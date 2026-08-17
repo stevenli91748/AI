@@ -140,6 +140,10 @@ AI大模型
 
 * 三高（高性能、高可用、高扩展性）AI工程体系
   * [Ai工程化项目实战营2026---通过构建“三高”（高性能、高可用、高扩展性）AI工程体系，目标是全面提升你的AI项目研发与工程化能力  解压密码:itdjs.com@#20260202](https://www.itdjs.com/8647/html)
+
+* [LLM 应用的开发、调试、测试、部署都可以基本全部放到 AWS](https://github.com/stevenli91748/AI/blob/master/LLM%20%E5%A4%A7%E5%9E%8B%E8%AF%AD%E8%A8%80%E6%A8%A1%E5%9E%8B/AWS/LLM%20%E5%BA%94%E7%94%A8%E7%9A%84%E5%BC%80%E5%8F%91%E3%80%81%E8%B0%83%E8%AF%95%E3%80%81%E6%B5%8B%E8%AF%95%E3%80%81%E9%83%A8%E7%BD%B2%E9%83%BD%E5%8F%AF%E4%BB%A5%E5%9F%BA%E6%9C%AC%E5%85%A8%E9%83%A8%E6%94%BE%E5%88%B0%20AWS.md)
+  * [AWS LLM Development Environment 从 0 到可运行](https://github.com/stevenli91748/AI/blob/master/LLM%20%E5%A4%A7%E5%9E%8B%E8%AF%AD%E8%A8%80%E6%A8%A1%E5%9E%8B/AWS/AWS%20LLM%20Development%20Environment%20%E4%BB%8E%200%20%E5%88%B0%E5%8F%AF%E8%BF%90%E8%A1%8C/README.md)
+
 # 博客
 
 [datacamp --- online AI course learning](https://www.datacamp.com/category/programming?page=1)|
