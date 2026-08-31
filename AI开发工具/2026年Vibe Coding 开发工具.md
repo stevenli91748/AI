@@ -15,7 +15,15 @@
   * [使用 DeepSeek R1 与 AnythingLLM 搭建本地知识库](https://www.youtube.com/watch?v=OsI9TAjhaWs)
   * [保姆级教程！教你搭建一个无限制、可联网、带本地知识库的私人 DeepSeek](https://www.youtube.com/watch?v=bJ2dEtZcJGA)
   * [本地快速安装运行史上最强开源LLaMa3大模型](https://liaoxuefeng.com/blogs/all/2024-05-06-llama3/index.html)
-# 工具	从头到尾开发	多文件修改	自动调试	自动测试	部署协助	AI 项目能力	推荐指数
+# 工具	从头到尾开发	多文件修改	自动调试	自动测试	部署协助	AI 项目能力	推荐指数---- 将AI开发工具分为五类
+  * AI编程工具(AI coding tools)
+  * AI代码审查工具(AI codereview tools)
+  * AI质量保证测试工具(AI QA testing tools)
+  * AI重构工具(AI refactoring tools)
+  * AI文档工具(AI docs tools)。
+
+
+
 * []()
 * [NotionAI---企业知识库/AI Agent/团队协作](https://github.com/stevenli91748/AI/tree/master/AI%E5%BC%80%E5%8F%91%E5%B7%A5%E5%85%B7/NotionAI)
 * [Google NotebookLM---个人学习/研究](https://notebooklm.google/plans?utm_source=chatgpt.com)
