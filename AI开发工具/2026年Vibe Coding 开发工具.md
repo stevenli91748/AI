@@ -17,6 +17,14 @@
   * [本地快速安装运行史上最强开源LLaMa3大模型](https://liaoxuefeng.com/blogs/all/2024-05-06-llama3/index.html)
 # 工具	从头到尾开发	多文件修改	自动调试	自动测试	部署协助	AI 项目能力	推荐指数---- 将AI开发工具分为五类
   * AI编程工具(AI coding tools)
+    * 前端AI编程工具---由于Web工具不太适合开发大型、复杂的后端[插图]项目，因此目前比较好的开发实践是：使用v0或Bolt.new等Web工具快速生成前端界面，然后将代码下载并导入Cursor等AI IDE中，进行后续的逻辑开发、功能调试和项目管理。
+      * Bolt.new、
+      * v0、
+      * Lovable、
+      * Replit、
+      * Devin、
+      * FireStudio、
+      * NoCode    
   * AI代码审查工具(AI codereview tools)
   * AI质量保证测试工具(AI QA testing tools)
   * AI重构工具(AI refactoring tools)
