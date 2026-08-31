@@ -29,7 +29,12 @@
   * AI质量保证测试工具(AI QA testing tools)
   * AI重构工具(AI refactoring tools)
   * AI文档工具(AI docs tools)。
+  * 项目管理
+    * Jira
+  * 版本管理
+    * github
 
+ 
 
 
 * []()
