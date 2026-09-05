@@ -26,6 +26,7 @@
       * FireStudio、
       * NoCode    
   * AI代码审查工具(AI codereview tools)
+    * Linter 
   * AI质量保证测试工具(AI QA testing tools)
   * AI重构工具(AI refactoring tools)
   * AI文档工具(AI docs tools)。
