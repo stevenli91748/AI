@@ -11,3 +11,4 @@
     * [知名的两个资源站 https://cursorlist.com/](https://cursorlist.com/)
     * Reddit
     * 稀土掘金
+* MCP
