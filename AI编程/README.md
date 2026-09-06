@@ -23,3 +23,6 @@
       *  Smithery.ai：这个平台的核心功能是Leaderboard
       *  ·Anthropic官方仓库：前面介绍过，MCP是由Anthropic提出的，可想而知这个官方仓库的含金量。
       *  ·Reddit的MCP子社区：Reddit是一个全球知名的社交新闻聚合与讨论平台，用户可根据自己的兴趣加入不同主题的子社区
+* 版本控制
+  * [单机模式](https://weread.qq.com/web/reader/f9832840813abb79bg014e82kc20321001cc20ad4d76f5ae)
+  * [联网模式](https://weread.qq.com/web/reader/f9832840813abb79bg014e82kc20321001cc20ad4d76f5ae)   
