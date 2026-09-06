@@ -6,3 +6,5 @@
     * [这个项目收录Rules的逻辑与常规分类有所不同，它按照开发中的具体环节或流程来分类](https://github.com/steipete/agent-rules)
     * [知名的两个资源站 https://cursor.directory/](https://cursor.directory/)
     * [知名的两个资源站 https://cursorlist.com/](https://cursorlist.com/)
+    * Reddit
+    * 稀土掘金
