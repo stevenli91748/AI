@@ -5,7 +5,7 @@
 
 * 提示词
   * 系统提示词
-    * [system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools)  
+    * [system-prompts-and-models-of-ai-tools 例子](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools)  
 * 上下文工程
 * Rules
   * 实用的Rules资源平台
