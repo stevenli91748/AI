@@ -156,6 +156,9 @@ AI大模型
 [白白说大模型](https://www.youtube.com/@%E7%99%BD%E7%99%BD%E8%AF%B4%E5%A4%A7%E6%A8%A1%E5%9E%8B)|[马克的技术工作坊](https://www.youtube.com/@%E9%A9%AC%E5%85%8B%E7%9A%84%E6%8A%80%E6%9C%AF%E5%B7%A5%E4%BD%9C%E5%9D%8A)|[AI超元域](https://www.youtube.com/@AIsuperdomain)|[code秘密花园](https://www.youtube.com/@garden-conard)|[AI随风](https://www.youtube.com/@AI%E9%9A%8F%E9%A3%8E)|[AI大模型应用开发](https://www.youtube.com/@AI%E5%A4%A7%E6%A8%A1%E5%9E%8B%E5%BA%94%E7%94%A8%E5%BC%80%E5%8F%91/videos)|[技术爬爬虾](https://www.youtube.com/@tech-shrimp)|[李厂长来了](https://www.youtube.com/@lichangzhanglaile/videos)|
 ---|---|---|---|---|---|---|---|
 
+[鱼皮AI导航---无论是想找好用的AI工具、获取最新AI资讯、发现AI提示词板，还是交流AI使用心得、学习AI知识](https://ai.codefather.cn/)|
+---|
+
 [我开源了一个 Skill，把项目经验沉淀成可复用的知识](https://www.youtube.com/watch?v=HcbjFO1mRIw)|
 ---|
 
