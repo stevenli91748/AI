@@ -1,4 +1,5 @@
 # 参考书
+  * [英文软件开发教程系列](https://www.youtube.com/@BroCodez/courses)
   * [Markdown：大语言模型时代的通用语言](https://weread.qq.com/web/reader/750324c0813aba690g01140e)
   * [白话AI编程：从入门到实践](https://weread.qq.com/web/reader/f9832840813abb79bg014e82kc81322c012c81e728d9d180)
 # 目录
