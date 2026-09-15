@@ -3,7 +3,8 @@
   * [Markdown：大语言模型时代的通用语言](https://weread.qq.com/web/reader/750324c0813aba690g01140e)
   * [白话AI编程：从入门到实践](https://weread.qq.com/web/reader/f9832840813abb79bg014e82kc81322c012c81e728d9d180)
 # 目录
-
+* AI 应用主流技术架构
+  * [美国 AI 全栈应用主流技术架构（2026）]()
 * 提示词
   * 系统提示词
     * [system-prompts-and-models-of-ai-tools 例子](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools)  
