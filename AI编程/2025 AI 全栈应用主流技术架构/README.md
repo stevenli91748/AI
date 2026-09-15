@@ -6,9 +6,7 @@ React + TypeScript + Python FastAPI + PostgreSQL + Redis + AWS + OpenAI API。
 
 这是一个实用的主流技术组合。它不是美国所有公司的统一标准，但覆盖了 AI 应用开发中非常重要的前后端、数据、模型集成和云部署能力。
 
-建议主攻 `React + TypeScript + Next.js + Python FastAPI + PostgreSQL + AWS`。保留 Java / Spring Boot 作为企业后端能力，并在需要时与 Python AI 服务组合。[Bun + Elysia](https://github.com/stevenli91748/AI/blob/master/AI%E7%BC%96%E7%A8%8B/2025%20AI%20%E5%85%A8%E6%A0%88%E5%BA%94%E7%94%A8%E4%B8%BB%E6%B5%81%E6%8A%80%E6%9C%AF%E6%9E%B6%E6%9E%84/%E7%8E%B0%E4%BB%A3%20TypeScript%20%E5%85%A8%E6%A0%88%E6%96%B9%E6%A1%88%20Bun%20%2B%20Elysia%20%2B%20React%2019%20%2B%20TanStack%20%E5%85%A8%E6%A0%88%E6%9E%B6%E6%9E%84%E8%AF%A6%E8%A7%A3.md) 值得学习，但可以
-
-作为第二套全栈路线，而不是优先替代 Python AI 后端。
+建议主攻 `React + TypeScript + Next.js + Python FastAPI + PostgreSQL + AWS`。保留 Java / Spring Boot 作为企业后端能力，并在需要时与 Python AI 服务组合。[Bun + Elysia](https://github.com/stevenli91748/AI/blob/master/AI%E7%BC%96%E7%A8%8B/2025%20AI%20%E5%85%A8%E6%A0%88%E5%BA%94%E7%94%A8%E4%B8%BB%E6%B5%81%E6%8A%80%E6%9C%AF%E6%9E%B6%E6%9E%84/%E7%8E%B0%E4%BB%A3%20TypeScript%20%E5%85%A8%E6%A0%88%E6%96%B9%E6%A1%88%20Bun%20%2B%20Elysia%20%2B%20React%2019%20%2B%20TanStack%20%E5%85%A8%E6%A0%88%E6%9E%B6%E6%9E%84%E8%AF%A6%E8%A7%A3.md) 值得学习，但可以作为第二套全栈路线，而不是优先替代 Python AI 后端。
 
 ## 一、美国 AI 全栈开发的主流架构
 
