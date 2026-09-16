@@ -1,3 +1,4 @@
+* [用AI赚钱最懒的方法（新手适用）](https://www.youtube.com/watch?v=ytAW1_g2IfI)
 * [个人开发者如何进行全球收款，无需公司主体❤️](https://www.youtube.com/watch?v=qna0s5B6tsk)
 * [我注册了海外一人公司，跑通了全球收付款！（实操分享）](https://www.youtube.com/watch?v=Zp-_EEkNaHA)
 * [https://www.youtube.com/watch?v=HcbjFO1mRIw](https://www.youtube.com/watch?v=Vu0IpRQRbYg)
