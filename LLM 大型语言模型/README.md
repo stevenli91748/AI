@@ -120,6 +120,7 @@ AI大模型
   * [大模型AI应用开发企业级项目实战（提示词工程+大模型NLP应用+AI对话产品）](https://www.itdjs.com/8850/html)
     * [AI时代人人必修课-提示词工程+大语言模型 多场景实战](https://www.itdjs.com/7091/html)
     * [你的舊提示詞正在拖垮新模型？](https://www.youtube.com/watch?v=MdZWB8eC83Q)
+    * [Loop Engineering 解析，大神都不寫 prompt 了？](https://www.youtube.com/watch?v=kGYFSDd-ZVY)
 * LLM推理优化
   * [ LLM推理优化与部署实战2026](https://www.itdjs.com/8761/html)
 * N8N
