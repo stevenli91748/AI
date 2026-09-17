@@ -78,6 +78,7 @@ AI大模型
     * [Java大模型工程能力必修,LangChain4j实战AI智能体](https://www.itdjs.com/8212/html)
     * []()
 * [大模型官方提示词工程---OpenAI,Gemini,Anthropic](https://github.com/stevenli91748/AI/blob/master/%E6%8F%90%E7%A4%BA%E8%AF%8D%E5%B7%A5%E7%A8%8B/%E6%8F%90%E7%A4%BA%E8%AF%8D%E5%B7%A5%E7%A8%8B.md)
+  * [提示詞工程新手教學：Anthropic 六大架構 + 五個實戰技巧 Prompt Engineering](https://www.youtube.com/watch?v=TiQOnrbVje0) 
 * AI 数学
   * [深入AI/大模型必修数学体系2026](https://www.itdjs.com/8639/html) 
 * [动手学大模型应用开发例子1](https://datawhalechina.github.io/llm-universe/#/)
