@@ -125,7 +125,8 @@ AI大模型
   * [ LLM推理优化与部署实战2026](https://www.itdjs.com/8761/html)
 * N8N
   * [N8N AI自动化大师课：从零构建企业级工作流---从 0 到 1 带你搭建完整的自动化系统](https://www.itdjs.com/8596/html)
-  * [Make 跟 n8n 還值得學嗎？2026 年新手現在該把時間花在哪](https://www.youtube.com/watch?v=UQDSftGndms)  
+  * [Make 跟 n8n 還值得學嗎？2026 年新手現在該把時間花在哪](https://www.youtube.com/watch?v=UQDSftGndms)
+  * [2026還值得學n8n嗎？矽谷工程師教你自動化工具該用在哪！｜Kelly Tsai](https://www.youtube.com/watch?v=Jshk_tky6IM) 
 * MCP
   * [大模型MCP技术实战课2025---系统拆解AI智能体开发全流程！从Agent底层逻辑、Function Call优化策略，到MCP环境搭建与服务端开发，手把手带你构建高可用客户端和服务端架构。深入剖析复杂智能体的数据库设计、多服务协同（SQL/Python）、并行/串行调用等硬核技术](https://www.itdjs.com/8199/html)
   * [MCP+GraphRAG+LLM的智能体全栈开发](https://www.itdjs.com/8172/html)
