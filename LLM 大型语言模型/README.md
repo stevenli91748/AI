@@ -65,6 +65,8 @@ AI大模型
 尤洋：《实战AI大模型》【2023.11出版】
 
 # 学习例子项目
+* 如何省 Token 的實戰方法
+  * [AI 額度老是不夠用？三招省 Token 的實戰方法](https://www.youtube.com/watch?v=d4329xvSDK4)
 * 开发工具
   * 前端开发工具
     *  
