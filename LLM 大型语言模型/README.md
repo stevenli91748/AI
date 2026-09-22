@@ -67,6 +67,7 @@ AI大模型
 # 学习例子项目
 * 如何省 Token 的實戰方法
   * [AI 額度老是不夠用？三招省 Token 的實戰方法](https://www.youtube.com/watch?v=d4329xvSDK4)
+  * [7个省Token的实用技巧，耗量减少80%！Codex、ClaudeCode都通用！](https://www.youtube.com/watch?v=iCCywWqfSkA)
 * 开发工具
   * 前端开发工具
     *  
