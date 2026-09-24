@@ -2,6 +2,15 @@
 [搭一套“完全在线的无人机 AI 开发环境”](https://github.com/stevenli91748/AI/blob/master/AI%20%E6%99%BA%E8%83%BD%E6%97%A0%E4%BA%BA%E6%9C%BA/%E6%90%AD%E4%B8%80%E5%A5%97%E5%AE%8C%E5%85%A8%E5%9C%A8%E7%BA%BF%E7%9A%84%E6%97%A0%E4%BA%BA%E6%9C%BA%20AI%20%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83.md)|
 ---|
 
+# 在线书籍
+* [无人机无线网络技术](https://weread.qq.com/web/reader/03c32020813ab9c5ag01406e)
+* [四旋翼飞行器设计与实现/清华开发者书库](https://weread.qq.com/web/reader/45f32bb07198d6e145f7a04kc81322c012c81e728d9d180)
+* [无人机系统：理论+仿真+应用](https://weread.qq.com/web/reader/44e32710813abb45cg01107d)
+* [从ROS1到ROS2无人机编程实战指南](https://weread.qq.com/web/reader/8f0322c0813abbc34g01943d)
+* [小型无人机飞行控制系统原理与设计](https://weread.qq.com/web/reader/27b32740813abab13g019c5c)
+* [ROS 2机器人开发：从入门到实践](https://weread.qq.com/web/reader/d6b325c0813ab93c3g019189)
+
+
 
 可以。下面我以美国智能无人机/自主飞行系统工程师的视角，把 2026 年主流无人机开发体系从 编程语言 → 飞控 → ROS 2 → AI/视觉 → 通信 → 模拟器 → 真机 → 测试部署完整拆开。
 
