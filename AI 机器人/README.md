@@ -1,6 +1,18 @@
 * [一份 AI Robotics 第一个月逐日学习计划（Day 1–30）和 Ubuntu/ROS 2 安装命令及第一个 ROS 2 机器人项目完整代码结构](https://github.com/stevenli91748/AI/blob/master/AI%20%E6%9C%BA%E5%99%A8%E4%BA%BA/AI%20Robotics%20%E7%AC%AC%E4%B8%80%E4%B8%AA%E6%9C%88%E9%80%90%E6%97%A5%E5%AD%A6%E4%B9%A0%E8%AE%A1%E5%88%92%EF%BC%88Day%201%E2%80%9330%EF%BC%89.md)
 * [搭一套“完全在线的机器人 AI 开发环境”]()
 
+# 在线书籍
+* [大模型驱动的具身智能：架构、设计与实现](https://weread.qq.com/web/reader/03432e00813aba47fg012f64)
+* [人形机器人：从科幻走向现实](https://weread.qq.com/web/reader/090323b0813abbab7g016921)
+* [半小时讲透宇树机器人（轻科技）](https://weread.qq.com/web/reader/f7932390813abbecfg01712d)
+* [具身智能数据工程：标准、技术与实践指南](https://weread.qq.com/web/reader/c3232540813abaf7bg016a6d)
+* [机器人系统开发与优化：算法、感知与控制策略](https://weread.qq.com/web/reader/ba6327b0813abbba1g0111cf)
+* [机器人学基础（第3版）](https://weread.qq.com/web/reader/20032940813ab98d7g012cf6)
+* []()
+* []()
+* []()
+* []()
+
 # 博客
 
 
