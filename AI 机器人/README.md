@@ -8,7 +8,7 @@
 * [具身智能数据工程：标准、技术与实践指南](https://weread.qq.com/web/reader/c3232540813abaf7bg016a6d)
 * [机器人系统开发与优化：算法、感知与控制策略](https://weread.qq.com/web/reader/ba6327b0813abbba1g0111cf)
 * [机器人学基础（第3版）](https://weread.qq.com/web/reader/20032940813ab98d7g012cf6)
-* []()
+* [一本书讲透具身智能：技术、应用、商业与未来](https://weread.qq.com/web/reader/79132670813abbb2bg019790kc81322c012c81e728d9d180)
 * []()
 * []()
 * []()
