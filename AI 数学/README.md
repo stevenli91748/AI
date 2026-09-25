@@ -1,3 +1,14 @@
+
+# 在线书籍
+* [线性代数：数据科学实践与Python应用](https://weread.qq.com/web/reader/1df32610813abb57fg0180da)
+* [强化学习的数学原理（英文版）](https://weread.qq.com/web/reader/ea632db0813ab9fbag017ee3kecc32f3013eccbc87e4b62e)
+* [微积分之美：伟大定理和天才的数学思维](https://weread.qq.com/web/reader/9c732ae0813abbaf3g01399c)
+* [人工智能中的数学之美](https://weread.qq.com/web/reader/24e32470813abbc60g012f42)
+* []()
+* []()
+* []()
+
+# 博客
 * [程序员数学： 用Python学透线性代数和微分](https://weread.qq.com/web/reader/818320a0728a4acc8189214)  
 * [深入AI/大模型必修数学体系2026](https://www.itdjs.com/8639/html)
 * [强推！这绝对是全站最全的人工智能入门数学系列课程！一小时带你掌握机器学习必备的数学基础！微积分、线性代数、泰勒公式、方差、假设分析...等多个高等数学知识点！](https://www.bilibili.com/video/BV1XGUsYQEvs/?spm_id_from=333.337.search-card.all.click&vd_source=be3ac4894f8bf7883ae92030f6f7be46)
