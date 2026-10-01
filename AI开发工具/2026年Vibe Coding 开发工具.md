@@ -52,6 +52,8 @@
 * Devin---AI编程工具不需要人工频繁干预，可以独立完成复杂的编程任务
 * augment code
 * Claude Code	⭐⭐⭐⭐⭐	⭐⭐⭐⭐⭐	⭐⭐⭐⭐⭐	⭐⭐⭐⭐⭐	⭐⭐⭐⭐⭐	⭐⭐⭐⭐⭐	⭐⭐⭐⭐⭐
+  * 在线书籍
+    * [Claude Code橙皮书：AI编程实战](https://weread.qq.com/web/reader/2a132590813abbb26g019d57kc81322c012c81e728d9d180)  
   * [Claude Code详细安装教程 | 多种安装方式选择 | 小白教程 | 详细原理](https://www.youtube.com/watch?v=KvDRi5-YcCA) 
   * [Claude Cookbook--这是Anthropic官方提供的Claude使用技巧和代码示例集合，包含工具调用、RAG、分类、摘要、多模态等各种实用场景的教程，非常值得学习](https://platform.claude.com/cookbook/) 
   * [Claude Code免费用！超详细薅羊毛教程](https://adg.csdn.net/694cf4d95b9f5f31781aa7ef.html)
