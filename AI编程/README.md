@@ -12,9 +12,9 @@
   * [context（上下文工程)](https://weread.qq.com/web/reader/2a132590813abbb26g019d57kc51323901dc51ce410c121b)
   * harness（承载Claude Code运行的整个外部环境——CLAUDE.md、skill、hook、MCP、project结构都在这一层)
     * [CLAUDE.md](https://weread.qq.com/web/reader/2a132590813abbb26g019d57kc20321001cc20ad4d76f5ae)
-    * skill
-    * hook
-    * MCP
+    * skill （Markdown指令包，领域知识，可复用工作流）
+    * hook (shell 脚本钩子，格式化，LINT, 安全 )
+    * MCP (外部工具连接器，数据库，API，第三方工具)
       * 实用的MCP资源整合平台
         * 国内 
           * ModelScope MCP广场---阿里巴巴旗下的开源社区
