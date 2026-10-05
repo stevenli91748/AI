@@ -15,6 +15,17 @@
     * skill
     * hook
     * MCP
+      * 实用的MCP资源整合平台
+        * 国内 
+          * ModelScope MCP广场---阿里巴巴旗下的开源社区
+          * 阿里云百炼MCP
+          * 百度MCP广场
+          * 火山引擎MCP---字节跳动旗下的MCP平台
+        * 国外
+          *  MCP.so：这是由国内知名独立开发者idoubi（艾逗笔）开发的网站，是目前全球访问量较大的MCP资源整合平台之一，收录了大量MCP Server
+          *  Smithery.ai：这个平台的核心功能是Leaderboard
+          *  ·Anthropic官方仓库：前面介绍过，MCP是由Anthropic提出的，可想而知这个官方仓库的含金量。
+          *  ·Reddit的MCP子社区：Reddit是一个全球知名的社交新闻聚合与讨论平台，用户可根据自己的兴趣加入不同主题的子社区
     * project结构 
 * Rules
   * 实用的Rules资源平台
@@ -24,18 +35,6 @@
     * [知名的两个资源站 https://cursorlist.com/](https://cursorlist.com/)
     * Reddit
     * 稀土掘金
-* MCP
-  * 实用的MCP资源整合平台
-    * 国内 
-      * ModelScope MCP广场---阿里巴巴旗下的开源社区
-      * 阿里云百炼MCP
-      * 百度MCP广场
-      * 火山引擎MCP---字节跳动旗下的MCP平台
-    * 国外
-      *  MCP.so：这是由国内知名独立开发者idoubi（艾逗笔）开发的网站，是目前全球访问量较大的MCP资源整合平台之一，收录了大量MCP Server
-      *  Smithery.ai：这个平台的核心功能是Leaderboard
-      *  ·Anthropic官方仓库：前面介绍过，MCP是由Anthropic提出的，可想而知这个官方仓库的含金量。
-      *  ·Reddit的MCP子社区：Reddit是一个全球知名的社交新闻聚合与讨论平台，用户可根据自己的兴趣加入不同主题的子社区
 * 版本控制
   * [单机模式](https://weread.qq.com/web/reader/f9832840813abb79bg014e82kc20321001cc20ad4d76f5ae)
   * [联网模式](https://weread.qq.com/web/reader/f9832840813abb79bg014e82kc20321001cc20ad4d76f5ae)   
