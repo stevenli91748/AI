@@ -17,8 +17,9 @@
       * [skill （Markdown指令包，领域知识，可复用工作流，skill教ClaudeCode怎么做事）](https://weread.qq.com/web/reader/2a132590813abbb26g019d57k9bf32f301f9bf31c7ff0a60)
         * 知识型skill：告诉Claude Code“这个项目里的事情应该怎么做”​，比如API规范、编码风格、项目约定
         * 工作流型skill：告诉Claude Code“遇到特定任务按什么步骤执行”​，比如/fix-issue（修复bug的标准流程）​、/review-pr（代码审查流程）​。这类skill更像SOP（标准操作流程）​，有明确的步骤
-          和检查点 
-      * hook (shell 脚本钩子，格式化，LINT, 安全，hook在关键节点自动执行检查 )
+          和检查点
+          * 工作流型skill的关键配置：禁止自动触发:  disable-model-invocation: true
+      * [hook (shell 脚本钩子，格式化，LINT, 安全，hook在关键节点自动执行检查 )](https://weread.qq.com/web/reader/2a132590813abbb26g019d57k9bf32f301f9bf31c7ff0a60)
       * MCP (外部工具连接器，数据库，API，第三方工具，MCP把外面的世界接进来)
         * 实用的MCP资源整合平台
           * 国内 
