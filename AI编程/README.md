@@ -41,6 +41,8 @@
     * [知名的两个资源站 https://cursorlist.com/](https://cursorlist.com/)
     * Reddit
     * 稀土掘金
+* [plugin](https://weread.qq.com/web/reader/2a132590813abbb26g019d57k9bf32f301f9bf31c7ff0a60)
+* [Command](https://weread.qq.com/web/reader/2a132590813abbb26g019d57k9bf32f301f9bf31c7ff0a60)
 * 版本控制
   * [单机模式](https://weread.qq.com/web/reader/f9832840813abb79bg014e82kc20321001cc20ad4d76f5ae)
   * [联网模式](https://weread.qq.com/web/reader/f9832840813abb79bg014e82kc20321001cc20ad4d76f5ae)   
