@@ -5,10 +5,17 @@
 # 目录
 * AI 应用主流技术架构
   * [美国 AI 全栈应用主流技术架构（2026）]()
-* 提示词
-  * 系统提示词
-    * [system-prompts-and-models-of-ai-tools 例子](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools)  
-* 上下文工程
+* Harness工程的三层架构---prompt（提示词）​、context（上下文）​、harness（承载Claude Code运行的整个外部环境——CLAUDE.md、skill、hook、MCP、project结构都在这一层)
+  * 提示词工程
+    * 系统提示词
+      * [system-prompts-and-models-of-ai-tools 例子](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools)  
+  * [context（上下文工程)](https://weread.qq.com/web/reader/2a132590813abbb26g019d57kc51323901dc51ce410c121b)
+  * harness（承载Claude Code运行的整个外部环境——CLAUDE.md、skill、hook、MCP、project结构都在这一层)
+    * [CLAUDE.md](https://weread.qq.com/web/reader/2a132590813abbb26g019d57kc20321001cc20ad4d76f5ae)
+    * skill
+    * hook
+    * MCP
+    * project结构 
 * Rules
   * 实用的Rules资源平台
     * [这个项目收录了多技术领域的大量优质Rules Sample，包括但不限于前端框架和库、后端、移动开发、数据库、API，以及特定编程语言等](https://github.com/PatrickJS/awesome-cursorrules) 
