@@ -42,7 +42,7 @@
     * Reddit
     * 稀土掘金
 * [plugin](https://weread.qq.com/web/reader/2a132590813abbb26g019d57k9bf32f301f9bf31c7ff0a60)
-* [Command](https://weread.qq.com/web/reader/2a132590813abbb26g019d57k9bf32f301f9bf31c7ff0a60)
+* [Command--- Claude Code读取提示词之前，command先运行一些shell命令，把结果嵌入](https://weread.qq.com/web/reader/2a132590813abbb26g019d57k9bf32f301f9bf31c7ff0a60)
 * 版本控制
   * [单机模式](https://weread.qq.com/web/reader/f9832840813abb79bg014e82kc20321001cc20ad4d76f5ae)
   * [联网模式](https://weread.qq.com/web/reader/f9832840813abb79bg014e82kc20321001cc20ad4d76f5ae)   
