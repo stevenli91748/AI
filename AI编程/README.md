@@ -2,6 +2,7 @@
   * [英文软件开发教程系列](https://www.youtube.com/@BroCodez/courses)
   * [Markdown：大语言模型时代的通用语言](https://weread.qq.com/web/reader/750324c0813aba690g01140e)
   * [白话AI编程：从入门到实践](https://weread.qq.com/web/reader/f9832840813abb79bg014e82kc81322c012c81e728d9d180)
+  * [Claude Code橙皮书：AI编程实战](https://weread.qq.com/web/reader/2a132590813abbb26g019d57kc81322c012c81e728d9d180)
 # 目录
 * AI 应用主流技术架构
   * [美国 AI 全栈应用主流技术架构（2026）]()
@@ -10,22 +11,23 @@
     * 系统提示词
       * [system-prompts-and-models-of-ai-tools 例子](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools)  
   * [context（上下文工程)](https://weread.qq.com/web/reader/2a132590813abbb26g019d57kc51323901dc51ce410c121b)
-  * harness（承载Claude Code运行的整个外部环境——CLAUDE.md、skill、hook、MCP、project结构都在这一层)
+  * harness（承载Claude Code运行的整个外部环境——CLAUDE.md、skill、hook、MCP、project结构都在这一层,ClaudeCode提供了3种扩展机制，分别解决不同层面的问题。)
     * [CLAUDE.md](https://weread.qq.com/web/reader/2a132590813abbb26g019d57kc20321001cc20ad4d76f5ae)
-    * skill （Markdown指令包，领域知识，可复用工作流）
-    * hook (shell 脚本钩子，格式化，LINT, 安全 )
-    * MCP (外部工具连接器，数据库，API，第三方工具)
-      * 实用的MCP资源整合平台
-        * 国内 
-          * ModelScope MCP广场---阿里巴巴旗下的开源社区
-          * 阿里云百炼MCP
-          * 百度MCP广场
-          * 火山引擎MCP---字节跳动旗下的MCP平台
-        * 国外
-          *  MCP.so：这是由国内知名独立开发者idoubi（艾逗笔）开发的网站，是目前全球访问量较大的MCP资源整合平台之一，收录了大量MCP Server
-          *  Smithery.ai：这个平台的核心功能是Leaderboard
-          *  ·Anthropic官方仓库：前面介绍过，MCP是由Anthropic提出的，可想而知这个官方仓库的含金量。
-          *  ·Reddit的MCP子社区：Reddit是一个全球知名的社交新闻聚合与讨论平台，用户可根据自己的兴趣加入不同主题的子社区
+    * claude code的扩展能力---skill、hook与MCP这3种扩展机制，让Claude Code从一个终端工具变成一个可以无限生长的工作台
+      * [skill （Markdown指令包，领域知识，可复用工作流，skill教ClaudeCode怎么做事）](https://weread.qq.com/web/reader/2a132590813abbb26g019d57k9bf32f301f9bf31c7ff0a60)
+      * hook (shell 脚本钩子，格式化，LINT, 安全，hook在关键节点自动执行检查 )
+      * MCP (外部工具连接器，数据库，API，第三方工具，MCP把外面的世界接进来)
+        * 实用的MCP资源整合平台
+          * 国内 
+            * ModelScope MCP广场---阿里巴巴旗下的开源社区
+            * 阿里云百炼MCP
+            * 百度MCP广场
+            * 火山引擎MCP---字节跳动旗下的MCP平台
+          * 国外
+            *  MCP.so：这是由国内知名独立开发者idoubi（艾逗笔）开发的网站，是目前全球访问量较大的MCP资源整合平台之一，收录了大量MCP Server
+            *  Smithery.ai：这个平台的核心功能是Leaderboard
+            *  ·Anthropic官方仓库：前面介绍过，MCP是由Anthropic提出的，可想而知这个官方仓库的含金量。
+            *  ·Reddit的MCP子社区：Reddit是一个全球知名的社交新闻聚合与讨论平台，用户可根据自己的兴趣加入不同主题的子社区
     * project结构 
 * Rules
   * 实用的Rules资源平台
