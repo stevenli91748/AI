@@ -43,8 +43,11 @@
     * 稀土掘金
 * [plugin](https://weread.qq.com/web/reader/2a132590813abbb26g019d57k9bf32f301f9bf31c7ff0a60)
 * [Command--- Claude Code读取提示词之前，command先运行一些shell命令，把结果嵌入](https://weread.qq.com/web/reader/2a132590813abbb26g019d57k9bf32f301f9bf31c7ff0a60)
-* [worktree](https://weread.qq.com/web/reader/2a132590813abbb26g019d57kc7432af0210c74d97b01b1c)
-* [subagent](https://weread.qq.com/web/reader/2a132590813abbb26g019d57kc7432af0210c74d97b01b1c)
+* [worktree---worktree允许你手动管理多个并行智能体](https://weread.qq.com/web/reader/2a132590813abbb26g019d57kc7432af0210c74d97b01b1c)
+* [subagent---subagent可以为主智能体调用专家](https://weread.qq.com/web/reader/2a132590813abbb26g019d57kc7432af0210c74d97b01b1c)
+* [Agent Teams---多个智能体可以互相通信、协调分工](https://weread.qq.com/web/reader/2a132590813abbb26g019d57kc7432af0210c74d97b01b1c)
+* [ 远程控制](https://weread.qq.com/web/reader/2a132590813abbb26g019d57kc7432af0210c74d97b01b1c)
+* [ 异步执行](https://weread.qq.com/web/reader/2a132590813abbb26g019d57kc7432af0210c74d97b01b1c)
 * 版本控制
   * [单机模式](https://weread.qq.com/web/reader/f9832840813abb79bg014e82kc20321001cc20ad4d76f5ae)
   * [联网模式](https://weread.qq.com/web/reader/f9832840813abb79bg014e82kc20321001cc20ad4d76f5ae)   
