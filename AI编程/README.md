@@ -49,6 +49,7 @@
 * [Agent Teams---多个智能体可以互相通信、协调分工](https://weread.qq.com/web/reader/2a132590813abbb26g019d57kc7432af0210c74d97b01b1c)
 * [ 远程控制](https://weread.qq.com/web/reader/2a132590813abbb26g019d57kc7432af0210c74d97b01b1c)
 * [ 异步执行](https://weread.qq.com/web/reader/2a132590813abbb26g019d57kc7432af0210c74d97b01b1c)
+* [CLAUDE.md路由系统](https://weread.qq.com/web/reader/2a132590813abbb26g019d57kb6d32b90216b6d767d2f0dc)
 * 版本控制
   * [单机模式](https://weread.qq.com/web/reader/f9832840813abb79bg014e82kc20321001cc20ad4d76f5ae)
   * [联网模式](https://weread.qq.com/web/reader/f9832840813abb79bg014e82kc20321001cc20ad4d76f5ae)   
