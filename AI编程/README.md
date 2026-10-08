@@ -1,3 +1,4 @@
+**把时间花在构建context层和harness层上，而不是优化prompt层。**
 # 参考书
   * [英文软件开发教程系列](https://www.youtube.com/@BroCodez/courses)
   * [Markdown：大语言模型时代的通用语言](https://weread.qq.com/web/reader/750324c0813aba690g01140e)
@@ -5,8 +6,8 @@
   * [Claude Code橙皮书：AI编程实战](https://weread.qq.com/web/reader/2a132590813abbb26g019d57kc81322c012c81e728d9d180)
 # 目录
 * AI 应用主流技术架构
-  * [美国 AI 全栈应用主流技术架构（2026）]()
-* ClaudeCode的所有能力，其实可以归入3个层次，工程的三层架构---prompt（提示词）​、context（上下文）​、harness（承载Claude Code运行的整个外部环境——CLAUDE.md、skill、hook、MCP、project结构都在这一层)
+  * 美国 AI 全栈应用主流技术架构（2026）
+* ClaudeCode的所有能力，其实可以归入3个层次，工程的三层架构---prompt（提示词）​、context（上下文）​、harness（承载Claude Code运行的整个外部环境——CLAUDE.md、skill、hook、MCP、project结构都在这一层)，把时间花在构建context层和harness层上，而不是优化prompt层。
   * 提示词工程---  它有效，但每次都需要你手动输入，每次都从零开始
     * 系统提示词
       * [system-prompts-and-models-of-ai-tools 例子](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools)  
