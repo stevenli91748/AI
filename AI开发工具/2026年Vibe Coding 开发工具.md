@@ -53,7 +53,12 @@
 * augment code
 * Claude Code	⭐⭐⭐⭐⭐	⭐⭐⭐⭐⭐	⭐⭐⭐⭐⭐	⭐⭐⭐⭐⭐	⭐⭐⭐⭐⭐	⭐⭐⭐⭐⭐	⭐⭐⭐⭐⭐
   * 在线书籍
-    * [Claude Code橙皮书：AI编程实战](https://weread.qq.com/web/reader/2a132590813abbb26g019d57kc81322c012c81e728d9d180)  
+    * [Claude Code橙皮书：AI编程实战](https://weread.qq.com/web/reader/2a132590813abbb26g019d57kc81322c012c81e728d9d180)
+    * [Claude Code官方更新日志](https://code.claude.com/docs/en/changelog)
+    * [Anthropic Academy：十余门免费课程，内容覆盖基础到进阶](https://academy.claude.com/)
+    * [How Boris Cherny Uses Claude Code网站：汇集了BorisCherny在X上分享的使用经验](https://howborisusesclaudecode.com/#part-2/1)
+    * [How Anthropic Teams Use Claude Code 官方团队的真实工作流](https://claude.com/resources/articles/how-anthropic-teams-use-claude-code)
+    * []()
   * [Claude Code详细安装教程 | 多种安装方式选择 | 小白教程 | 详细原理](https://www.youtube.com/watch?v=KvDRi5-YcCA) 
   * [Claude Cookbook--这是Anthropic官方提供的Claude使用技巧和代码示例集合，包含工具调用、RAG、分类、摘要、多模态等各种实用场景的教程，非常值得学习](https://platform.claude.com/cookbook/) 
   * [Claude Code免费用！超详细薅羊毛教程](https://adg.csdn.net/694cf4d95b9f5f31781aa7ef.html)
