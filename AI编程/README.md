@@ -20,7 +20,7 @@
         * 工作流型skill：告诉Claude Code“遇到特定任务按什么步骤执行”​，比如/fix-issue（修复bug的标准流程）​、/review-pr（代码审查流程）​。这类skill更像SOP（标准操作流程）​，有明确的步骤
           和检查点
           * 工作流型skill的关键配置：禁止自动触发:  disable-model-invocation: true
-      * [hook (shell 脚本钩子，格式化，LINT, 安全，hook在关键节点自动执行检查,不是建议，是强制执行,CLAUDE.md是建议，hook是强制执行 )](https://weread.qq.com/web/reader/2a132590813abbb26g019d57k9bf32f301f9bf31c7ff0a60)
+      * [hook (shell 脚本钩子，格式化，LINT, 安全，hook在关键节点自动执行检查,不是建议，是强制执行,CLAUDE.md是建议，hook是强制执行,skill更像建议，Claude Code偶尔会忘。对于“绝不能忘”的事情，要用hook )](https://weread.qq.com/web/reader/2a132590813abbb26g019d57k9bf32f301f9bf31c7ff0a60)
       * [MCP (外部工具连接器，数据库，API，第三方工具，MCP把外面的世界接进来)](https://weread.qq.com/web/reader/2a132590813abbb26g019d57k9bf32f301f9bf31c7ff0a60)
         * 实用的MCP资源整合平台
           * 国内 
