@@ -54,6 +54,7 @@
 * Claude Code	⭐⭐⭐⭐⭐	⭐⭐⭐⭐⭐	⭐⭐⭐⭐⭐	⭐⭐⭐⭐⭐	⭐⭐⭐⭐⭐	⭐⭐⭐⭐⭐	⭐⭐⭐⭐⭐
   * 在线书籍
     * [Claude Code橙皮书：AI编程实战](https://weread.qq.com/web/reader/2a132590813abbb26g019d57kc81322c012c81e728d9d180)
+    * [Claude Code实战：Harness工程之道](https://weread.qq.com/web/reader/99032c10813abb996g010247)
     * [Claude Code官方更新日志](https://code.claude.com/docs/en/changelog)
     * [Anthropic Academy：十余门免费课程，内容覆盖基础到进阶](https://academy.claude.com/)
     * [How Boris Cherny Uses Claude Code网站：汇集了BorisCherny在X上分享的使用经验](https://howborisusesclaudecode.com/#part-2/1)
