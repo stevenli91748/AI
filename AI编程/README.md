@@ -13,7 +13,7 @@
       * [system-prompts-and-models-of-ai-tools 例子](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools)  
   * [context（上下文工程)---Claude Code在回答之前所“看到”的所有信息，包括CLAUDE.md文件、项目的文件结构、Git提交历史、package.json中的依赖列表等。这些信息不需要你每次重复提供，Claude Code会自动读取](https://weread.qq.com/web/reader/2a132590813abbb26g019d57kc51323901dc51ce410c121b)
   * harness（承载Claude Code运行的整个外部环境——CLAUDE.md、skill、hook、MCP、project结构都在这一层,ClaudeCode提供了3种扩展机制，分别解决不同层面的问题。：你搭建的自动化环境。skill把常用工作流封装成可复用的指令；hook让特定事件自动触发操作；MCP可以连接外部服务；Agent Teams让多个Claude Code智能体并行协作。这一层的特点是一旦搭建完成，就一直工作，不需要你每次手动触发)
-    * [CLAUDE.md](https://weread.qq.com/web/reader/2a132590813abbb26g019d57kc20321001cc20ad4d76f5ae)
+    * [CLAUDE.md---Claude Code 每次启动**新对话**时自动读取这个文件，你不需要每次手动喂](https://weread.qq.com/web/reader/2a132590813abbb26g019d57kc20321001cc20ad4d76f5ae)
     * claude code的扩展能力---skill、hook与MCP这3种扩展机制，让Claude Code从一个终端工具变成一个可以无限生长的工作台
       * [skill （Markdown指令包，领域知识，可复用工作流，skill教ClaudeCode怎么做事）](https://weread.qq.com/web/reader/2a132590813abbb26g019d57k9bf32f301f9bf31c7ff0a60)
         * 知识型skill：告诉Claude Code“这个项目里的事情应该怎么做”​，比如API规范、编码风格、项目约定
