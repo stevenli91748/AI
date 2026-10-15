@@ -42,6 +42,8 @@ LLM（Large Language Model，大型语言模型）、AIGC（AI Generated Content
 ![自然语言 LLM 学习路径](https://github.com/stevenli91748/AI/blob/master/%E8%87%AA%E7%84%B6%E8%AF%AD%E8%A8%80%E5%A4%84%E7%90%86%E5%AD%A6%E4%B9%A0%E8%B7%AF%E5%BE%84.png )
 
 # 在线书籍
+  * [2026 大神的书 2049：未来10000天的可能](https://weread.qq.com/web/reader/bdd325d0813aba18dg0142a8)
+  * [2026 大神的书 奇点更近：未来20年的人工智能神预测](https://weread.qq.com/web/reader/30932ba0813ab9615g012cce)
   * [神书  从零构建大型语言模型](https://www.scribd.com/document/763076237/%E4%BB%8E%E9%9B%B6%E6%9E%84%E5%BB%BA%E5%A4%A7%E8%AF%AD%E8%A8%80%E6%A8%A1%E5%9E%8B-%E4%B8%AD%E6%96%87%E7%89%88)
   * [白话AI编程：从入门到实践](https://weread.qq.com/web/reader/f9832840813abb79bg014e82)
 由于AI大模型的发展日新月异，所以选取的书籍基本都是新近出版的，而且尽量在较新的书籍中选择豆瓣评分高的。
