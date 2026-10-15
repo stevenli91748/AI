@@ -165,7 +165,8 @@ Python → FastAPI  → PostgreSQL → (OpenAI API or Anthropic API or Google Ge
     * [概率论与数理统计---宋浩老师](https://www.youtube.com/watch?v=YWhtvSq5bXs&list=PL4zrv2vhJAeBpl_spgWJZE9RvSsW8aZ7n)  
 
 # 在线书籍
-
+* [2026 大神的书 2049：未来10000天的可能](https://weread.qq.com/web/reader/bdd325d0813aba18dg0142a8)
+* [2026 大神的书 奇点更近：未来20年的人工智能神预测](https://weread.qq.com/web/reader/30932ba0813ab9615g012cce)
 * [3D视觉工坊](https://www.3dcver.com/)
 * [零基础AI入门指南](https://www.liaoxuefeng.com/article/1543329456062498)
 * [8个学习AI的网站（免费自学人工智能必备）](https://www.xue8nav.com/2090.html)
