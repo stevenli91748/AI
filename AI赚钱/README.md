@@ -1,3 +1,4 @@
+* [【停止内耗】失业宅家靠GPT 4o薅羊毛，三年存款80w](https://www.youtube.com/watch?v=BFQUAaTdMDA)
 * [梧桐小讲堂---搭建赚钱的跨境独立站](https://www.youtube.com/@wutongtalks/playlists)
 * [用AI赚钱最懒的方法（新手适用）](https://www.youtube.com/watch?v=ytAW1_g2IfI)
 * [个人开发者如何进行全球收款，无需公司主体❤️](https://www.youtube.com/watch?v=qna0s5B6tsk)
