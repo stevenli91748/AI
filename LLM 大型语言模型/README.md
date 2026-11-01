@@ -161,8 +161,8 @@ AI大模型
 
 # 博客
 
-[datacamp --- online AI course learning](https://www.datacamp.com/category/programming?page=1)|
----|
+[datacamp --- online AI course learning](https://www.datacamp.com/category/programming?page=1)|[大模型学习路线：从零入门大模型应用开发](https://notes.kamacoder.com/llm/#%E8%BF%99%E4%B8%AA%E4%B8%93%E6%A0%8F%E8%AE%B2%E4%BB%80%E4%B9%88)|
+---|---|
 
 [白白说大模型](https://www.youtube.com/@%E7%99%BD%E7%99%BD%E8%AF%B4%E5%A4%A7%E6%A8%A1%E5%9E%8B)|[马克的技术工作坊](https://www.youtube.com/@%E9%A9%AC%E5%85%8B%E7%9A%84%E6%8A%80%E6%9C%AF%E5%B7%A5%E4%BD%9C%E5%9D%8A)|[AI超元域](https://www.youtube.com/@AIsuperdomain)|[code秘密花园](https://www.youtube.com/@garden-conard)|[AI随风](https://www.youtube.com/@AI%E9%9A%8F%E9%A3%8E)|[AI大模型应用开发](https://www.youtube.com/@AI%E5%A4%A7%E6%A8%A1%E5%9E%8B%E5%BA%94%E7%94%A8%E5%BC%80%E5%8F%91/videos)|[技术爬爬虾](https://www.youtube.com/@tech-shrimp)|[李厂长来了](https://www.youtube.com/@lichangzhanglaile/videos)|[Gary Chen](https://www.youtube.com/@garychenai/videos)|
 ---|---|---|---|---|---|---|---|---|
