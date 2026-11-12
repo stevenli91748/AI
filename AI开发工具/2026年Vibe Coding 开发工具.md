@@ -60,6 +60,7 @@
     * [How Boris Cherny Uses Claude Code网站：汇集了BorisCherny在X上分享的使用经验](https://howborisusesclaudecode.com/#part-2/1)
     * [How Anthropic Teams Use Claude Code 官方团队的真实工作流](https://claude.com/resources/articles/how-anthropic-teams-use-claude-code)
     * []()
+  * [从入门到Agent大神：31个Claude Code技巧，让你的开发效率起飞](https://www.53ai.com/news/tishicijiqiao/2026020682035.html)
   * [Claude Code 官方教程](https://code.claude.com/docs/zh-CN/overview)
   * [Claude Code详细安装教程 | 多种安装方式选择 | 小白教程 | 详细原理](https://www.youtube.com/watch?v=KvDRi5-YcCA) 
   * [Claude Cookbook--这是Anthropic官方提供的Claude使用技巧和代码示例集合，包含工具调用、RAG、分类、摘要、多模态等各种实用场景的教程，非常值得学习](https://platform.claude.com/cookbook/) 
