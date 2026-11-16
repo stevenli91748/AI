@@ -1,10 +1,10 @@
 
-[]()|
+
 ---|
 
 * 按照2026美国现在的企业开发方式学习，我建议你的技术路线直接变成：
 
-Next.js → FastAPI → PostgreSQL → LLM API → RAG → Tool Calling → MCP → Skills → Agent → Workflow → LangGraph → Production
+Next.js → [FastAPI](https://github.com/stevenli91748/AI/blob/master/AI%E5%BC%80%E5%8F%91%E5%B7%A5%E5%85%B7/FastAPI.md) → PostgreSQL → LLM API → RAG → Tool Calling → MCP → Skills → Agent → Workflow → LangGraph → Production
 
 这比单纯学习“LangChain Agent”更符合现在的企业 AI Application 架构方向。
 
